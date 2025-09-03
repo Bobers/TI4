@@ -1,0 +1,36 @@
+import type { Planet } from '../types';
+
+export const planets: Planet[] = [
+  { "name": "Mecatol Rex", "resources": 1, "influence": 6, "trait": null, "tech": null, "type": "Planet", "system": 18, "expansion": "Core" },
+  { "name": "Abyz", "resources": 3, "influence": 0, "trait": "Hazardous", "tech": null, "type": "Planet", "system": 3, "expansion": "Core" },
+  { "name": "Fria", "resources": 2, "influence": 0, "trait": "Hazardous", "tech": null, "type": "Planet", "system": 3, "expansion": "Core" },
+  { "name": "Arinam", "resources": 1, "influence": 2, "trait": "Industrial", "tech": null, "type": "Planet", "system": 2, "expansion": "Core" },
+  { "name": "Meer", "resources": 0, "influence": 4, "trait": "Hazardous", "tech": "Warfare", "type": "Planet", "system": 2, "expansion": "Core" },
+  { "name": "Arnor", "resources": 2, "influence": 1, "trait": "Industrial", "tech": null, "type": "Planet", "system": 6, "expansion": "Core" },
+  { "name": "Lor", "resources": 1, "influence": 2, "trait": "Industrial", "tech": null, "type": "Planet", "system": 6, "expansion": "Core" },
+  { "name": "Bereg", "resources": 3, "influence": 1, "trait": "Hazardous", "tech": null, "type": "Planet", "system": 11, "expansion": "Core" },
+  { "name": "Lirta IV", "resources": 2, "influence": 3, "trait": "Hazardous", "tech": null, "type": "Planet", "system": 11, "expansion": "Core" },
+  { "name": "Centauri", "resources": 1, "influence": 3, "trait": "Cultural", "tech": null, "type": "Planet", "system": 9, "expansion": "Core" },
+  { "name": "Gral", "resources": 1, "influence": 1, "trait": "Industrial", "tech": "Propulsion", "type": "Planet", "system": 9, "expansion": "Core" },
+  { "name": "Coorneeq", "resources": 1, "influence": 2, "trait": "Cultural", "tech": null, "type": "Planet", "system": 13, "expansion": "Core" },
+  { "name": "Resculon", "resources": 2, "influence": 0, "trait": "Cultural", "tech": null, "type": "Planet", "system": 13, "expansion": "Core" },
+  { "name": "Dal Bootha", "resources": 0, "influence": 2, "trait": "Cultural", "tech": null, "type": "Planet", "system": 15, "expansion": "Core" },
+  { "name": "Xxehan", "resources": 1, "influence": 1, "trait": "Cultural", "tech": null, "type": "Planet", "system": 15, "expansion": "Core" },
+  { "name": "Jord", "resources": 4, "influence": 2, "trait": null, "tech": null, "type": "Planet", "system": 1, "expansion": "Core" },
+  { "name": "Creuss", "resources": 4, "influence": 2, "trait": null, "tech": null, "type": "Planet", "system": 17, "expansion": "Core" },
+  { "name": "Hercant", "resources": 3, "influence": 1, "trait": null, "tech": null, "type": "Planet", "system": 5, "expansion": "Core" },
+  { "name": "Arretze", "resources": 2, "influence": 0, "trait": null, "tech": null, "type": "Planet", "system": 5, "expansion": "Core" },
+  // FIX: Corrected an invalid property definition for the 'type' field.
+  { "name": "Kamdorn", "resources": 1, "influence": 1, "trait": null, "tech": null, "type": "Planet", "system": 5, "expansion": "Core" },
+  { "name": "Nestphar", "resources": 3, "influence": 2, "trait": null, "tech": null, "type": "Planet", "system": 10, "expansion": "Core" },
+  { "name": "Archon Vail", "resources": 1, "influence": 3, "trait": null, "tech": null, "type": "Planet", "system": 14, "expansion": "Core" },
+  { "name": "Quann", "resources": 2, "influence": 1, "trait": null, "tech": null, "type": "Planet", "system": 14, "expansion": "Core" },
+  { "name": "Lazar", "resources": 1, "influence": 0, "trait": "Industrial", "tech": "Cybernetic", "type": "Planet", "system": 4, "expansion": "Core" },
+  { "name": "Sakulag", "resources": 2, "influence": 1, "trait": "Hazardous", "tech": null, "type": "Planet", "system": 4, "expansion": "Core" },
+  { "name": "Moll Primus", "resources": 4, "influence": 1, "trait": null, "tech": null, "type": "Planet", "system": 8, "expansion": "Core" },
+  { "name": "Mordai II", "resources": 4, "influence": 0, "trait": null, "tech": null, "type": "Planet", "system": 12, "expansion": "Core" },
+  { "name": "Maaluuk", "resources": 0, "influence": 2, "trait": "Cultural", "tech": null, "type": "Planet", "system": 7, "expansion": "Core" },
+  { "name": "Druaa", "resources": 3, "influence": 1, "trait": "Cultural", "tech": null, "type": "Planet", "system": 7, "expansion": "Core" },
+  { "name": "Hope's End", "resources": 3, "influence": 0, "trait": "Hazardous", "tech": null, "type": "Planet", "system": 26, "expansion": "Core" },
+  { "name": "Primor", "resources": 2, "influence": 1, "trait": "Cultural", "tech": null, "type": "Planet", "system": 25, "expansion": "Core" }
+];

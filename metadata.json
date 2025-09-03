@@ -1,0 +1,5 @@
+{
+  "name": "Twilight Imperium RuleMaster AI",
+  "description": "An AI-powered chatbot that analyzes the provided Twilight Imperium 4th Edition rulebooks and answers user questions based on the game's comprehensive rules.",
+  "requestFramePermissions": []
+}

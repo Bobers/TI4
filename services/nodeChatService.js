@@ -236,19 +236,25 @@ The first player to accumulate **10 Victory Points** wins the game immediately.
 The Ghosts of Creuss are a unique faction focused on **wormhole manipulation** and mobility.
 
 **Faction Abilities:**
-• **Quantum Entanglement** - You treat all systems that contain a wormhole token as adjacent
-• **Creuss Gate** - Your home system has a special wormhole that connects to the Creuss Gate token
-• **Slipstream** - After you activate a system containing a wormhole, you may produce ships there
+• **Quantum Entanglement** - You treat all systems that contain either an alpha or beta wormhole as adjacent to each other
+• **Slipstream** - After you activate a system that contains either an alpha or beta wormhole, place 1 of your ships from your reinforcements in that system
+• **Creuss Gate** - Your home system has a delta wormhole; the Creuss Gate system tile is placed in or adjacent to other players' home systems
 
-**Key Units:**
-• **Prototype War Sun I** - A cheaper War Sun that starts damaged
-• **Dimensional Splicer I** - A cruiser that can create wormhole tokens
+**Starting Technology:**
+• **Gravity Drive** - +1 movement to all ships
+
+**Faction Technologies:**
+• **Dimensional Splicer** - When you activate a system, you may remove 1 token from your fleet pool and return it to your reinforcements to place or move a Creuss wormhole token
+• **Wormhole Generator** - At the start of the status phase, place or move a Creuss wormhole token to a system that contains a planet you control
+
+**Unique Units:**
+• **Hil Colish** (flagship) - Movement 1, Combat 5(x2), Capacity 3; This ship's system contains a delta wormhole
 
 **Strategy:**
-• Use your wormhole mobility to strike unexpected targets
-• The Creuss Gate gives you a "backdoor" into the galaxy
-• Focus on controlling key wormhole systems
-• Your mobility makes you excellent at hit-and-run tactics`;
+• Use wormhole mobility to strike anywhere on the map
+• The Creuss Gate provides unique access to distant areas
+• Control key wormhole systems for maximum flexibility
+• Your mobility makes you excellent at objectives requiring presence in multiple areas`;
     }
     
     return `I couldn't find specific rules about "${query}" in my database. Could you rephrase your question or ask about something else? 

@@ -3,13 +3,25 @@ import { createClient } from '@supabase/supabase-js'
 const supabaseUrl = import.meta.env.VITE_SUPABASE_URL
 const supabaseAnonKey = import.meta.env.VITE_SUPABASE_ANON_KEY
 
-if (!supabaseUrl || !supabaseAnonKey) {
-  console.error('Supabase configuration missing!', {
-    url: supabaseUrl ? 'Set' : 'Missing',
-    key: supabaseAnonKey ? 'Set' : 'Missing',
-    env: import.meta.env
+console.log('Environment check:', {
+  VITE_SUPABASE_URL: import.meta.env.VITE_SUPABASE_URL,
+  VITE_SUPABASE_ANON_KEY: import.meta.env.VITE_SUPABASE_ANON_KEY ? 'Set (hidden)' : 'Missing',
+  BASE_URL: import.meta.env.BASE_URL,
+  MODE: import.meta.env.MODE,
+  PROD: import.meta.env.PROD
+})
+
+if (!supabaseUrl || supabaseUrl === 'undefined' || supabaseUrl.includes('vercel.app')) {
+  console.error('Invalid Supabase URL configuration!', {
+    url: supabaseUrl,
+    allEnvKeys: Object.keys(import.meta.env)
   })
-  throw new Error('Please set VITE_SUPABASE_URL and VITE_SUPABASE_ANON_KEY environment variables')
+  throw new Error('VITE_SUPABASE_URL is not properly configured in Vercel environment variables')
+}
+
+if (!supabaseAnonKey || supabaseAnonKey === 'undefined') {
+  console.error('Invalid Supabase Anon Key configuration!')
+  throw new Error('VITE_SUPABASE_ANON_KEY is not properly configured in Vercel environment variables')
 }
 
 export const supabase = createClient(supabaseUrl, supabaseAnonKey)

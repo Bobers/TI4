@@ -81,6 +81,14 @@ const App: React.FC = () => {
 
   return (
     <div className="min-h-screen bg-gray-900 text-gray-100 flex flex-col items-center p-4 bg-cover bg-center" style={{backgroundImage: "url('https://picsum.photos/1920/1080?grayscale&blur=2')"}}>
+      {/* Version tracker */}
+      <div className="fixed top-4 left-4 z-10">
+        <div className="bg-black/50 backdrop-blur-sm px-3 py-1 rounded-lg border border-cyan-500/30">
+          <span className="text-xs text-cyan-300 font-mono">v2.0.0</span>
+          <span className="text-xs text-gray-400 ml-2">FAQ Enhanced</span>
+        </div>
+      </div>
+
       <header className="w-full max-w-4xl mb-4 text-center">
         <div className="flex items-center justify-center gap-4 relative">
           <GalaxyIcon className="w-12 h-12 text-cyan-400" />

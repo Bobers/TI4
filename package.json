@@ -6,12 +6,17 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "test": "node scripts/testSupabaseIntegration.js",
+    "test:faq": "node scripts/testFAQIntegration.js",
+    "test:chat": "node scripts/testChatService.js",
+    "test:all": "npm run test && npm run test:faq"
   },
   "dependencies": {
     "@google/genai": "^1.16.0",
     "@supabase/supabase-js": "^2.57.0",
     "@xenova/transformers": "^2.17.2",
+    "dotenv": "^17.2.2",
     "react": "^19.1.1",
     "react-dom": "^19.1.1"
   },

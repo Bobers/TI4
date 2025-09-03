@@ -1,13 +1,16 @@
 # Twilight Imperium RuleMaster AI
 
-A conversational AI assistant for Twilight Imperium 4th Edition rules. Built with TypeScript, React, and Google's Gemini AI.
+A conversational AI assistant for Twilight Imperium 4th Edition rules. Built with TypeScript, React, and Supabase vector database.
+
+> **Status**: Production-ready with Supabase vector database integration
 
 ## Features
 
 - **Complete Rules Database**: Contains all rules from the base game, Prophecy of Kings expansion, and all Codex updates
 - **AI-powered Chat**: Ask any question about TI4 rules and get accurate, context-aware answers
-- **Galactic Codex**: Browse all game components, factions, technologies, and more
-- **Intelligent Search**: Advanced RAG (Retrieval-Augmented Generation) system for finding relevant rules
+- **Galactic Codex**: Browse all game components, factions, technologies, and more  
+- **Vector Search**: Advanced semantic search using embeddings for finding relevant rules
+- **Official FAQ Integration**: Prioritizes official FAQ rulings over general rules
 - **100+ Rule Sections**: Comprehensive coverage of all game mechanics
 - **25 Factions**: Complete faction abilities, units, and special rules
 - **All Components**: Action cards, agendas, objectives, technologies, and more
@@ -21,12 +24,13 @@ A conversational AI assistant for Twilight Imperium 4th Edition rules. Built wit
    npm install
    ```
 
-2. **Configure API key**:
-   - Copy `.env.example` to `.env`
-   - Get a Gemini API key from https://makersuite.google.com/app/apikey
-   - Add your API key to the `.env` file:
+2. **Configure environment variables**:
+   - Copy `.env.example` to `.env.local`
+   - Add your Supabase configuration:
      ```
-     VITE_API_KEY=your_actual_api_key_here
+     VITE_SUPABASE_URL=your-supabase-project-url
+     VITE_SUPABASE_ANON_KEY=your-supabase-anon-key
+     SUPABASE_SERVICE_KEY=your-supabase-service-key
      ```
 
 3. **Run the development server**:
@@ -40,8 +44,9 @@ A conversational AI assistant for Twilight Imperium 4th Edition rules. Built wit
 ## Architecture
 
 - **Frontend**: React with TypeScript and Tailwind CSS
-- **AI Service**: Google Gemini 2.5 Flash with custom RAG implementation
-- **Rules Database**: Complete rulebook data converted from PHP source files
+- **Vector Database**: Supabase PostgreSQL with vector embeddings
+- **AI Search**: Transformers.js with all-MiniLM-L6-v2 embeddings model
+- **Rules Database**: 503 vector entries from complete rulebook and official FAQ
 - **Component Data**: Structured data for all game components, factions, and cards
 
 ## Data Sources

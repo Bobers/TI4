@@ -1,3 +1,4 @@
+import { supabase, type VectorEntry } from '../lib/supabase';
 import { pipeline, env } from '@xenova/transformers';
 
 // Configure Transformers.js for client-side use
@@ -7,30 +8,13 @@ env.useBrowserCache = true;
 // Lightweight model for client-side embeddings
 const MODEL_NAME = 'Xenova/all-MiniLM-L6-v2';
 
-export interface VectorEntry {
-  id?: string;
-  section?: string;
-  category: string;
-  title?: string;
-  content?: string;
-  text?: string;
-  keywords?: string[];
-  embedding: number[];
-  references?: string[];
-  // FAQ-specific fields
-  source?: string;
-  question?: string;
-  answer?: string;
-  type?: string;
-}
-
 export interface SearchResult {
   entry: VectorEntry;
   score: number;
   snippet: string;
 }
 
-class ClientVectorService {
+class SupabaseVectorService {
   private entries: VectorEntry[] = [];
   private extractor: any = null;
   private initialized = false;
@@ -39,20 +23,26 @@ class ClientVectorService {
     if (this.initialized) return;
 
     try {
-      console.log('🔄 Loading vector database...');
+      console.log('🔄 Loading vector database from Supabase...');
       
-      // Load pre-computed embeddings
-      const response = await fetch('/vectorEntries.json');
-      if (!response.ok) {
-        throw new Error('Failed to load vector database');
+      // Load vector entries from Supabase
+      const { data: entries, error } = await supabase
+        .from('vector_entries')
+        .select('*')
+        .order('id');
+
+      if (error) {
+        console.error('Supabase error:', error);
+        throw new Error(`Failed to load vector database: ${error.message}`);
       }
+
+      if (!entries || entries.length === 0) {
+        throw new Error('No vector entries found in database');
+      }
+
+      this.entries = entries;
       
-      this.entries = await response.json();
-      
-      // Filter out entries without embeddings
-      this.entries = this.entries.filter(e => e.embedding && e.embedding.length > 0);
-      
-      console.log(`✅ Loaded ${this.entries.length} vector entries`);
+      console.log(`✅ Loaded ${this.entries.length} vector entries from Supabase`);
       
       // Initialize the embedding model for queries
       console.log('🔄 Loading embedding model...');
@@ -61,7 +51,7 @@ class ClientVectorService {
       
       this.initialized = true;
     } catch (error) {
-      console.error('Failed to initialize vector service:', error);
+      console.error('Failed to initialize Supabase vector service:', error);
       throw error;
     }
   }
@@ -169,68 +159,21 @@ class ClientVectorService {
       }
     }
     
-    // Extract snippet
+    // Create snippet
     let snippet = content.substring(bestStart, bestStart + maxLength);
     
-    // Clean up edges
-    if (bestStart > 0) {
-      snippet = '...' + snippet.substring(snippet.indexOf(' ') + 1);
-    }
-    if (bestStart + maxLength < content.length) {
-      snippet = snippet.substring(0, snippet.lastIndexOf(' ')) + '...';
+    // Try to end at a word boundary
+    const lastSpace = snippet.lastIndexOf(' ');
+    if (lastSpace > maxLength * 0.8) {
+      snippet = snippet.substring(0, lastSpace);
     }
     
-    return snippet;
-  }
-
-  // Get related entries based on an existing entry
-  async getRelated(entryId: string, limit: number = 3): Promise<SearchResult[]> {
-    if (!this.initialized) {
-      await this.initialize();
-    }
+    // Add ellipsis if needed
+    if (bestStart > 0) snippet = '...' + snippet;
+    if (bestStart + maxLength < content.length) snippet = snippet + '...';
     
-    const entry = this.entries.find(e => e.id === entryId);
-    if (!entry) {
-      return [];
-    }
-    
-    const results: SearchResult[] = [];
-    
-    for (const other of this.entries) {
-      if (other.id === entryId) continue;
-      
-      const score = this.cosineSimilarity(entry.embedding, other.embedding);
-      
-      results.push({
-        entry: other,
-        score,
-        snippet: other.content.substring(0, 150) + '...'
-      });
-    }
-    
-    results.sort((a, b) => b.score - a.score);
-    return results.slice(0, limit);
-  }
-
-  // Search with category filter
-  async searchByCategory(query: string, category: string, limit: number = 5): Promise<SearchResult[]> {
-    const allResults = await this.search(query, this.entries.length);
-    const filtered = allResults.filter(r => r.entry.category === category);
-    return filtered.slice(0, limit);
-  }
-
-  // Get all unique categories
-  getCategories(): string[] {
-    const categories = new Set(this.entries.map(e => e.category));
-    return Array.from(categories).sort();
-  }
-
-  // Get all unique sections
-  getSections(): string[] {
-    const sections = new Set(this.entries.map(e => e.section));
-    return Array.from(sections).sort();
+    return snippet.trim();
   }
 }
 
-export const vectorService = new ClientVectorService();
-export default vectorService;
+export const supabaseVectorService = new SupabaseVectorService();

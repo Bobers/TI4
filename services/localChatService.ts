@@ -1,4 +1,4 @@
-import { vectorService } from './clientVectorService';
+import { supabaseVectorService as vectorService } from './supabaseVectorService';
 import type { ChatMessage } from '../types';
 
 interface RuleContext {

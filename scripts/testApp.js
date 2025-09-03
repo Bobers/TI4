@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
-import { localChatService } from '../services/localChatService.js';
-import { vectorService } from '../services/clientVectorService.js';
+import { localChatService } from '../services/nodeChatService.js';
+import { vectorService } from '../services/nodeVectorService.js';
 
 console.log('🧪 Testing TI4 App Components...\n');
 

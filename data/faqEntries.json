@@ -1,0 +1,1946 @@
+[
+  {
+    "category": "General",
+    "question": "Are the “0” faces of the ten-sided dice included with the game intended to represent the result of a “10”?",
+    "answer": "Yes, the “0” face is a “10” result. Commodities",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Are the “0” faces of the ten-sided dice included with the game intended to represent the result of a “10”? Answer: Yes, the “0” face is a “10” result. Commodities",
+    "title": "Are the “0” faces of the ten-sided dice included with the game intended to represent the result of a..."
+  },
+  {
+    "category": "General",
+    "question": "At the start of the game, do players begin with commodities listed on the faction sheet?",
+    "answer": "No",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: At the start of the game, do players begin with commodities listed on the faction sheet? Answer: No",
+    "title": "At the start of the game, do players begin with commodities listed on the faction sheet?"
+  },
+  {
+    "category": "General - Strategy Card - Trade",
+    "question": "When the player resolving the “Trade” strategy card selects another player to resolve the “Trade” secondary ability for free, does the player resolving the effect for free do so during the execution of the primary ability or the secondary ability?",
+    "answer": "They must resolve this effect during the resolution of the secondary ability as normal, but they do not have to spend a command token to do so Trade Agreement",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: When the player resolving the “Trade” strategy card selects another player to resolve the “Trade” secondary ability for free, does the player resolving the effect for free do so during the execution of the primary ability or the secondary ability? Answer: They must resolve this effect during the resolution of the secondary ability as normal, but they do not have to spend a command token to do so Trade Agreement",
+    "title": "When the player resolving the “Trade” strategy card selects another player to resolve the “Trade” se..."
+  },
+  {
+    "category": "General - Strategy Card - Trade",
+    "question": "If a player would refresh their commodities but already has the maximum amount, can another player still play that player’s “Trade Agreement” promissory note against them?",
+    "answer": "Yes. Even if that player gains zero commodities when their commodities are refreshed, their “Trade Agreement” may still be played against them Unit Transportation",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: If a player would refresh their commodities but already has the maximum amount, can another player still play that player’s “Trade Agreement” promissory note against them? Answer: Yes. Even if that player gains zero commodities when their commodities are refreshed, their “Trade Agreement” may still be played against them Unit Transportation",
+    "title": "If a player would refresh their commodities but already has the maximum amount, can another player s..."
+  },
+  {
+    "category": "General - Strategy Card - Trade",
+    "question": "Can units be picked up and transported off of planets when using abilities that move ships such as the \"Skilled Retreat\" action card or \"Foresight\" faction ability?",
+    "answer": "Yes. Any effect that moves a ship allows that ship to transport units in its system if it has available capacity. Impossible Combats",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can units be picked up and transported off of planets when using abilities that move ships such as the \"Skilled Retreat\" action card or \"Foresight\" faction ability? Answer: Yes. Any effect that moves a ship allows that ship to transport units in its system if it has available capacity. Impossible Combats",
+    "title": "Can units be picked up and transported off of planets when using abilities that move ships such as t..."
+  },
+  {
+    "category": "General - Strategy Card - Trade",
+    "question": "How should a space combat be resolved if it is mathematically impossible for either side to win—for example, certain configurations of ships using the “Non-Euclidean Shielding” and “Duranium Armor” technologies in concert?",
+    "answer": "If neither side has the potential to win, the attacker must retreat. If they cannot retreat, their units in the combat are destroyed. Hidden Information",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: How should a space combat be resolved if it is mathematically impossible for either side to win—for example, certain configurations of ships using the “Non-Euclidean Shielding” and “Duranium Armor” technologies in concert? Answer: If neither side has the potential to win, the attacker must retreat. If they cannot retreat, their units in the combat are destroyed. Hidden Information",
+    "title": "How should a space combat be resolved if it is mathematically impossible for either side to win—for ..."
+  },
+  {
+    "category": "General - Strategy Card - Trade",
+    "question": "Can you intentionally reveal hidden information to another player, such as an action card from your hand or your secret objective?",
+    "answer": "Yes. This information is hidden by default but may be revealed to another player if desired Transacted Component Timing",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can you intentionally reveal hidden information to another player, such as an action card from your hand or your secret objective? Answer: Yes. This information is hidden by default but may be revealed to another player if desired Transacted Component Timing",
+    "title": "Can you intentionally reveal hidden information to another player, such as an action card from your ..."
+  },
+  {
+    "category": "General - Strategy Card - Trade",
+    "question": "Can a card (such as a promissory note) with a specified timing of a certain window that is acquired from a transaction during that window be played immediately?",
+    "answer": "Yes. For example, a promissory note with “At the start of your turn:” timing may be immediately played if the transaction occurred within the “start of turn” timing window",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can a card (such as a promissory note) with a specified timing of a certain window that is acquired from a transaction during that window be played immediately? Answer: Yes. For example, a promissory note with “At the start of your turn:” timing may be immediately played if the transaction occurred within the “start of turn” timing window",
+    "title": "Can a card (such as a promissory note) with a specified timing of a certain window that is acquired ..."
+  },
+  {
+    "category": "General - Strategy Card - Trade - Technology - Neural Motivator",
+    "question": "Does the “Neural Motivator” technology give an additional action card for both the standard status phase draw as well as the “Minister of Policy” agenda? What about the Yssaril’s “Scheming” faction ability?",
+    "answer": "No. “Neural Motivator” gives only one action card in addition to the standard status phase draw. It is not triggered additional times by other abilities. The Yssaril’s “Schemeing” ability, however, is triggered each time that action cards are drawn. Hyperlanes",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Does the “Neural Motivator” technology give an additional action card for both the standard status phase draw as well as the “Minister of Policy” agenda? What about the Yssaril’s “Scheming” faction ability? Answer: No. “Neural Motivator” gives only one action card in addition to the standard status phase draw. It is not triggered additional times by other abilities. The Yssaril’s “Schemeing” ability, however, is triggered each time that action cards are drawn. Hyperlanes",
+    "title": "Does the “Neural Motivator” technology give an additional action card for both the standard status p..."
+  },
+  {
+    "category": "General - Strategy Card - Trade - Technology - Neural Motivator",
+    "question": "In maps utilizing hyperlanes (e.g. 5p map), what counts as the edge of the game board?",
+    "answer": "Intention is that one of the edges of a system tile does not touch another system tile OR hyperlane tile in order to be considered on the edge of the board. Moving Into Systems",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: In maps utilizing hyperlanes (e.g. 5p map), what counts as the edge of the game board? Answer: Intention is that one of the edges of a system tile does not touch another system tile OR hyperlane tile in order to be considered on the edge of the board. Moving Into Systems",
+    "title": "In maps utilizing hyperlanes (e.g. 5p map), what counts as the edge of the game board?"
+  },
+  {
+    "category": "General - Strategy Card - Trade - Technology - Neural Motivator",
+    "question": "When ships move, do they move “into” systems other than the destination system?",
+    "answer": "Only the destination system is considered moved “into,” other systems are moved “through.” Passing",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: When ships move, do they move “into” systems other than the destination system? Answer: Only the destination system is considered moved “into,” other systems are moved “through.” Passing",
+    "title": "When ships move, do they move “into” systems other than the destination system?"
+  },
+  {
+    "category": "General - Strategy Card - Trade - Technology - Neural Motivator",
+    "question": "Can you resolve end of turn abilities on the turn you pass?",
+    "answer": "Yes. Excess Fighters/Infantry",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can you resolve end of turn abilities on the turn you pass? Answer: Yes. Excess Fighters/Infantry",
+    "title": "Can you resolve end of turn abilities on the turn you pass?"
+  },
+  {
+    "category": "General - Strategy Card - Trade - Technology - Neural Motivator",
+    "question": "When you exceed the number of plastic infantry/fighters available, are unaccompanied tokens removed or destroyed?",
+    "answer": "Removed. Timing",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: When you exceed the number of plastic infantry/fighters available, are unaccompanied tokens removed or destroyed? Answer: Removed. Timing",
+    "title": "When you exceed the number of plastic infantry/fighters available, are unaccompanied tokens removed ..."
+  },
+  {
+    "category": "General - Strategy Card - Trade - Technology - Neural Motivator",
+    "question": "In regards to timing, is “after x” distinct from “before y” or are they the same timing?",
+    "answer": "They are distinct. “After x” happens before “before y”",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: In regards to timing, is “after x” distinct from “before y” or are they the same timing? Answer: They are distinct. “After x” happens before “before y”",
+    "title": "In regards to timing, is “after x” distinct from “before y” or are they the same timing?"
+  },
+  {
+    "category": "General - Strategy Card - Trade - Technology - Neural Motivator - Path of Movement",
+    "question": "How does “moving through wormholes” work exactly? Specifically for the Ghosts of Creuss commander or the Ion Storm. Do you choose the path you take to move if multiple paths exist?",
+    "answer": "When you move between systems that both contain a viable wormhole path, you can choose to use those wormholes, a different set of wormholes that are adjacent, or regular adjacency. The player moving the ships chooses the path their ships move through.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: How does “moving through wormholes” work exactly? Specifically for the Ghosts of Creuss commander or the Ion Storm. Do you choose the path you take to move if multiple paths exist? Answer: When you move between systems that both contain a viable wormhole path, you can choose to use those wormholes, a different set of wormholes that are adjacent, or regular adjacency. The player moving the ships chooses the path their ships move through.",
+    "title": "How does “moving through wormholes” work exactly? Specifically for the Ghosts of Creuss commander or..."
+  },
+  {
+    "category": "General - Strategy Card - Trade - Technology - Neural Motivator - Path of Movement - Movement Abilities",
+    "question": "Please confirm rules regarding Transport and Movement Abilities (L1Z1X Hero, Argent Hero, Mahact Hero).",
+    "answer": "The LRR will be updated to reflect that transportation of units out of systems that contain your command tokens are only applicable during tactical actions. During Movement abilities, you can transport units out of systems that contain your tokens. Replace v. Remove and Place",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Please confirm rules regarding Transport and Movement Abilities (L1Z1X Hero, Argent Hero, Mahact Hero). Answer: The LRR will be updated to reflect that transportation of units out of systems that contain your command tokens are only applicable during tactical actions. During Movement abilities, you can transport units out of systems that contain your tokens. Replace v. Remove and Place",
+    "title": "Please confirm rules regarding Transport and Movement Abilities (L1Z1X Hero, Argent Hero, Mahact Her..."
+  },
+  {
+    "category": "General - Strategy Card - Trade - Technology - Neural Motivator - Path of Movement - Movement Abilities",
+    "question": "Please elaborate on the keyword \"replace\" and how it relates to not having any plastic left in reinforcements. Does it follow the same rules as \"remove and place\"? For example, can you play the Action card \"Refit Troops\" when you have no Mechs in reinforcements?",
+    "answer": "Any instance of “replace” can be considered to say “remove and place” if no units are left in reinforcements, and would be covered by Component Limitations in the LRR. Yes Refit Troops could be played with no mechs in reinforcements. Note, this overturns a previous ruling regarding Minister of Industry.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Please elaborate on the keyword \"replace\" and how it relates to not having any plastic left in reinforcements. Does it follow the same rules as \"remove and place\"? For example, can you play the Action card \"Refit Troops\" when you have no Mechs in reinforcements? Answer: Any instance of “replace” can be considered to say “remove and place” if no units are left in reinforcements, and would be covered by Component Limitations in the LRR. Yes Refit Troops could be played with no mechs in reinforcements. Note, this overturns a previous ruling regarding Minister of Industry.",
+    "title": "Please elaborate on the keyword \"replace\" and how it relates to not having any plastic left in reinf..."
+  },
+  {
+    "category": "General - Strategy Card - Trade - Technology - Neural Motivator - Path of Movement - Movement Abilities",
+    "question": "How do Nova Seed and Singularity Reactor interact with tokens (e.g. wormholes, Mirage)?",
+    "answer": "Nova Seed also purges all tokens, any faction specific tokens are returned to that faction. Singularity Reactor causes all tokens to stay with the tile as it moves to its new destination.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: How do Nova Seed and Singularity Reactor interact with tokens (e.g. wormholes, Mirage)? Answer: Nova Seed also purges all tokens, any faction specific tokens are returned to that faction. Singularity Reactor causes all tokens to stay with the tile as it moves to its new destination.",
+    "title": "How do Nova Seed and Singularity Reactor interact with tokens (e.g. wormholes, Mirage)?"
+  },
+  {
+    "category": "General - Strategy Card - Trade - Technology - Neural Motivator - Path of Movement - Movement Abilities",
+    "question": "If a unit is damaged, and is “removed and placed” from the board via a game effect, does it come back repaired or does it remain damaged.",
+    "answer": "If it is being removed and placed via an ability such as Transit Diodes it stays in the same state. If it is produced, placed, or replaced which would require a remove and place it is no longer damaged.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: If a unit is damaged, and is “removed and placed” from the board via a game effect, does it come back repaired or does it remain damaged. Answer: If it is being removed and placed via an ability such as Transit Diodes it stays in the same state. If it is produced, placed, or replaced which would require a remove and place it is no longer damaged.",
+    "title": "If a unit is damaged, and is “removed and placed” from the board via a game effect, does it come bac..."
+  },
+  {
+    "category": "General - Strategy Card - Trade - Technology - Neural Motivator - Path of Movement - Movement Abilities",
+    "question": "Can abilities that trigger “at the start of a combat” be played in combats you are not participating in?",
+    "answer": "No, any “at the start of a combat” abilities must be played during a combat you are participating in.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can abilities that trigger “at the start of a combat” be played in combats you are not participating in? Answer: No, any “at the start of a combat” abilities must be played during a combat you are participating in.",
+    "title": "Can abilities that trigger “at the start of a combat” be played in combats you are not participating..."
+  },
+  {
+    "category": "Units & Unit Abilities",
+    "question": "What happens to captured units when the owner is eliminated?",
+    "answer": "Captured units remain on the sheet of the player that captured them. If they would ever be returned to the eliminated player, they are returned to the game box instead",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: What happens to captured units when the owner is eliminated? Answer: Captured units remain on the sheet of the player that captured them. If they would ever be returned to the eliminated player, they are returned to the game box instead",
+    "title": "What happens to captured units when the owner is eliminated?"
+  },
+  {
+    "category": "Units & Unit Abilities",
+    "question": "Do units with abilities such as Bombardment, Anti-Fighter Barrage and Space Cannon have to use their abilities if able (e.g. Does a destroyer have to roll for Anti-Fighter Barrage if there are fighters present in the combat)?",
+    "answer": "No. Players may choose whether or not to use these abilities.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Do units with abilities such as Bombardment, Anti-Fighter Barrage and Space Cannon have to use their abilities if able (e.g. Does a destroyer have to roll for Anti-Fighter Barrage if there are fighters present in the combat)? Answer: No. Players may choose whether or not to use these abilities.",
+    "title": "Do units with abilities such as Bombardment, Anti-Fighter Barrage and Space Cannon have to use their..."
+  },
+  {
+    "category": "Units & Unit Abilities",
+    "question": "Does the Anti-Fighter Barrage step occur even if the opposing player has no fighters?",
+    "answer": "Yes",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Does the Anti-Fighter Barrage step occur even if the opposing player has no fighters? Answer: Yes",
+    "title": "Does the Anti-Fighter Barrage step occur even if the opposing player has no fighters?"
+  },
+  {
+    "category": "Units & Unit Abilities",
+    "question": "Can fighters block ship movement?",
+    "answer": "Yes, fighters can block ship movement",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can fighters block ship movement? Answer: Yes, fighters can block ship movement",
+    "title": "Can fighters block ship movement?"
+  },
+  {
+    "category": "Units & Unit Abilities",
+    "question": "Does each unit participating in Bombardment or Space Cannon roll an additional die for the Plasma Scoring technology?",
+    "answer": "No. “Plasma Scoring” only grants one additional die for each “Bombardment” or “Space Cannon” roll, and the unit benefiting from this technology must be decided before rolling.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Does each unit participating in Bombardment or Space Cannon roll an additional die for the Plasma Scoring technology? Answer: No. “Plasma Scoring” only grants one additional die for each “Bombardment” or “Space Cannon” roll, and the unit benefiting from this technology must be decided before rolling.",
+    "title": "Does each unit participating in Bombardment or Space Cannon roll an additional die for the Plasma Sc..."
+  },
+  {
+    "category": "Units & Unit Abilities",
+    "question": "If a player has multiple planets with PDS that are being invaded in a single system, does the “Plasma Scoring” technology add one die to each planet’s space cannon roll or for only one planet’s space cannon roll?",
+    "answer": "The “Plasma Scoring” technology adds one die for each planet’s “Space Cannon” roll.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: If a player has multiple planets with PDS that are being invaded in a single system, does the “Plasma Scoring” technology add one die to each planet’s space cannon roll or for only one planet’s space cannon roll? Answer: The “Plasma Scoring” technology adds one die for each planet’s “Space Cannon” roll.",
+    "title": "If a player has multiple planets with PDS that are being invaded in a single system, does the “Plasm..."
+  },
+  {
+    "category": "Units & Unit Abilities",
+    "question": "Can PDS II fire through wormholes using their ability \"Deep Space Cannon\"?",
+    "answer": "Yes. Deep Space cannon may be fired through wormholes as those systems are adjacent",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can PDS II fire through wormholes using their ability \"Deep Space Cannon\"? Answer: Yes. Deep Space cannon may be fired through wormholes as those systems are adjacent",
+    "title": "Can PDS II fire through wormholes using their ability \"Deep Space Cannon\"?"
+  },
+  {
+    "category": "Units & Unit Abilities",
+    "question": "Does \"Planetary Shield\" prevent the use of \"X-89 Bacterial Weapon?",
+    "answer": "No. It is not part of the bombardment. However, X-89 Bacterial Weapon Ω is prevented by Planetary Shield since it requires bombardment to actually occur",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Does \"Planetary Shield\" prevent the use of \"X-89 Bacterial Weapon? Answer: No. It is not part of the bombardment. However, X-89 Bacterial Weapon Ω is prevented by Planetary Shield since it requires bombardment to actually occur",
+    "title": "Does \"Planetary Shield\" prevent the use of \"X-89 Bacterial Weapon?"
+  },
+  {
+    "category": "Units & Unit Abilities",
+    "question": "What happens to infantry that would be placed on a planet in any player's home system by the effect of the \"Infantry II\" unit upgrade technology if the player does not own any planets in their home system?",
+    "answer": "When those infantry would be placed on a home planet, they are returned to that player's reinforcements instead",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: What happens to infantry that would be placed on a planet in any player's home system by the effect of the \"Infantry II\" unit upgrade technology if the player does not own any planets in their home system? Answer: When those infantry would be placed on a home planet, they are returned to that player's reinforcements instead",
+    "title": "What happens to infantry that would be placed on a planet in any player's home system by the effect ..."
+  },
+  {
+    "category": "Promissory Notes",
+    "question": "Does the Infantry II unit upgrade technology special ability apply if the infantry is destroyed outside of combat (such as with the use of the \"Plague\" action card or the agenda \"Swords to Plowshares\"?",
+    "answer": "Yes. Infantry II may use their reroll-to-resurrect ability when they are destroyed regardless of the manner",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Does the Infantry II unit upgrade technology special ability apply if the infantry is destroyed outside of combat (such as with the use of the \"Plague\" action card or the agenda \"Swords to Plowshares\"? Answer: Yes. Infantry II may use their reroll-to-resurrect ability when they are destroyed regardless of the manner",
+    "title": "Does the Infantry II unit upgrade technology special ability apply if the infantry is destroyed outs..."
+  },
+  {
+    "category": "Promissory Notes",
+    "question": "Does the “Political Secret” promissory note disable passive/mandatory faction abilities, such as the Barony of Letnev’s “Armada” faction ability, when it is used against that player?",
+    "answer": "No. The “Political Secret” promissory note only prevents the use of faction abilities that a player must choose to use",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Does the “Political Secret” promissory note disable passive/mandatory faction abilities, such as the Barony of Letnev’s “Armada” faction ability, when it is used against that player? Answer: No. The “Political Secret” promissory note only prevents the use of faction abilities that a player must choose to use",
+    "title": "Does the “Political Secret” promissory note disable passive/mandatory faction abilities, such as the..."
+  },
+  {
+    "category": "Objectives",
+    "question": "Does the “Political Secret” promissory note prevent a player from using faction-specific technology?",
+    "answer": "No. The “Political Secret” promissory note does not prevent a player from using faction-specific technology, nor does it prevent the use of other abilities, such as those from agendas that a player might own",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Does the “Political Secret” promissory note prevent a player from using faction-specific technology? Answer: No. The “Political Secret” promissory note does not prevent a player from using faction-specific technology, nor does it prevent the use of other abilities, such as those from agendas that a player might own",
+    "title": "Does the “Political Secret” promissory note prevent a player from using faction-specific technology?"
+  },
+  {
+    "category": "Objectives",
+    "question": "Do objectives that say \"units\" require multiple units, or is one enough?",
+    "answer": "One unit is enough to satisfy these requirements.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Do objectives that say \"units\" require multiple units, or is one enough? Answer: One unit is enough to satisfy these requirements.",
+    "title": "Do objectives that say \"units\" require multiple units, or is one enough?"
+  },
+  {
+    "category": "Objectives",
+    "question": "Is a planet with a destroyed planet token no longer a planet for game purposes?",
+    "answer": "The destroyed planet token is no longer a planet for any purpose, and if it is covering the only planet in a system, that system contains no planets.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Is a planet with a destroyed planet token no longer a planet for game purposes? Answer: The destroyed planet token is no longer a planet for any purpose, and if it is covering the only planet in a system, that system contains no planets.",
+    "title": "Is a planet with a destroyed planet token no longer a planet for game purposes?"
+  },
+  {
+    "category": "Objectives",
+    "question": "Can you resolve the \"Impersonation\" action card to draw a secret objective if you are already at your limit of scored secret objectives?",
+    "answer": "Yes, you could draw an additional secret but would then need to return it and shuffle the secret objective deck",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can you resolve the \"Impersonation\" action card to draw a secret objective if you are already at your limit of scored secret objectives? Answer: Yes, you could draw an additional secret but would then need to return it and shuffle the secret objective deck",
+    "title": "Can you resolve the \"Impersonation\" action card to draw a secret objective if you are already at you..."
+  },
+  {
+    "category": "Objectives",
+    "question": "Does another player having my “Trade Agreement” promissory note count for the secret objectives “Strengthen Bonds” or “Betray a Friend”?",
+    "answer": "No, only promissory notes that specifically instruct that player to place them in their play area count for these objectives.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Does another player having my “Trade Agreement” promissory note count for the secret objectives “Strengthen Bonds” or “Betray a Friend”? Answer: No, only promissory notes that specifically instruct that player to place them in their play area count for these objectives.",
+    "title": "Does another player having my “Trade Agreement” promissory note count for the secret objectives “Str..."
+  },
+  {
+    "category": "Objectives",
+    "question": "Please clarify the requirements of the Stage 2 Objective, Rule Distant Lands.",
+    "answer": "You must control 2 planets and each planet must be in or adjacent to one of 2 different opposing player’s Home Systems. This does not mean 2 planets in or adjacent to the same Home System, and it does not mean 1 planet that is adjacent to 2 different Home Systems.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Please clarify the requirements of the Stage 2 Objective, Rule Distant Lands. Answer: You must control 2 planets and each planet must be in or adjacent to one of 2 different opposing player’s Home Systems. This does not mean 2 planets in or adjacent to the same Home System, and it does not mean 1 planet that is adjacent to 2 different Home Systems.",
+    "title": "Please clarify the requirements of the Stage 2 Objective, Rule Distant Lands."
+  },
+  {
+    "category": "Production",
+    "question": "When EXACTLY are secret objectives scored? Specifically Become a Martyr in relation to elimination and Shard of the Throne, and Drive the Debate in relation to the “Legal Text” action cards. Also Yin Agent and Turn Their Fleets to Dust?",
+    "answer": "Secrets are scored “after”, so Become a Martyr would trigger after Shard of the Throne is lost or elimination and “Legal Text” ACs would be played before Drive the Debate can be scored. If the last ship in a system is destroyed, TTFTD could be scored for destroying the last ship, then after the Yin agent would trigger.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: When EXACTLY are secret objectives scored? Specifically Become a Martyr in relation to elimination and Shard of the Throne, and Drive the Debate in relation to the “Legal Text” action cards. Also Yin Agent and Turn Their Fleets to Dust? Answer: Secrets are scored “after”, so Become a Martyr would trigger after Shard of the Throne is lost or elimination and “Legal Text” ACs would be played before Drive the Debate can be scored. If the last ship in a system is destroyed, TTFTD could be scored for destroying the last ship, then after the Yin agent would trigger.",
+    "title": "When EXACTLY are secret objectives scored? Specifically Become a Martyr in relation to elimination a..."
+  },
+  {
+    "category": "Production",
+    "question": "When an ability other than “Production” allows you to produce one or more units, do you have to pay for the units produced?",
+    "answer": "Yes, a unit that is produced must always be paid for.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: When an ability other than “Production” allows you to produce one or more units, do you have to pay for the units produced? Answer: Yes, a unit that is produced must always be paid for.",
+    "title": "When an ability other than “Production” allows you to produce one or more units, do you have to pay ..."
+  },
+  {
+    "category": "Agendas",
+    "question": "When producing a unit with an ability other than “Production,” does the price reduction from the “Sarween Tools” technology apply?",
+    "answer": "No, “Sarween Tools” is only used with the “Production” ability.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: When producing a unit with an ability other than “Production,” does the price reduction from the “Sarween Tools” technology apply? Answer: No, “Sarween Tools” is only used with the “Production” ability.",
+    "title": "When producing a unit with an ability other than “Production,” does the price reduction from the “Sa..."
+  },
+  {
+    "category": "Agendas",
+    "question": "When a “Research Team” agenda that is attached to a planet is used to ignore a prerequisite, is the planet exhausted?",
+    "answer": "No. The agenda is exhausted to ignore the prerequisite, not the planet.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: When a “Research Team” agenda that is attached to a planet is used to ignore a prerequisite, is the planet exhausted? Answer: No. The agenda is exhausted to ignore the prerequisite, not the planet.",
+    "title": "When a “Research Team” agenda that is attached to a planet is used to ignore a prerequisite, is the ..."
+  },
+  {
+    "category": "Agendas",
+    "question": "Can a player cast ‘0’ votes “For” or “Against” on an agenda instead of abstaining, in order to take advantage of effects associated with that option?",
+    "answer": "No. A vote of ‘0’ is the same as abstaining; that player gains no positive or negative effects of voting “For” or “Against” on an agenda if he contributed ‘0’ votes.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can a player cast ‘0’ votes “For” or “Against” on an agenda instead of abstaining, in order to take advantage of effects associated with that option? Answer: No. A vote of ‘0’ is the same as abstaining; that player gains no positive or negative effects of voting “For” or “Against” on an agenda if he contributed ‘0’ votes.",
+    "title": "Can a player cast ‘0’ votes “For” or “Against” on an agenda instead of abstaining, in order to take ..."
+  },
+  {
+    "category": "Agendas",
+    "question": "If the “Classified Document Leaks” agenda is discarded, what happens?",
+    "answer": "The secret objective remains in play (i.e. players who scored it do not lose the point) but it is no longer a public objective and thus cannot by scored by any additional players. Additionally, it does not count toward the secret objective total of the player who originally owned it",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: If the “Classified Document Leaks” agenda is discarded, what happens? Answer: The secret objective remains in play (i.e. players who scored it do not lose the point) but it is no longer a public objective and thus cannot by scored by any additional players. Additionally, it does not count toward the secret objective total of the player who originally owned it",
+    "title": "If the “Classified Document Leaks” agenda is discarded, what happens?"
+  },
+  {
+    "category": "Agendas",
+    "question": "Does the “Enforced Travel Ban” agenda prevent “Space Cannon” usage through wormholes?",
+    "answer": "No. “Enforce Travel Ban” does not prevent “Space Cannon” usage.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Does the “Enforced Travel Ban” agenda prevent “Space Cannon” usage through wormholes? Answer: No. “Enforce Travel Ban” does not prevent “Space Cannon” usage.",
+    "title": "Does the “Enforced Travel Ban” agenda prevent “Space Cannon” usage through wormholes?"
+  },
+  {
+    "category": "Agendas",
+    "question": "Can trade goods be used as votes during the agenda phase?",
+    "answer": "No",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can trade goods be used as votes during the agenda phase? Answer: No",
+    "title": "Can trade goods be used as votes during the agenda phase?"
+  },
+  {
+    "category": "Agendas",
+    "question": "Can the action cards \"Bribery\" or \"Distinguished Councillor\" be played after abstaining?",
+    "answer": "No. Once you abstain you lose your ability to vote until the next agenda",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can the action cards \"Bribery\" or \"Distinguished Councillor\" be played after abstaining? Answer: No. Once you abstain you lose your ability to vote until the next agenda",
+    "title": "Can the action cards \"Bribery\" or \"Distinguished Councillor\" be played after abstaining?"
+  },
+  {
+    "category": "Agendas",
+    "question": "During a revote initiated by the “Miscount Disclosed” agenda, does the law that is being voted on remain active and in play?",
+    "answer": "Yes, the law that is being voted on because of “Miscount Disclosed” remains in play during the revote.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: During a revote initiated by the “Miscount Disclosed” agenda, does the law that is being voted on remain active and in play? Answer: Yes, the law that is being voted on because of “Miscount Disclosed” remains in play during the revote.",
+    "title": "During a revote initiated by the “Miscount Disclosed” agenda, does the law that is being voted on re..."
+  },
+  {
+    "category": "Agendas",
+    "question": "If there is an ‘A’ wormhole on Mecatol Rex when the “Ixthian Artifact” agenda causes units in adjacent systems to be destroyed, does the \"Quantum Entanglement\" ability cause the Ghost of Creuss faction to lose units in a system that contains a ‘B’ wormhole?",
+    "answer": "No. Only the Creuss treats those systems as adjacent.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: If there is an ‘A’ wormhole on Mecatol Rex when the “Ixthian Artifact” agenda causes units in adjacent systems to be destroyed, does the \"Quantum Entanglement\" ability cause the Ghost of Creuss faction to lose units in a system that contains a ‘B’ wormhole? Answer: No. Only the Creuss treats those systems as adjacent.",
+    "title": "If there is an ‘A’ wormhole on Mecatol Rex when the “Ixthian Artifact” agenda causes units in adjace..."
+  },
+  {
+    "category": "Agendas",
+    "question": "When units are destroyed by the “Ixthian Artifact” agenda, in what order are they destroyed?",
+    "answer": "Units destroyed by “Ixthian Artifact” are destroyed simultaneously",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: When units are destroyed by the “Ixthian Artifact” agenda, in what order are they destroyed? Answer: Units destroyed by “Ixthian Artifact” are destroyed simultaneously",
+    "title": "When units are destroyed by the “Ixthian Artifact” agenda, in what order are they destroyed?"
+  },
+  {
+    "category": "Agendas",
+    "question": "If a player’s “Political Secret” promissory note is used against them, but that agenda is subsequently discarded by an effect such as the “Veto” action card, can that player vote and use faction abilities on the new agenda?",
+    "answer": "Yes. It is a new agenda and thus the effect of the player’s “Political Secret” is ended.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: If a player’s “Political Secret” promissory note is used against them, but that agenda is subsequently discarded by an effect such as the “Veto” action card, can that player vote and use faction abilities on the new agenda? Answer: Yes. It is a new agenda and thus the effect of the player’s “Political Secret” is ended.",
+    "title": "If a player’s “Political Secret” promissory note is used against them, but that agenda is subsequent..."
+  },
+  {
+    "category": "Agendas",
+    "question": "Can the “Colonial Redistribution” agenda elect a planet that is already the target of “Demilitarized Zone,” and if so, can the chosen player place infantry to take control of the planet?",
+    "answer": "Both agendas may target the same planet. However, in that situation, infantry cannot be placed on the elected planet, so it remains under the control of its original owner.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can the “Colonial Redistribution” agenda elect a planet that is already the target of “Demilitarized Zone,” and if so, can the chosen player place infantry to take control of the planet? Answer: Both agendas may target the same planet. However, in that situation, infantry cannot be placed on the elected planet, so it remains under the control of its original owner.",
+    "title": "Can the “Colonial Redistribution” agenda elect a planet that is already the target of “Demilitarized..."
+  },
+  {
+    "category": "Agendas",
+    "question": "When the “Holy Planet of Ixth,” “Shard of the Throne,” or “The Crown of Emphidia” agendas are repealed, does the player who owns them lose a victory point?",
+    "answer": "No, the player who gained a victory point from these agendas can only lose that point through the effect stated on the card. If the card is discarded in any other way, such as the “Repeal Law” action card, the point is not lost.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: When the “Holy Planet of Ixth,” “Shard of the Throne,” or “The Crown of Emphidia” agendas are repealed, does the player who owns them lose a victory point? Answer: No, the player who gained a victory point from these agendas can only lose that point through the effect stated on the card. If the card is discarded in any other way, such as the “Repeal Law” action card, the point is not lost.",
+    "title": "When the “Holy Planet of Ixth,” “Shard of the Throne,” or “The Crown of Emphidia” agendas are repeal..."
+  },
+  {
+    "category": "Agendas",
+    "question": "Is the trigger for the “Minister of War” agenda card’s ability “performing an action”?",
+    "answer": "Yes. Performing any action is the trigger for the remainder of the “Minister of War” agenda card’s ability.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Is the trigger for the “Minister of War” agenda card’s ability “performing an action”? Answer: Yes. Performing any action is the trigger for the remainder of the “Minister of War” agenda card’s ability.",
+    "title": "Is the trigger for the “Minister of War” agenda card’s ability “performing an action”?"
+  },
+  {
+    "category": "Agendas",
+    "question": "If the agenda \"Shared Research\" passes as against, does a player place a Command Token in their home system if they do not control planets in their home system?",
+    "answer": "A home system is always that player's home system meaning they still do place a command counter in that system even though they do not control it",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: If the agenda \"Shared Research\" passes as against, does a player place a Command Token in their home system if they do not control planets in their home system? Answer: A home system is always that player's home system meaning they still do place a command counter in that system even though they do not control it",
+    "title": "If the agenda \"Shared Research\" passes as against, does a player place a Command Token in their home..."
+  },
+  {
+    "category": "Agendas",
+    "question": "If Covert Legislation draws an agenda that self-replaces (e.g. miscount disclosed), does it replace immediately?",
+    "answer": "Follow the text, draw a new agenda.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: If Covert Legislation draws an agenda that self-replaces (e.g. miscount disclosed), does it replace immediately? Answer: Follow the text, draw a new agenda.",
+    "title": "If Covert Legislation draws an agenda that self-replaces (e.g. miscount disclosed), does it replace ..."
+  },
+  {
+    "category": "Agendas",
+    "question": "Does the Speaker vote when Covert Legislation is drawn?",
+    "answer": "Yes.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Does the Speaker vote when Covert Legislation is drawn? Answer: Yes.",
+    "title": "Does the Speaker vote when Covert Legislation is drawn?"
+  },
+  {
+    "category": "Agendas",
+    "question": "Does New Constitution exhaust home planets if they're not controlled by their owner?",
+    "answer": "No, you only exhaust planets in your home system if you control them.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Does New Constitution exhaust home planets if they're not controlled by their owner? Answer: No, you only exhaust planets in your home system if you control them.",
+    "title": "Does New Constitution exhaust home planets if they're not controlled by their owner?"
+  },
+  {
+    "category": "Agendas",
+    "question": "If Covert Legislation draws an \"elect player\" agenda, after all votes are cast, does a player with one of the \"Legal Text\" action cards need to play it before, or can they play it after they know what the agenda being voted on is? What about Deadly plot?",
+    "answer": "The “Legal Text” action cards and Deadly Plot must be played before the agenda that was voted on is revealed.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: If Covert Legislation draws an \"elect player\" agenda, after all votes are cast, does a player with one of the \"Legal Text\" action cards need to play it before, or can they play it after they know what the agenda being voted on is? What about Deadly plot? Answer: The “Legal Text” action cards and Deadly Plot must be played before the agenda that was voted on is revealed.",
+    "title": "If Covert Legislation draws an \"elect player\" agenda, after all votes are cast, does a player with o..."
+  },
+  {
+    "category": "Technology",
+    "question": "What is the interaction between Deadly Plot and prediction abilities, given that Deadly Plot specifically says “resolved with no effect”.",
+    "answer": "“Resolved with no effect” is not an outcome that could have been predicted, so no prediction abilities can trigger.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: What is the interaction between Deadly Plot and prediction abilities, given that Deadly Plot specifically says “resolved with no effect”. Answer: “Resolved with no effect” is not an outcome that could have been predicted, so no prediction abilities can trigger.",
+    "title": "What is the interaction between Deadly Plot and prediction abilities, given that Deadly Plot specifi..."
+  },
+  {
+    "category": "Technology",
+    "question": "Can a player resolve an ability to gain a technology when they already have that technology (Fires of the Gashlai)?",
+    "answer": "No, you are not resolving the ability fully if you already have the specified technology.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can a player resolve an ability to gain a technology when they already have that technology (Fires of the Gashlai)? Answer: No, you are not resolving the ability fully if you already have the specified technology.",
+    "title": "Can a player resolve an ability to gain a technology when they already have that technology (Fires o..."
+  },
+  {
+    "category": "Technology",
+    "question": "When researching technology via an action card, do you need the prerequisites?",
+    "answer": "If an ability instructs you to “research” a technology, you require the prerequisites on that technology to do so. If you are instructed to “gain” or “replace” a technology, you do not require prerequisites.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: When researching technology via an action card, do you need the prerequisites? Answer: If an ability instructs you to “research” a technology, you require the prerequisites on that technology to do so. If you are instructed to “gain” or “replace” a technology, you do not require prerequisites.",
+    "title": "When researching technology via an action card, do you need the prerequisites?"
+  },
+  {
+    "category": "Technology",
+    "question": "Can you Sling Relay without producing anything?",
+    "answer": "No, you must produce a ship.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can you Sling Relay without producing anything? Answer: No, you must produce a ship.",
+    "title": "Can you Sling Relay without producing anything?"
+  },
+  {
+    "category": "Technology",
+    "question": "Can you cast bonus votes using Predictive Intelligence if the technology is exhausted?",
+    "answer": "No, the card being exhausted prevents that ability from being used.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can you cast bonus votes using Predictive Intelligence if the technology is exhausted? Answer: No, the card being exhausted prevents that ability from being used.",
+    "title": "Can you cast bonus votes using Predictive Intelligence if the technology is exhausted?"
+  },
+  {
+    "category": "Technology",
+    "question": "What is the interaction between Infantry 2 and Capture?",
+    "answer": "Both happen",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: What is the interaction between Infantry 2 and Capture? Answer: Both happen",
+    "title": "What is the interaction between Infantry 2 and Capture?"
+  },
+  {
+    "category": "Exploration",
+    "question": "When you gain trade goods from multiple planets using the Psychoarchaeology technology, do you gain them 1 at a time or as a group?",
+    "answer": "You gain them one at a time.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: When you gain trade goods from multiple planets using the Psychoarchaeology technology, do you gain them 1 at a time or as a group? Answer: You gain them one at a time.",
+    "title": "When you gain trade goods from multiple planets using the Psychoarchaeology technology, do you gain ..."
+  },
+  {
+    "category": "Exploration",
+    "question": "When you gain control of planets, you gain them simultaneously. Can you explore a cultural planet and draw Freelancers, then build a mech on another planet in that system?",
+    "answer": "No, you choose an order to gain and explore planets. The sequence would be: gain control of planet A > explore planet A > gain control of planet B > explore planet B and so on.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: When you gain control of planets, you gain them simultaneously. Can you explore a cultural planet and draw Freelancers, then build a mech on another planet in that system? Answer: No, you choose an order to gain and explore planets. The sequence would be: gain control of planet A > explore planet A > gain control of planet B > explore planet B and so on.",
+    "title": "When you gain control of planets, you gain them simultaneously. Can you explore a cultural planet an..."
+  },
+  {
+    "category": "Exploration",
+    "question": "What happens to your relics and relic fragments when you're eliminated?",
+    "answer": "Relics are purged, relic fragments discarded.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: What happens to your relics and relic fragments when you're eliminated? Answer: Relics are purged, relic fragments discarded.",
+    "title": "What happens to your relics and relic fragments when you're eliminated?"
+  },
+  {
+    "category": "Exploration",
+    "question": "Can a player “gain” a relic by purging fragments if there are no relics left?",
+    "answer": "Yes you can purge relic fragments and not gain a relic if there are none left in the deck.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can a player “gain” a relic by purging fragments if there are no relics left? Answer: Yes you can purge relic fragments and not gain a relic if there are none left in the deck.",
+    "title": "Can a player “gain” a relic by purging fragments if there are no relics left?"
+  },
+  {
+    "category": "Exploration",
+    "question": "If you have more commodities than your maximum due to purging the Dynamis Core Relic, do you remove commodities to your limit?",
+    "answer": "Yes, you discard down.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: If you have more commodities than your maximum due to purging the Dynamis Core Relic, do you remove commodities to your limit? Answer: Yes, you discard down.",
+    "title": "If you have more commodities than your maximum due to purging the Dynamis Core Relic, do you remove ..."
+  },
+  {
+    "category": "Exploration",
+    "question": "Can a transaction be performed in the middle of an exploration?",
+    "answer": "Yes, transactions may occur after an exploration card is revealed, before the effect is resolved, but other abilities may not be used until after the effect is resolved.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can a transaction be performed in the middle of an exploration? Answer: Yes, transactions may occur after an exploration card is revealed, before the effect is resolved, but other abilities may not be used until after the effect is resolved.",
+    "title": "Can a transaction be performed in the middle of an exploration?"
+  },
+  {
+    "category": "Exploration",
+    "question": "Are the cards removed from the discard pile via the Relic “The Codex” public knowledge?",
+    "answer": "Yes, the discard is public knowledge, so anything removed from the discard is also public knowledge.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Are the cards removed from the discard pile via the Relic “The Codex” public knowledge? Answer: Yes, the discard is public knowledge, so anything removed from the discard is also public knowledge.",
+    "title": "Are the cards removed from the discard pile via the Relic “The Codex” public knowledge?"
+  },
+  {
+    "category": "Action Cards",
+    "question": "Does the Crown of Thalnos Relic work with Infantry II resurrection rolls? Courageous to the End? Anti-Fighter Barrage?",
+    "answer": "No to Infantry 2, no to Courageous to the End, no to Anti-Fighter Barrage. The intent is ONLY combat rolls. Future errata will clarify this.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Does the Crown of Thalnos Relic work with Infantry II resurrection rolls? Courageous to the End? Anti-Fighter Barrage? Answer: No to Infantry 2, no to Courageous to the End, no to Anti-Fighter Barrage. The intent is ONLY combat rolls. Future errata will clarify this.",
+    "title": "Does the Crown of Thalnos Relic work with Infantry II resurrection rolls? Courageous to the End? Ant..."
+  },
+  {
+    "category": "Action Cards",
+    "question": "Is the “Skilled Retreat” action card considered to be a retreat and can it be canceled by the action card “Intercept?”?",
+    "answer": "No, “Skilled Retreat” is not a retreat and cannot be canceled in this way.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Is the “Skilled Retreat” action card considered to be a retreat and can it be canceled by the action card “Intercept?”? Answer: No, “Skilled Retreat” is not a retreat and cannot be canceled in this way.",
+    "title": "Is the “Skilled Retreat” action card considered to be a retreat and can it be canceled by the action..."
+  },
+  {
+    "category": "Action Cards",
+    "question": "Can “Sustain Damage” be used against the “Courageous to the End” action card?",
+    "answer": "No, “Courageous to the End” does not produce hits.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can “Sustain Damage” be used against the “Courageous to the End” action card? Answer: No, “Courageous to the End” does not produce hits.",
+    "title": "Can “Sustain Damage” be used against the “Courageous to the End” action card?"
+  },
+  {
+    "category": "Action Cards",
+    "question": "During space combat, can each player play a “Shields Holding” action card to cancel hits against their units, even though they are being played during the same timing window?",
+    "answer": "Yes. Because each of the “Shields Holding” cards are targeting different sets of hits (one set against player A and one set against player B), it is legal to play both cards.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: During space combat, can each player play a “Shields Holding” action card to cancel hits against their units, even though they are being played during the same timing window? Answer: Yes. Because each of the “Shields Holding” cards are targeting different sets of hits (one set against player A and one set against player B), it is legal to play both cards.",
+    "title": "During space combat, can each player play a “Shields Holding” action card to cancel hits against the..."
+  },
+  {
+    "category": "Action Cards",
+    "question": "Can the “Shields Holding” action card be used to cancel hits from abilities that occur during combat, such as Ambush, Dimensional Splicer and Devotion?",
+    "answer": "Yes. \"Shields Holding\" may be used to cancel hits that are produced by these abilities",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can the “Shields Holding” action card be used to cancel hits from abilities that occur during combat, such as Ambush, Dimensional Splicer and Devotion? Answer: Yes. \"Shields Holding\" may be used to cancel hits that are produced by these abilities",
+    "title": "Can the “Shields Holding” action card be used to cancel hits from abilities that occur during combat..."
+  },
+  {
+    "category": "Action Cards",
+    "question": "Can two “Direct Hit” action cards be played by the same player on the same round of combat against different targets?",
+    "answer": "Yes. Because the two “Direct Hit” cards are targeting different targets, this is allowed.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can two “Direct Hit” action cards be played by the same player on the same round of combat against different targets? Answer: Yes. Because the two “Direct Hit” cards are targeting different targets, this is allowed.",
+    "title": "Can two “Direct Hit” action cards be played by the same player on the same round of combat against d..."
+  },
+  {
+    "category": "Action Cards",
+    "question": "Can the “Direct Hit” action cards be played when a ship uses “Sustain Damage” to cancel a hit produced by one of your abilities?",
+    "answer": "Yes. “Direct Hit” can be used to follow up hits that are assigned by “Ambush,” “Dimensional Splicer,” “Devotion,” and other similar abilities.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can the “Direct Hit” action cards be played when a ship uses “Sustain Damage” to cancel a hit produced by one of your abilities? Answer: Yes. “Direct Hit” can be used to follow up hits that are assigned by “Ambush,” “Dimensional Splicer,” “Devotion,” and other similar abilities.",
+    "title": "Can the “Direct Hit” action cards be played when a ship uses “Sustain Damage” to cancel a hit produc..."
+  },
+  {
+    "category": "Action Cards",
+    "question": "Does an effect that casts “additional votes,” such as the “Bribery” action card, create a timing window for playing the “Distinguished Councilor” action card?",
+    "answer": "No. The “Distinguished Councilor” action card can only be played after you vote during the “Vote” step of resolving an agenda.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Does an effect that casts “additional votes,” such as the “Bribery” action card, create a timing window for playing the “Distinguished Councilor” action card? Answer: No. The “Distinguished Councilor” action card can only be played after you vote during the “Vote” step of resolving an agenda.",
+    "title": "Does an effect that casts “additional votes,” such as the “Bribery” action card, create a timing win..."
+  },
+  {
+    "category": "Action Cards",
+    "question": "When during the action card playing process is a “Sabotage” card played?",
+    "answer": "The “Sabotage” action can be played after card targets (such as units, planets, systems, cards, outcomes, or players) have been decided on, but must be played before any effects have been resolved, votes have been cast, or any dice have been rolled.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: When during the action card playing process is a “Sabotage” card played? Answer: The “Sabotage” action can be played after card targets (such as units, planets, systems, cards, outcomes, or players) have been decided on, but must be played before any effects have been resolved, votes have been cast, or any dice have been rolled.",
+    "title": "When during the action card playing process is a “Sabotage” card played?"
+  },
+  {
+    "category": "Action Cards",
+    "question": "Can abilities that destroy units, such as the “Lucky Shot” action card, be used by a player against their own units or planets?",
+    "answer": "No. “Lucky Shot” and other similar effects can only be used against other player’s units and planets.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can abilities that destroy units, such as the “Lucky Shot” action card, be used by a player against their own units or planets? Answer: No. “Lucky Shot” and other similar effects can only be used against other player’s units and planets.",
+    "title": "Can abilities that destroy units, such as the “Lucky Shot” action card, be used by a player against ..."
+  },
+  {
+    "category": "Action Cards",
+    "question": "Can multiple rider action cards be played by the same player on a single agenda? If so, can they be played on different outcomes?",
+    "answer": "Yes to both. A player may play multiple rider action cards on a single agenda, and they may be played on opposing outcomes.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can multiple rider action cards be played by the same player on a single agenda? If so, can they be played on different outcomes? Answer: Yes to both. A player may play multiple rider action cards on a single agenda, and they may be played on opposing outcomes.",
+    "title": "Can multiple rider action cards be played by the same player on a single agenda? If so, can they be ..."
+  },
+  {
+    "category": "Action Cards",
+    "question": "When playing the “Upgrade” action card, does the cruiser already have to be present in the active system?",
+    "answer": "Yes. The cruiser must already be in the activated system.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: When playing the “Upgrade” action card, does the cruiser already have to be present in the active system? Answer: Yes. The cruiser must already be in the activated system.",
+    "title": "When playing the “Upgrade” action card, does the cruiser already have to be present in the active sy..."
+  },
+  {
+    "category": "Action Cards",
+    "question": "Can the “Experimental Battlestation” action card be used if no ships move into the active system, or against ships that do not belong to the active player?",
+    "answer": "No. “Experimental Battlestation” operates in the same timing window as “Space Cannon Offense,” can only target the active player’s ships, and can only be resolved if ships actually move into the active system.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can the “Experimental Battlestation” action card be used if no ships move into the active system, or against ships that do not belong to the active player? Answer: No. “Experimental Battlestation” operates in the same timing window as “Space Cannon Offense,” can only target the active player’s ships, and can only be resolved if ships actually move into the active system.",
+    "title": "Can the “Experimental Battlestation” action card be used if no ships move into the active system, or..."
+  },
+  {
+    "category": "Action Cards",
+    "question": "Can a player who cannot vote (such as the Nekro Virus) play rider action cards?",
+    "answer": "Yes. The Nekro player, or a player who cannot vote due to another effect, can still play rider action cards.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can a player who cannot vote (such as the Nekro Virus) play rider action cards? Answer: Yes. The Nekro player, or a player who cannot vote due to another effect, can still play rider action cards.",
+    "title": "Can a player who cannot vote (such as the Nekro Virus) play rider action cards?"
+  },
+  {
+    "category": "Action Cards",
+    "question": "If the speaker does not vote, can the “Bribery” action card still be played?",
+    "answer": "Yes, even if the speaker cannot vote, or chooses not to vote, the “Bribery” action card (or any effect with the timing window of “after the speaker votes”) can still be played after the timing window in which the speaker would have cast votes.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: If the speaker does not vote, can the “Bribery” action card still be played? Answer: Yes, even if the speaker cannot vote, or chooses not to vote, the “Bribery” action card (or any effect with the timing window of “after the speaker votes”) can still be played after the timing window in which the speaker would have cast votes.",
+    "title": "If the speaker does not vote, can the “Bribery” action card still be played?"
+  },
+  {
+    "category": "Factions - The Arborec",
+    "question": "When are the hits generated by \"Reflective shielding\" assigned?",
+    "answer": "The hits are immediately assigned if not during the normal assign hits step. If during the normal assign hits step, they are added to the pool of hits already generated.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: When are the hits generated by \"Reflective shielding\" assigned? Answer: The hits are immediately assigned if not during the normal assign hits step. If during the normal assign hits step, they are added to the pool of hits already generated.",
+    "title": "When are the hits generated by \"Reflective shielding\" assigned?"
+  },
+  {
+    "category": "Factions - The Arborec",
+    "question": "Can the Arborec's \"Mitosis\" ability be used to place 1 infantry on every planet they control?",
+    "answer": "No. Only 1 infantry may be placed on a single planet using this ability.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can the Arborec's \"Mitosis\" ability be used to place 1 infantry on every planet they control? Answer: No. Only 1 infantry may be placed on a single planet using this ability.",
+    "title": "Can the Arborec's \"Mitosis\" ability be used to place 1 infantry on every planet they control?"
+  },
+  {
+    "category": "Factions - The Arborec",
+    "question": "Can the secondary ability of the “Warfare” strategy card be used to trigger the “Production” ability of the Arborec’s Letani Warriors?",
+    "answer": "No, the “Warfare” secondary ability can only be used to trigger the production ability of space docks, and thus cannot be used by the Arborec to produce additional infantry.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can the secondary ability of the “Warfare” strategy card be used to trigger the “Production” ability of the Arborec’s Letani Warriors? Answer: No, the “Warfare” secondary ability can only be used to trigger the production ability of space docks, and thus cannot be used by the Arborec to produce additional infantry.",
+    "title": "Can the secondary ability of the “Warfare” strategy card be used to trigger the “Production” ability..."
+  },
+  {
+    "category": "Factions - The Arborec",
+    "question": "Can the “Production” abilities of multiple Arborec “Letani Warriors” in a system be combined to allow the production of two infantry for one resource?",
+    "answer": "Yes. Production value is totaled when the “Production” ability of units in a system is used.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can the “Production” abilities of multiple Arborec “Letani Warriors” in a system be combined to allow the production of two infantry for one resource? Answer: Yes. Production value is totaled when the “Production” ability of units in a system is used.",
+    "title": "Can the “Production” abilities of multiple Arborec “Letani Warriors” in a system be combined to allo..."
+  },
+  {
+    "category": "Factions - The Arborec",
+    "question": "Does the Arborec flagship (The “Duha Menaimon”) need to be in a system when it is activated to make use of its ability?",
+    "answer": "Yes. The “Duha Menaimon” can only be used to produce units when it is in a system at the moment it is activated.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Does the Arborec flagship (The “Duha Menaimon”) need to be in a system when it is activated to make use of its ability? Answer: Yes. The “Duha Menaimon” can only be used to produce units when it is in a system at the moment it is activated.",
+    "title": "Does the Arborec flagship (The “Duha Menaimon”) need to be in a system when it is activated to make ..."
+  },
+  {
+    "category": "Factions - The Arborec",
+    "question": "Can the technology \"Sarween Tools\" be used to reduce the cost of units produced by the Duha Menaimon?",
+    "answer": "No. Sarween tools can only be used when a unit specifically uses the PRODUCTION ability",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can the technology \"Sarween Tools\" be used to reduce the cost of units produced by the Duha Menaimon? Answer: No. Sarween tools can only be used when a unit specifically uses the PRODUCTION ability",
+    "title": "Can the technology \"Sarween Tools\" be used to reduce the cost of units produced by the Duha Menaimon..."
+  },
+  {
+    "category": "Factions - The Argent Flight",
+    "question": "When using the Arborec's hero ability \"Ultrasonic Emitter\", does the cost for the produced units need to be paid for?",
+    "answer": "Yes. Any game effect that instructs a player to produce units requires them to pay for them unless otherwise specified.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: When using the Arborec's hero ability \"Ultrasonic Emitter\", does the cost for the produced units need to be paid for? Answer: Yes. Any game effect that instructs a player to produce units requires them to pay for them unless otherwise specified.",
+    "title": "When using the Arborec's hero ability \"Ultrasonic Emitter\", does the cost for the produced units nee..."
+  },
+  {
+    "category": "Factions - The Argent Flight",
+    "question": "Can ships damaged by Raid Formation trigger a window for the Direct Hit Action card?",
+    "answer": "No, Raid Formation does not cause the ship to use its Sustain Damage ability, it only causes it to become damaged, so there is no window for Direct Hit to be used.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can ships damaged by Raid Formation trigger a window for the Direct Hit Action card? Answer: No, Raid Formation does not cause the ship to use its Sustain Damage ability, it only causes it to become damaged, so there is no window for Direct Hit to be used.",
+    "title": "Can ships damaged by Raid Formation trigger a window for the Direct Hit Action card?"
+  },
+  {
+    "category": "Factions - The Argent Flight",
+    "question": "Can the Argent Flight Hero \"Mirik Aun Sissiri\" be used to move ships into a Supernova or Nebula tile?",
+    "answer": "No. Any units moving into, through or out of anomalies must follow the same rules for ships moving into, through or out of anomalies.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can the Argent Flight Hero \"Mirik Aun Sissiri\" be used to move ships into a Supernova or Nebula tile? Answer: No. Any units moving into, through or out of anomalies must follow the same rules for ships moving into, through or out of anomalies.",
+    "title": "Can the Argent Flight Hero \"Mirik Aun Sissiri\" be used to move ships into a Supernova or Nebula tile..."
+  },
+  {
+    "category": "Factions - The Argent Flight",
+    "question": "When is Raid Formation applied? After rolling or after assigning hits? (Interacts with Waylay)",
+    "answer": "Raid formation is applied after rolling, before canceling or assigning hits.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: When is Raid Formation applied? After rolling or after assigning hits? (Interacts with Waylay) Answer: Raid formation is applied after rolling, before canceling or assigning hits.",
+    "title": "When is Raid Formation applied? After rolling or after assigning hits? (Interacts with Waylay)"
+  },
+  {
+    "category": "Factions - The Barony of Letnev",
+    "question": "Does Strike Wing Alpha II infantry killing get prevented by Shields Holding/re-roll abilities?",
+    "answer": "The rolls from Strike Wing Alpha II can be subject to rerolls before the ability is applied, but the infantry would be destroyed BEFORE any cancellation of hits.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Does Strike Wing Alpha II infantry killing get prevented by Shields Holding/re-roll abilities? Answer: The rolls from Strike Wing Alpha II can be subject to rerolls before the ability is applied, but the infantry would be destroyed BEFORE any cancellation of hits.",
+    "title": "Does Strike Wing Alpha II infantry killing get prevented by Shields Holding/re-roll abilities?"
+  },
+  {
+    "category": "Factions - The Barony of Letnev",
+    "question": "Can War Funding Omega be used on Anti-Fighter Barrage rolls? How about Munitions Reserves?",
+    "answer": "No, War Funding Omega, War Funding, Munitions Reserves and Crown of Thalnos, are specific to combat rolls.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can War Funding Omega be used on Anti-Fighter Barrage rolls? How about Munitions Reserves? Answer: No, War Funding Omega, War Funding, Munitions Reserves and Crown of Thalnos, are specific to combat rolls.",
+    "title": "Can War Funding Omega be used on Anti-Fighter Barrage rolls? How about Munitions Reserves?"
+  },
+  {
+    "category": "Factions - The Clan of Saar",
+    "question": "Does the Barony of Letnev agent, Viscount Unlenn, allow an extra dice to be rolled during Anti-Fighter Barrage?",
+    "answer": "No, the Barony agent only has an effect on combat rolls.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Does the Barony of Letnev agent, Viscount Unlenn, allow an extra dice to be rolled during Anti-Fighter Barrage? Answer: No, the Barony agent only has an effect on combat rolls.",
+    "title": "Does the Barony of Letnev agent, Viscount Unlenn, allow an extra dice to be rolled during Anti-Fight..."
+  },
+  {
+    "category": "Factions - The Clan of Saar",
+    "question": "Can the Clan of Saar’s “Chaos Mapping” faction-specific technology be used at the start of each of that player’s turns during the action phase?",
+    "answer": "Yes, “Chaos Mapping” can be used as many times as you have turns during the action phase.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can the Clan of Saar’s “Chaos Mapping” faction-specific technology be used at the start of each of that player’s turns during the action phase? Answer: Yes, “Chaos Mapping” can be used as many times as you have turns during the action phase.",
+    "title": "Can the Clan of Saar’s “Chaos Mapping” faction-specific technology be used at the start of each of t..."
+  },
+  {
+    "category": "Factions - The Clan of Saar",
+    "question": "Can the Clan of Saar’s “Chaos Mapping” faction-specific technology be used on the turn that the Saar player passes?",
+    "answer": "Yes, “Chaos Mapping” can be used on the turn that a player passes.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can the Clan of Saar’s “Chaos Mapping” faction-specific technology be used on the turn that the Saar player passes? Answer: Yes, “Chaos Mapping” can be used on the turn that a player passes.",
+    "title": "Can the Clan of Saar’s “Chaos Mapping” faction-specific technology be used on the turn that the Saar..."
+  },
+  {
+    "category": "Factions - The Clan of Saar",
+    "question": "Can the Clan of Saar’s “Floating Factories” trigger Space Cannon Offense or be assigned hits produced by PDS units?",
+    "answer": "No, “Floating Factories” cannot be the target of PDS fire.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can the Clan of Saar’s “Floating Factories” trigger Space Cannon Offense or be assigned hits produced by PDS units? Answer: No, “Floating Factories” cannot be the target of PDS fire.",
+    "title": "Can the Clan of Saar’s “Floating Factories” trigger Space Cannon Offense or be assigned hits produce..."
+  },
+  {
+    "category": "Factions - The Clan of Saar",
+    "question": "How does Clan of Saar’s agent, Mendosa, interact with abilities that increase movement such as Gravity Drive or Flank Speed?",
+    "answer": "Clan of Saar’s agent, Mendosa, will get an errata to “WHEN you activate a system.” This means other bonuses would be applied after Mendosa takes effect.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: How does Clan of Saar’s agent, Mendosa, interact with abilities that increase movement such as Gravity Drive or Flank Speed? Answer: Clan of Saar’s agent, Mendosa, will get an errata to “WHEN you activate a system.” This means other bonuses would be applied after Mendosa takes effect.",
+    "title": "How does Clan of Saar’s agent, Mendosa, interact with abilities that increase movement such as Gravi..."
+  },
+  {
+    "category": "Factions - The Council Keleres",
+    "question": "When leaving a Nebula, is Clan of Saar’s agent, Mendosa, applied as a bonus or setting the move value?",
+    "answer": "The Nebula section of the LRR will be edited to reflect changing the printed move value of a unit to 1, Mendosa would be treated as a bonus and would override the Nebula’s movement value rule.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: When leaving a Nebula, is Clan of Saar’s agent, Mendosa, applied as a bonus or setting the move value? Answer: The Nebula section of the LRR will be edited to reflect changing the printed move value of a unit to 1, Mendosa would be treated as a bonus and would override the Nebula’s movement value rule.",
+    "title": "When leaving a Nebula, is Clan of Saar’s agent, Mendosa, applied as a bonus or setting the move valu..."
+  },
+  {
+    "category": "Factions - The Council Keleres",
+    "question": "What is the duration of the Council Keleres agent, Xander Alexin Victori III?",
+    "answer": "The agent is exhausted at the time the commodities would be spent as trade goods, and only lasts for the duration of that spend.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: What is the duration of the Council Keleres agent, Xander Alexin Victori III? Answer: The agent is exhausted at the time the commodities would be spent as trade goods, and only lasts for the duration of that spend.",
+    "title": "What is the duration of the Council Keleres agent, Xander Alexin Victori III?"
+  },
+  {
+    "category": "Factions - The Council Keleres",
+    "question": "What is the order of gaining starting technology when Winnu and/or Argent Flight are in a game with Council Keleres? What if there are not two unique starting technologies at the beginning of the game?",
+    "answer": "Keleres selects after all other players have selected their starting technology. Keleres only gets one starting technology if there is only one other starting technology among all other factions at the table.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: What is the order of gaining starting technology when Winnu and/or Argent Flight are in a game with Council Keleres? What if there are not two unique starting technologies at the beginning of the game? Answer: Keleres selects after all other players have selected their starting technology. Keleres only gets one starting technology if there is only one other starting technology among all other factions at the table.",
+    "title": "What is the order of gaining starting technology when Winnu and/or Argent Flight are in a game with ..."
+  },
+  {
+    "category": "Factions - The Council Keleres",
+    "question": "Does Custodia Vigilia's PRODUCTION count as a unit for sarween tools, etc.?",
+    "answer": "Yes, Custodia Vigilia should include “as if it were a unit”.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Does Custodia Vigilia's PRODUCTION count as a unit for sarween tools, etc.? Answer: Yes, Custodia Vigilia should include “as if it were a unit”.",
+    "title": "Does Custodia Vigilia's PRODUCTION count as a unit for sarween tools, etc.?"
+  },
+  {
+    "category": "Factions - The Council Keleres",
+    "question": "Does Custodia Vigilia count as a planet for objectives? Agendas? Do you gain it exhausted like a planet? Can it be terraformed (if yes, can it be explored)? Nano-Forged? Can units be placed on it? Can the Keleres player be eliminated with it in game?",
+    "answer": "This planet is not on the game board, and does not exist in a system. It is gained exhausted. It counts as a planet for objectives and agendas if it meets the specific criteria of those objectives and agendas. Terraform can be placed on it (Nano-Forge cannot since it is a legendary planet), but their attachment tokens are not placed on the game board. It may be explored, however units cannot be placed on it. Keleres cannot be eliminated if they control Custodia Vigilia.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Does Custodia Vigilia count as a planet for objectives? Agendas? Do you gain it exhausted like a planet? Can it be terraformed (if yes, can it be explored)? Nano-Forged? Can units be placed on it? Can the Keleres player be eliminated with it in game? Answer: This planet is not on the game board, and does not exist in a system. It is gained exhausted. It counts as a planet for objectives and agendas if it meets the specific criteria of those objectives and agendas. Terraform can be placed on it (Nano-Forge cannot since it is a legendary planet), but their attachment tokens are not placed on the game board. It may be explored, however units cannot be placed on it. Keleres cannot be eliminated if they control Custodia Vigilia.",
+    "title": "Does Custodia Vigilia count as a planet for objectives? Agendas? Do you gain it exhausted like a pla..."
+  },
+  {
+    "category": "Factions - The Council Keleres",
+    "question": "Does Custodia Vigilia give command tokens when a player scores public objectives off Imperial?",
+    "answer": "No, the intent is that the tokens are only gained off of using Imperial’s ability to gain a Victory Point because you control Mecatol Rex.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Does Custodia Vigilia give command tokens when a player scores public objectives off Imperial? Answer: No, the intent is that the tokens are only gained off of using Imperial’s ability to gain a Victory Point because you control Mecatol Rex.",
+    "title": "Does Custodia Vigilia give command tokens when a player scores public objectives off Imperial?"
+  },
+  {
+    "category": "Factions - The Council Keleres",
+    "question": "How does the influence payment for the Council Keleres mech, Omniopiares, stack in multiples? Each a separate payment?",
+    "answer": "Each mech is one instance of spend one influence.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: How does the influence payment for the Council Keleres mech, Omniopiares, stack in multiples? Each a separate payment? Answer: Each mech is one instance of spend one influence.",
+    "title": "How does the influence payment for the Council Keleres mech, Omniopiares, stack in multiples? Each a..."
+  },
+  {
+    "category": "Factions - The Council Keleres",
+    "question": "With Agency Supply Network, can you use it on the same unit? Does it trigger Sarween Tools each time? Can you use it on a second dock in a system for a separate use of Sarween? How about off of the Warfare secondary? Does it trigger a single unit's PRODUCTION, or an entire system's?",
+    "answer": "No, the second PRODUCTION instance must be different than one of the units that used the ability to trigger Agency Supply Network. Yes, Sarween Tools would trigger with each instance of PRODUCTION (twice). PRODUCTION is all or nothing during tactical actions, so you couldn’t choose to only use one ability in a system to then use another one in the same system. However, Warfare would allow you to do this, since it specifically says one space dock, Agency Supply Network could be used to use PRODUCTION at a second unit in the same system.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: With Agency Supply Network, can you use it on the same unit? Does it trigger Sarween Tools each time? Can you use it on a second dock in a system for a separate use of Sarween? How about off of the Warfare secondary? Does it trigger a single unit's PRODUCTION, or an entire system's? Answer: No, the second PRODUCTION instance must be different than one of the units that used the ability to trigger Agency Supply Network. Yes, Sarween Tools would trigger with each instance of PRODUCTION (twice). PRODUCTION is all or nothing during tactical actions, so you couldn’t choose to only use one ability in a system to then use another one in the same system. However, Warfare would allow you to do this, since it specifically says one space dock, Agency Supply Network could be used to use PRODUCTION at a second unit in the same system.",
+    "title": "With Agency Supply Network, can you use it on the same unit? Does it trigger Sarween Tools each time..."
+  },
+  {
+    "category": "Factions - The Embers of Muaat",
+    "question": "How does the Council Keleres faction ability Law's Order interact with Minister of Peace/more than 2 PDS on a planet law?",
+    "answer": "All agendas are treated as blank for all players for the duration of that Council Keleres player’s turn.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: How does the Council Keleres faction ability Law's Order interact with Minister of Peace/more than 2 PDS on a planet law? Answer: All agendas are treated as blank for all players for the duration of that Council Keleres player’s turn.",
+    "title": "How does the Council Keleres faction ability Law's Order interact with Minister of Peace/more than 2..."
+  },
+  {
+    "category": "Factions - The Embers of Muaat",
+    "question": "How does the Agenda \"Publicize Weapon Schematics\" affect the Embers of Muaat's War Suns?",
+    "answer": "Prototype War Sun I is considered a war sun but is a printed unit not a war sun technology. Thus, a vote of \"For\" would mean that it would lose the Sustain Damage ability but other players would not be able to ignore war sun prerequisites. A vote of \"Against\" would not affect the Muaat player. The agenda plays as normal if the Muaat player has researched Prototype War Sun II.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: How does the Agenda \"Publicize Weapon Schematics\" affect the Embers of Muaat's War Suns? Answer: Prototype War Sun I is considered a war sun but is a printed unit not a war sun technology. Thus, a vote of \"For\" would mean that it would lose the Sustain Damage ability but other players would not be able to ignore war sun prerequisites. A vote of \"Against\" would not affect the Muaat player. The agenda plays as normal if the Muaat player has researched Prototype War Sun II.",
+    "title": "How does the Agenda \"Publicize Weapon Schematics\" affect the Embers of Muaat's War Suns?"
+  },
+  {
+    "category": "Factions - The Emirates of Hacan",
+    "question": "How does The Embers of Muaat Hero, Nova Seed, interact with tokens (e.g. wormholes, Mirage)?",
+    "answer": "Nova Seed also purges all tokens other than command tokens and frontier tokens. Any faction specific tokens are returned to that faction.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: How does The Embers of Muaat Hero, Nova Seed, interact with tokens (e.g. wormholes, Mirage)? Answer: Nova Seed also purges all tokens other than command tokens and frontier tokens. Any faction specific tokens are returned to that faction.",
+    "title": "How does The Embers of Muaat Hero, Nova Seed, interact with tokens (e.g. wormholes, Mirage)?"
+  },
+  {
+    "category": "Factions - The Emirates of Hacan",
+    "question": "Does the Hacan player have to initiate negotiations in order to transact with a player who is not their neighbor?",
+    "answer": "As long as the active player is involved in the transaction, either player may suggest the opening of negotiations, on either player’s turn.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Does the Hacan player have to initiate negotiations in order to transact with a player who is not their neighbor? Answer: As long as the active player is involved in the transaction, either player may suggest the opening of negotiations, on either player’s turn.",
+    "title": "Does the Hacan player have to initiate negotiations in order to transact with a player who is not th..."
+  },
+  {
+    "category": "Factions - The Emirates of Hacan",
+    "question": "Can Hacan trade action cards after having Political Secret played against them?",
+    "answer": "Arbiters is a passive ability and the Emirates of Hacan can trade Action cards regardless of having their Political Secret played against them.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can Hacan trade action cards after having Political Secret played against them? Answer: Arbiters is a passive ability and the Emirates of Hacan can trade Action cards regardless of having their Political Secret played against them.",
+    "title": "Can Hacan trade action cards after having Political Secret played against them?"
+  },
+  {
+    "category": "Factions - The Empyrean",
+    "question": "What happens if the Emirates of Hacan trade a planet during combat using their mech’s ability? Particularly when combined with Integrated Economy or the Nomad faction technology Temporal Command Suite?",
+    "answer": "A planet that has the Hacan Mech can’t be traded in combat. You can’t produce ground forces on a planet with another player’s ground forces. Future errata will clarify this.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: What happens if the Emirates of Hacan trade a planet during combat using their mech’s ability? Particularly when combined with Integrated Economy or the Nomad faction technology Temporal Command Suite? Answer: A planet that has the Hacan Mech can’t be traded in combat. You can’t produce ground forces on a planet with another player’s ground forces. Future errata will clarify this.",
+    "title": "What happens if the Emirates of Hacan trade a planet during combat using their mech’s ability? Parti..."
+  },
+  {
+    "category": "Factions - The Empyrean",
+    "question": "When a player gives you their commodities and triggers Dark Pact, do you gain all the trade goods simultaneously or the Dark Pact trade good separately? (For the purposes of Pillage)",
+    "answer": "It is a single gain of commodities and 1 trade good simultaneously.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: When a player gives you their commodities and triggers Dark Pact, do you gain all the trade goods simultaneously or the Dark Pact trade good separately? (For the purposes of Pillage) Answer: It is a single gain of commodities and 1 trade good simultaneously.",
+    "title": "When a player gives you their commodities and triggers Dark Pact, do you gain all the trade goods si..."
+  },
+  {
+    "category": "Factions - The Ghosts of Creuss",
+    "question": "Can the Empyrean flagship be used to repair the same ship, multiple times in the same combat round? Can it spend a 4 influence planet to use the ability twice?",
+    "answer": "The Dynamo’s ability can be used multiple times in the same combat round by spending 2 influence, individually, each time. However, the same unit could not use its Sustain Damage ability multiple times during the same timing window.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can the Empyrean flagship be used to repair the same ship, multiple times in the same combat round? Can it spend a 4 influence planet to use the ability twice? Answer: The Dynamo’s ability can be used multiple times in the same combat round by spending 2 influence, individually, each time. However, the same unit could not use its Sustain Damage ability multiple times during the same timing window.",
+    "title": "Can the Empyrean flagship be used to repair the same ship, multiple times in the same combat round? ..."
+  },
+  {
+    "category": "Factions - The Ghosts of Creuss",
+    "question": "Can the Creuss Promissory note still be used if the Creuss have not researched “Wormhole Generator”?",
+    "answer": "Yes, the promissory note does not require that the “Wormhole Generator” technology have been researched.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can the Creuss Promissory note still be used if the Creuss have not researched “Wormhole Generator”? Answer: Yes, the promissory note does not require that the “Wormhole Generator” technology have been researched.",
+    "title": "Can the Creuss Promissory note still be used if the Creuss have not researched “Wormhole Generator”?"
+  },
+  {
+    "category": "Factions - The Ghosts of Creuss",
+    "question": "Can the “Light/Wave Deflector” technology be used to move through a wormhole created by the Ghosts of Creuss’ “Hil Colish” flagship?",
+    "answer": "Yes, “Light/Wave Deflector” would allow a player other than the Ghosts of Creuss to move their fleet through the “Hil Colish’s” system into Creuss system or the Creuss Gate system.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can the “Light/Wave Deflector” technology be used to move through a wormhole created by the Ghosts of Creuss’ “Hil Colish” flagship? Answer: Yes, “Light/Wave Deflector” would allow a player other than the Ghosts of Creuss to move their fleet through the “Hil Colish’s” system into Creuss system or the Creuss Gate system.",
+    "title": "Can the “Light/Wave Deflector” technology be used to move through a wormhole created by the Ghosts o..."
+  },
+  {
+    "category": "Factions - The Ghosts of Creuss",
+    "question": "If the “Hil Colish” moves before other ships and is returned to reinforcements by a gravity rift, can other ships still use its delta wormhole to reach the active system?",
+    "answer": "No, the wormhole ceases to exist when the “Hil Colish” is returned to reinforcements.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: If the “Hil Colish” moves before other ships and is returned to reinforcements by a gravity rift, can other ships still use its delta wormhole to reach the active system? Answer: No, the wormhole ceases to exist when the “Hil Colish” is returned to reinforcements.",
+    "title": "If the “Hil Colish” moves before other ships and is returned to reinforcements by a gravity rift, ca..."
+  },
+  {
+    "category": "Factions - The Ghosts of Creuss",
+    "question": "When multiple ships with capacity move through wormholes, how many fighters are placed with the Ghosts Commander, Sai Seravus?",
+    "answer": "When Sai Seravus is used, fighters are placed in the active system one at a time, up to the number of ships with capacity that moved through wormholes, or the capacity limit in the system is reached, whichever happens first.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: When multiple ships with capacity move through wormholes, how many fighters are placed with the Ghosts Commander, Sai Seravus? Answer: When Sai Seravus is used, fighters are placed in the active system one at a time, up to the number of ships with capacity that moved through wormholes, or the capacity limit in the system is reached, whichever happens first.",
+    "title": "When multiple ships with capacity move through wormholes, how many fighters are placed with the Ghos..."
+  },
+  {
+    "category": "Factions - The L1Z1X Mindnet",
+    "question": "How does the Ghosts of Creuss Hero, Singularity Reactor, interact with tokens (e.g. wormholes, Mirage)?",
+    "answer": "All tokens stay with their original tile",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: How does the Ghosts of Creuss Hero, Singularity Reactor, interact with tokens (e.g. wormholes, Mirage)? Answer: All tokens stay with their original tile",
+    "title": "How does the Ghosts of Creuss Hero, Singularity Reactor, interact with tokens (e.g. wormholes, Mirag..."
+  },
+  {
+    "category": "Factions - The Mahact Gene-Sorcerers",
+    "question": "Can the L1Z1X use harrow when they're defending during ground combat?",
+    "answer": "No, only the active player can use BOMBARDMENT.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can the L1Z1X use harrow when they're defending during ground combat? Answer: No, only the active player can use BOMBARDMENT.",
+    "title": "Can the L1Z1X use harrow when they're defending during ground combat?"
+  },
+  {
+    "category": "Factions - The Mahact Gene-Sorcerers",
+    "question": "Can you use the Mahact Agent, Jae Mir Kan, to place a token using the secondary of the Construction Strategy Card without placing a structure",
+    "answer": "The system that you place a token in must have an eligible planet for you to put a structure on.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can you use the Mahact Agent, Jae Mir Kan, to place a token using the secondary of the Construction Strategy Card without placing a structure Answer: The system that you place a token in must have an eligible planet for you to put a structure on.",
+    "title": "Can you use the Mahact Agent, Jae Mir Kan, to place a token using the secondary of the Construction ..."
+  },
+  {
+    "category": "Factions - The Mahact Gene-Sorcerers",
+    "question": "If the Mahact player has a token where they want to place a structure using another player's token, does the other player's token go in the system or to their reinforcements?",
+    "answer": "The token is still placed in the system.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: If the Mahact player has a token where they want to place a structure using another player's token, does the other player's token go in the system or to their reinforcements? Answer: The token is still placed in the system.",
+    "title": "If the Mahact player has a token where they want to place a structure using another player's token, ..."
+  },
+  {
+    "category": "Factions - The Mahact Gene-Sorcerers",
+    "question": "In regards to the Mahact Commander, Il Na Viroset, when does your turn end? Do you resolve when/after you activate a system abilities? Is this different from Nullification Field or Starlancer? Can you resolve end of your turn abilities?",
+    "answer": "Contrary to a previous Twitter ruling, when/after you activate and other abilities within your turn cannot be used when the Mahact player places a second token in a system. End of turn abilities can still be used. Any ability that ends your turn should be treated as ending your turn when they occur, and no further abilities during that same trigger window can take place.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: In regards to the Mahact Commander, Il Na Viroset, when does your turn end? Do you resolve when/after you activate a system abilities? Is this different from Nullification Field or Starlancer? Can you resolve end of your turn abilities? Answer: Contrary to a previous Twitter ruling, when/after you activate and other abilities within your turn cannot be used when the Mahact player places a second token in a system. End of turn abilities can still be used. Any ability that ends your turn should be treated as ending your turn when they occur, and no further abilities during that same trigger window can take place.",
+    "title": "In regards to the Mahact Commander, Il Na Viroset, when does your turn end? Do you resolve when/afte..."
+  },
+  {
+    "category": "Factions - The Mahact Gene-Sorcerers",
+    "question": "What's the interaction with the Mahact Commander, Il Na Viroset, and the Counterstroke action card?",
+    "answer": "Counterstroke cannot be played.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: What's the interaction with the Mahact Commander, Il Na Viroset, and the Counterstroke action card? Answer: Counterstroke cannot be played.",
+    "title": "What's the interaction with the Mahact Commander, Il Na Viroset, and the Counterstroke action card?"
+  },
+  {
+    "category": "Factions - The Mahact Gene-Sorcerers",
+    "question": "Does Dark Energy Tap trigger if you used the Mahact Commander, Il Na Viroset?",
+    "answer": "No.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Does Dark Energy Tap trigger if you used the Mahact Commander, Il Na Viroset? Answer: No.",
+    "title": "Does Dark Energy Tap trigger if you used the Mahact Commander, Il Na Viroset?"
+  },
+  {
+    "category": "Factions - The Mahact Gene-Sorcerers",
+    "question": "Do ships roll when moving out of a gravity rift due to the Mahact Hero, Benediction?",
+    "answer": "Yes.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Do ships roll when moving out of a gravity rift due to the Mahact Hero, Benediction? Answer: Yes.",
+    "title": "Do ships roll when moving out of a gravity rift due to the Mahact Hero, Benediction?"
+  },
+  {
+    "category": "Factions - The Mahact Gene-Sorcerers",
+    "question": "When the Mahact hero, Benediction, is used who is considered the attacker and who is the defender? For ability purposes, is the combat system considered “The Active System”?",
+    "answer": "The ships being moved belong to the \"attacker\" and the ships not being moved belong to the \"defender.” The combat system is treated as the active system during that combat.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: When the Mahact hero, Benediction, is used who is considered the attacker and who is the defender? For ability purposes, is the combat system considered “The Active System”? Answer: The ships being moved belong to the \"attacker\" and the ships not being moved belong to the \"defender.” The combat system is treated as the active system during that combat.",
+    "title": "When the Mahact hero, Benediction, is used who is considered the attacker and who is the defender? F..."
+  },
+  {
+    "category": "Factions - The Mahact Gene-Sorcerers",
+    "question": "When using the Mahact Hero, Benediction, is capacity resolved after moving ships before the space combat? (Only relevant if moving fighters away from a space dock)",
+    "answer": "A Capacity check is resolved before the space combat begins.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: When using the Mahact Hero, Benediction, is capacity resolved after moving ships before the space combat? (Only relevant if moving fighters away from a space dock) Answer: A Capacity check is resolved before the space combat begins.",
+    "title": "When using the Mahact Hero, Benediction, is capacity resolved after moving ships before the space co..."
+  },
+  {
+    "category": "Factions - The Mahact Gene-Sorcerers",
+    "question": "When using the Mahact Hero, Benediction, can the Mahact player transport other players' ground forces from planets? Can the units’ owner transport ground forces from planets?",
+    "answer": "No in both circumstances.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: When using the Mahact Hero, Benediction, can the Mahact player transport other players' ground forces from planets? Can the units’ owner transport ground forces from planets? Answer: No in both circumstances.",
+    "title": "When using the Mahact Hero, Benediction, can the Mahact player transport other players' ground force..."
+  },
+  {
+    "category": "Factions - The Mahact Gene-Sorcerers",
+    "question": "When using the Mahact Hero, Benediction, can the Mahact player transport their own ground forces from planets when moving?",
+    "answer": "Yes.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: When using the Mahact Hero, Benediction, can the Mahact player transport their own ground forces from planets when moving? Answer: Yes.",
+    "title": "When using the Mahact Hero, Benediction, can the Mahact player transport their own ground forces fro..."
+  },
+  {
+    "category": "Factions - The Mahact Gene-Sorcerers",
+    "question": "When using the Mahact Hero, Benediction, if another player's fleet is moved into a Mahact fleet, who is the attacker/defender?",
+    "answer": "The player that is moved is the attacker, the player that is moved into is the defender.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: When using the Mahact Hero, Benediction, if another player's fleet is moved into a Mahact fleet, who is the attacker/defender? Answer: The player that is moved is the attacker, the player that is moved into is the defender.",
+    "title": "When using the Mahact Hero, Benediction, if another player's fleet is moved into a Mahact fleet, who..."
+  },
+  {
+    "category": "Factions - The Mahact Gene-Sorcerers",
+    "question": "Can Mahact use their mech ability on themselves?",
+    "answer": "Yes.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can Mahact use their mech ability on themselves? Answer: Yes.",
+    "title": "Can Mahact use their mech ability on themselves?"
+  },
+  {
+    "category": "Factions - The Mahact Gene-Sorcerers",
+    "question": "If you are the Mahact player, what happens when an agenda tells you to “remove one of your command tokens from your fleet pool and return it to your reinforcements” but you only have tokens from other players in your fleet pool?",
+    "answer": "You are required to remove another player’s token and return it to that player’s reinforcements.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: If you are the Mahact player, what happens when an agenda tells you to “remove one of your command tokens from your fleet pool and return it to your reinforcements” but you only have tokens from other players in your fleet pool? Answer: You are required to remove another player’s token and return it to that player’s reinforcements.",
+    "title": "If you are the Mahact player, what happens when an agenda tells you to “remove one of your command t..."
+  },
+  {
+    "category": "Factions - The Mahact Gene-Sorcerers",
+    "question": "If the law Fleet Regulations is in play, and Mahact already has 4 tokens in fleet, can they add another one and then discard one via Edict, or can they NOT add one after a combat win because of the “cannot” in Fleet Regulations?",
+    "answer": "The Mahact player can add a 5th token and choose one to return to their reinforcements from their fleet pool afterward.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: If the law Fleet Regulations is in play, and Mahact already has 4 tokens in fleet, can they add another one and then discard one via Edict, or can they NOT add one after a combat win because of the “cannot” in Fleet Regulations? Answer: The Mahact player can add a 5th token and choose one to return to their reinforcements from their fleet pool afterward.",
+    "title": "If the law Fleet Regulations is in play, and Mahact already has 4 tokens in fleet, can they add anot..."
+  },
+  {
+    "category": "Factions - The Mahact Gene-Sorcerers",
+    "question": "Can a player with 0 votes be targeted by Genetic Recombination? It is theoretically possible for someone to receive abilities via transaction to allow them to vote after the timing window of Genetic Recombination. Is there a defined difference between “cannot vote” and “currently has no votes” for the purposes of this technology?",
+    "answer": "Genetic Recombination happens before a player would exhaust planets to vote. So if a player cannot vote, or does not have votes to cast, they cannot be targeted by the tech. If they obtain an ability that would allow them to vote, they could be targeted by the tech before the votes are cast.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can a player with 0 votes be targeted by Genetic Recombination? It is theoretically possible for someone to receive abilities via transaction to allow them to vote after the timing window of Genetic Recombination. Is there a defined difference between “cannot vote” and “currently has no votes” for the purposes of this technology? Answer: Genetic Recombination happens before a player would exhaust planets to vote. So if a player cannot vote, or does not have votes to cast, they cannot be targeted by the tech. If they obtain an ability that would allow them to vote, they could be targeted by the tech before the votes are cast.",
+    "title": "Can a player with 0 votes be targeted by Genetic Recombination? It is theoretically possible for som..."
+  },
+  {
+    "category": "Factions - The Mentak Coalition",
+    "question": "If Mahact has an Arborec Command Token in their fleet pool, after another player activates an appropriate system that does not already contain a Mahact Mech, can the Mahact player produce a mech and then trigger that mech's ability to end a player’s turn?",
+    "answer": "No, the mech was not in the system at the time of activation, so it didn't see the trigger for its ability.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: If Mahact has an Arborec Command Token in their fleet pool, after another player activates an appropriate system that does not already contain a Mahact Mech, can the Mahact player produce a mech and then trigger that mech's ability to end a player’s turn? Answer: No, the mech was not in the system at the time of activation, so it didn't see the trigger for its ability.",
+    "title": "If Mahact has an Arborec Command Token in their fleet pool, after another player activates an approp..."
+  },
+  {
+    "category": "Factions - The Mentak Coalition",
+    "question": "Can the Mentak Coalition use the “Salvage Operations” faction-specific technology to produce a war sun that was destroyed if they do not personally have war sun technology?",
+    "answer": "No. Without war sun technology, they cannot produce a war sun, even using “Salvage Operations”.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can the Mentak Coalition use the “Salvage Operations” faction-specific technology to produce a war sun that was destroyed if they do not personally have war sun technology? Answer: No. Without war sun technology, they cannot produce a war sun, even using “Salvage Operations”.",
+    "title": "Can the Mentak Coalition use the “Salvage Operations” faction-specific technology to produce a war s..."
+  },
+  {
+    "category": "Factions - The Mentak Coalition",
+    "question": "Can the Mentak Coalition use the “Salvage Operations” faction-specific technology to produce their own flagship after destroying an opponent’s flagship?",
+    "answer": "Yes, even though the units are technically different, they share the flagship unit type.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can the Mentak Coalition use the “Salvage Operations” faction-specific technology to produce their own flagship after destroying an opponent’s flagship? Answer: Yes, even though the units are technically different, they share the flagship unit type.",
+    "title": "Can the Mentak Coalition use the “Salvage Operations” faction-specific technology to produce their o..."
+  },
+  {
+    "category": "Factions - The Mentak Coalition",
+    "question": "Can the Mentak Coalition use the “Salvage Operations” faction-specific technology to produce infantry after a combat against the Nekro Virus flagship “The Alastor” in which Nekro Virus infantry were treated like ships and were subsequently destroyed?",
+    "answer": "No, the infantry do not count as ships once the combat is over.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can the Mentak Coalition use the “Salvage Operations” faction-specific technology to produce infantry after a combat against the Nekro Virus flagship “The Alastor” in which Nekro Virus infantry were treated like ships and were subsequently destroyed? Answer: No, the infantry do not count as ships once the combat is over.",
+    "title": "Can the Mentak Coalition use the “Salvage Operations” faction-specific technology to produce infantr..."
+  },
+  {
+    "category": "Factions - The Mentak Coalition",
+    "question": "Can the Mentak Coalition use the “Pillage” faction ability to steal trade goods when they are neighbors with another faction as a result of the “Lazax Gate Folding” faction technology or “Quantum Entanglement” faction ability?",
+    "answer": "Yes, even in the case of “Quantum Entanglement” only being active from the Creuss’ point of view, because the ‘neighbor’ status is active as a result of the ability, the Mentak may use their “Pillage” in these situations.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can the Mentak Coalition use the “Pillage” faction ability to steal trade goods when they are neighbors with another faction as a result of the “Lazax Gate Folding” faction technology or “Quantum Entanglement” faction ability? Answer: Yes, even in the case of “Quantum Entanglement” only being active from the Creuss’ point of view, because the ‘neighbor’ status is active as a result of the ability, the Mentak may use their “Pillage” in these situations.",
+    "title": "Can the Mentak Coalition use the “Pillage” faction ability to steal trade goods when they are neighb..."
+  },
+  {
+    "category": "Factions - The Mentak Coalition",
+    "question": "Can the Mentak Coalition use the “Pillage” faction ability for each time the Saar gain a trade good from the “Scavenge” faction ability in a single turn, provided that the other requirements are met?",
+    "answer": "Yes. The Mentak can trigger “Pillage” each time the Saar gain control of a planet, if all the conditions of “Pillage” are met.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can the Mentak Coalition use the “Pillage” faction ability for each time the Saar gain a trade good from the “Scavenge” faction ability in a single turn, provided that the other requirements are met? Answer: Yes. The Mentak can trigger “Pillage” each time the Saar gain control of a planet, if all the conditions of “Pillage” are met.",
+    "title": "Can the Mentak Coalition use the “Pillage” faction ability for each time the Saar gain a trade good ..."
+  },
+  {
+    "category": "Factions - The Mentak Coalition",
+    "question": "Can the Mentak Coalition’s hero, Sleeper Cell, be used to place a warsun if you do not own the warsun technology?",
+    "answer": "No.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can the Mentak Coalition’s hero, Sleeper Cell, be used to place a warsun if you do not own the warsun technology? Answer: No.",
+    "title": "Can the Mentak Coalition’s hero, Sleeper Cell, be used to place a warsun if you do not own the warsu..."
+  },
+  {
+    "category": "Factions - The Mentak Coalition",
+    "question": "If Mentak's Hero, Sleeper Cell, is used and their last ship is destroyed during a round of combat in which they also destroy an opponent's ship, does combat continue?",
+    "answer": "Yes, after both players assign hits the Mentak player then places a ship from their reinforcements in the active system and combat continues.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: If Mentak's Hero, Sleeper Cell, is used and their last ship is destroyed during a round of combat in which they also destroy an opponent's ship, does combat continue? Answer: Yes, after both players assign hits the Mentak player then places a ship from their reinforcements in the active system and combat continues.",
+    "title": "If Mentak's Hero, Sleeper Cell, is used and their last ship is destroyed during a round of combat in..."
+  },
+  {
+    "category": "Factions - The Naalu Collective",
+    "question": "If you use the Mentak Coalition’s Hero, Ipswitch, Loose Cannon, and lose your flagship in a combat, but destroy the other player’s flagship and rebuild your own, can you score Unveil Flagship?",
+    "answer": "No, the wording on Unveil Flagship would prevent you from scoring it since your flagship was destroyed in the combat, regardless of the fact that it returned.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: If you use the Mentak Coalition’s Hero, Ipswitch, Loose Cannon, and lose your flagship in a combat, but destroy the other player’s flagship and rebuild your own, can you score Unveil Flagship? Answer: No, the wording on Unveil Flagship would prevent you from scoring it since your flagship was destroyed in the combat, regardless of the fact that it returned.",
+    "title": "If you use the Mentak Coalition’s Hero, Ipswitch, Loose Cannon, and lose your flagship in a combat, ..."
+  },
+  {
+    "category": "Factions - The Naalu Collective",
+    "question": "Does the Naalu flagship (“The Matriarch”) allow the Naalu to take gain control of a planet using only fighters?",
+    "answer": "No. The Naalu fighters return to the space area when ground combat ends. If no Naalu ground forces are present, the combat is considered to be a draw, and the Naalu do not gain control of the planet during the “Establish Control” step.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Does the Naalu flagship (“The Matriarch”) allow the Naalu to take gain control of a planet using only fighters? Answer: No. The Naalu fighters return to the space area when ground combat ends. If no Naalu ground forces are present, the combat is considered to be a draw, and the Naalu do not gain control of the planet during the “Establish Control” step.",
+    "title": "Does the Naalu flagship (“The Matriarch”) allow the Naalu to take gain control of a planet using onl..."
+  },
+  {
+    "category": "Factions - The Naalu Collective",
+    "question": "Using the Naalu flagship (“The Matriarch”) in combination with the “Dacxive Animators” technology, can the Naalu gain control of a planet using only fighters?",
+    "answer": "No. Because the combat ends in a draw, the “Dacxive Animators” ability is not triggered.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Using the Naalu flagship (“The Matriarch”) in combination with the “Dacxive Animators” technology, can the Naalu gain control of a planet using only fighters? Answer: No. Because the combat ends in a draw, the “Dacxive Animators” ability is not triggered.",
+    "title": "Using the Naalu flagship (“The Matriarch”) in combination with the “Dacxive Animators” technology, c..."
+  },
+  {
+    "category": "Factions - The Naalu Collective",
+    "question": "Does the Naalu “0” token move with the strategy card it is placed on if the card is exchanged with or taken by another player?",
+    "answer": "No. The Naalu “0” token stays with the Naalu or the faction that gained the token through the “Gift of Prescience” promissory note and is placed on any of that player’s strategy cards.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Does the Naalu “0” token move with the strategy card it is placed on if the card is exchanged with or taken by another player? Answer: No. The Naalu “0” token stays with the Naalu or the faction that gained the token through the “Gift of Prescience” promissory note and is placed on any of that player’s strategy cards.",
+    "title": "Does the Naalu “0” token move with the strategy card it is placed on if the card is exchanged with o..."
+  },
+  {
+    "category": "Factions - The Naalu Collective",
+    "question": "Can the Naalu Collective commander, M’aban, or the Yin Brotherhood commander, Brother Omar, allow the player to choose to produce only 1 infantry/fighter and then another with their commander?",
+    "answer": "Yes, both of these commanders allow the player to choose to only build a single fighter/infantry for 1 resource and gain an additional unit of that type each time they do.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can the Naalu Collective commander, M’aban, or the Yin Brotherhood commander, Brother Omar, allow the player to choose to produce only 1 infantry/fighter and then another with their commander? Answer: Yes, both of these commanders allow the player to choose to only build a single fighter/infantry for 1 resource and gain an additional unit of that type each time they do.",
+    "title": "Can the Naalu Collective commander, M’aban, or the Yin Brotherhood commander, Brother Omar, allow th..."
+  },
+  {
+    "category": "Factions - The Naalu Collective",
+    "question": "The Naalu Collective agent, Z’eu Omega, says \"resolve a tactical action\" but this is during a component action. How does this work for the Mahact Gene-Sorceres mech, Starlancer? Master Plan? Ministers of Peace and War? Who is the active player for abilities/transactions? Can Naalu use Fleet Logistics after this action? Can players who passed use it?",
+    "answer": "The Naalu Collective agent, Z’eu Omega is a component action that allows a player to take a tactical action and effectively makes them the active player for the duration of the tactical action (and any actions that may occur after, due to further abilities causing further actions). This DOES NOT count as the tactical action player’s turn, so they cannot utilize fleet logistics, however they could use Master Plan or the Minister of War, as these reference tactical actions and not a player’s turn. Minister of Peace and the Mahact Gene-Sorcerers mech, Starlancer ends the turn of the tactical action player, regardless of referencing a “turn”.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: The Naalu Collective agent, Z’eu Omega, says \"resolve a tactical action\" but this is during a component action. How does this work for the Mahact Gene-Sorceres mech, Starlancer? Master Plan? Ministers of Peace and War? Who is the active player for abilities/transactions? Can Naalu use Fleet Logistics after this action? Can players who passed use it? Answer: The Naalu Collective agent, Z’eu Omega is a component action that allows a player to take a tactical action and effectively makes them the active player for the duration of the tactical action (and any actions that may occur after, due to further abilities causing further actions). This DOES NOT count as the tactical action player’s turn, so they cannot utilize fleet logistics, however they could use Master Plan or the Minister of War, as these reference tactical actions and not a player’s turn. Minister of Peace and the Mahact Gene-Sorcerers mech, Starlancer ends the turn of the tactical action player, regardless of referencing a “turn”.",
+    "title": "The Naalu Collective agent, Z’eu Omega, says \"resolve a tactical action\" but this is during a compon..."
+  },
+  {
+    "category": "Factions - The Naaz-Rokha Alliance",
+    "question": "When Covert Legislation is revealed, is there a window in which the Naalu Collective commander, M’aban Omega, can look at the next agenda card? Can they look while the Politics player is resolving the primary of that strategy card, or while putting them on the top/bottom?",
+    "answer": "The Naalu Collective Commander, M’aban Omega, cannot look at the next card when Covert Legislation is revealed before the speaker draws the top card of the agenda deck. It also cannot be used to interrupt the primary ability of the Politics strategy card.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: When Covert Legislation is revealed, is there a window in which the Naalu Collective commander, M’aban Omega, can look at the next agenda card? Can they look while the Politics player is resolving the primary of that strategy card, or while putting them on the top/bottom? Answer: The Naalu Collective Commander, M’aban Omega, cannot look at the next card when Covert Legislation is revealed before the speaker draws the top card of the agenda deck. It also cannot be used to interrupt the primary ability of the Politics strategy card.",
+    "title": "When Covert Legislation is revealed, is there a window in which the Naalu Collective commander, M’ab..."
+  },
+  {
+    "category": "Factions - The Naaz-Rokha Alliance",
+    "question": "Can the Naaz-Rohka hero, Hesh and Prit, be used when the player has no tokens in reinforcements?",
+    "answer": "The LRR will be updated to be more general towards taking off sheet if none are in reinforcements. This change should cover other requirements in this regard as well.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can the Naaz-Rohka hero, Hesh and Prit, be used when the player has no tokens in reinforcements? Answer: The LRR will be updated to be more general towards taking off sheet if none are in reinforcements. This change should cover other requirements in this regard as well.",
+    "title": "Can the Naaz-Rohka hero, Hesh and Prit, be used when the player has no tokens in reinforcements?"
+  },
+  {
+    "category": "Factions - The Naaz-Rokha Alliance",
+    "question": "Can you purge a relic fragment to gain a command token if you have no command tokens in your reinforcements?",
+    "answer": "Yes, you can purge the fragment and not gain a command token if there are none in reinforcements.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can you purge a relic fragment to gain a command token if you have no command tokens in your reinforcements? Answer: Yes, you can purge the fragment and not gain a command token if there are none in reinforcements.",
+    "title": "Can you purge a relic fragment to gain a command token if you have no command tokens in your reinfor..."
+  },
+  {
+    "category": "Factions - The Nekro Virus",
+    "question": "For the Naaz-Rokha’s Distant Suns ability, do you decide to draw the extra exploration card before you draw the first card, or after?",
+    "answer": "Before the initial exploration card is drawn.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: For the Naaz-Rokha’s Distant Suns ability, do you decide to draw the extra exploration card before you draw the first card, or after? Answer: Before the initial exploration card is drawn.",
+    "title": "For the Naaz-Rokha’s Distant Suns ability, do you decide to draw the extra exploration card before y..."
+  },
+  {
+    "category": "Factions - The Nekro Virus",
+    "question": "Can the Nekro Virus use the “Valefar Assimilator” technologies on printed faction units such as the Embers of Muaat’s Prototype War Sun I?",
+    "answer": "No, printed faction units are not technologies, and thus are ineligible targets for “Valefar Assimilator.”",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can the Nekro Virus use the “Valefar Assimilator” technologies on printed faction units such as the Embers of Muaat’s Prototype War Sun I? Answer: No, printed faction units are not technologies, and thus are ineligible targets for “Valefar Assimilator.”",
+    "title": "Can the Nekro Virus use the “Valefar Assimilator” technologies on printed faction units such as the ..."
+  },
+  {
+    "category": "Factions - The Nekro Virus",
+    "question": "Do infantry involved in a space combat via the effects of “The Alastor” flagship count as ships for the purpose of card effects and fleet supply?",
+    "answer": "Infantry that are participating in space combat via “The Alastor” do count as ships (in addition to their own unit type) for the purpose of card effects, but, as a unit that can be transported, they do not count against fleet supply in that system.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Do infantry involved in a space combat via the effects of “The Alastor” flagship count as ships for the purpose of card effects and fleet supply? Answer: Infantry that are participating in space combat via “The Alastor” do count as ships (in addition to their own unit type) for the purpose of card effects, but, as a unit that can be transported, they do not count against fleet supply in that system.",
+    "title": "Do infantry involved in a space combat via the effects of “The Alastor” flagship count as ships for ..."
+  },
+  {
+    "category": "Factions - The Nekro Virus",
+    "question": "Can infantry involved in a space combat by using the ability of “The Alastor” flagship be used in an invasion after the space combat?",
+    "answer": "Yes.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can infantry involved in a space combat by using the ability of “The Alastor” flagship be used in an invasion after the space combat? Answer: Yes.",
+    "title": "Can infantry involved in a space combat by using the ability of “The Alastor” flagship be used in an..."
+  },
+  {
+    "category": "Factions - The Nekro Virus",
+    "question": "Do infantry involved in a space combat via the effects of “The Alastor” flagship cease participation in combat if the Alastor is destroyed?",
+    "answer": "No. Infantry that are committed to the space combat due to the effects of \"The Alastor\" continue to participate until the end of the combat, even if \"The Alastor\" is destroyed",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Do infantry involved in a space combat via the effects of “The Alastor” flagship cease participation in combat if the Alastor is destroyed? Answer: No. Infantry that are committed to the space combat due to the effects of \"The Alastor\" continue to participate until the end of the combat, even if \"The Alastor\" is destroyed",
+    "title": "Do infantry involved in a space combat via the effects of “The Alastor” flagship cease participation..."
+  },
+  {
+    "category": "Factions - The Nekro Virus",
+    "question": "Do infantry involved in a space combat via the effects of “The Alastor” flagship count toward the ships required to use the “Assault Cannon” technology?",
+    "answer": "Yes. These infantry may be used to resolve “Assault Cannon.”",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Do infantry involved in a space combat via the effects of “The Alastor” flagship count toward the ships required to use the “Assault Cannon” technology? Answer: Yes. These infantry may be used to resolve “Assault Cannon.”",
+    "title": "Do infantry involved in a space combat via the effects of “The Alastor” flagship count toward the sh..."
+  },
+  {
+    "category": "Factions - The Nekro Virus",
+    "question": "Can the Nekro Virus player play the action cards \"Bribery\" or \"Distinguished Councillor\"?",
+    "answer": "No. The Nekro Virus player is unable to vote and so cannot use these cards to gain votes.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can the Nekro Virus player play the action cards \"Bribery\" or \"Distinguished Councillor\"? Answer: No. The Nekro Virus player is unable to vote and so cannot use these cards to gain votes.",
+    "title": "Can the Nekro Virus player play the action cards \"Bribery\" or \"Distinguished Councillor\"?"
+  },
+  {
+    "category": "Factions - The Nekro Virus",
+    "question": "Does the Winnu “Salai Sai Corian” flagship get additional dice for infantry participating in a fight due to the Nekro “Alastor” flagship?",
+    "answer": "Yes. The “Salai Sai Corian” would get one additional die per infantry.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Does the Winnu “Salai Sai Corian” flagship get additional dice for infantry participating in a fight due to the Nekro “Alastor” flagship? Answer: Yes. The “Salai Sai Corian” would get one additional die per infantry.",
+    "title": "Does the Winnu “Salai Sai Corian” flagship get additional dice for infantry participating in a fight..."
+  },
+  {
+    "category": "Factions - The Nekro Virus",
+    "question": "Can the Nekro Virus have both a standard and a faction-specific unit upgrade of the same type?",
+    "answer": "Yes. Only the faction-specific unit upgrade technology will be in effect, but should the Nekro lose the faction-specific upgrade technology that is being copied by the “Valefar Assimilator,” he would revert to the standard unit upgrade technology that was previously inactive.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can the Nekro Virus have both a standard and a faction-specific unit upgrade of the same type? Answer: Yes. Only the faction-specific unit upgrade technology will be in effect, but should the Nekro lose the faction-specific upgrade technology that is being copied by the “Valefar Assimilator,” he would revert to the standard unit upgrade technology that was previously inactive.",
+    "title": "Can the Nekro Virus have both a standard and a faction-specific unit upgrade of the same type?"
+  },
+  {
+    "category": "Factions - The Nekro Virus",
+    "question": "If the Nekro Virus owns multiple unit upgrade technologies of the same type, such as “Dreadnought II” and “Exotrireme II,” does each one count toward the “Develop Weaponry” and “Revolutionize Warfare” objectives?",
+    "answer": "No. Only one upgrade of a given type counts toward those objectives.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: If the Nekro Virus owns multiple unit upgrade technologies of the same type, such as “Dreadnought II” and “Exotrireme II,” does each one count toward the “Develop Weaponry” and “Revolutionize Warfare” objectives? Answer: No. Only one upgrade of a given type counts toward those objectives.",
+    "title": "If the Nekro Virus owns multiple unit upgrade technologies of the same type, such as “Dreadnought II..."
+  },
+  {
+    "category": "Factions - The Nekro Virus",
+    "question": "If the Nekro Virus' “Valefar Assimilator” technology is copying another player's faction technology and that player is eliminated, does the Valefar Assimilator token remain on that technology?",
+    "answer": "Yes. If a player becomes eliminated and the Nekro Virus Valefar Assimilator X or Y token is on one of their faction technologies, that technology remains in play",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: If the Nekro Virus' “Valefar Assimilator” technology is copying another player's faction technology and that player is eliminated, does the Valefar Assimilator token remain on that technology? Answer: Yes. If a player becomes eliminated and the Nekro Virus Valefar Assimilator X or Y token is on one of their faction technologies, that technology remains in play",
+    "title": "If the Nekro Virus' “Valefar Assimilator” technology is copying another player's faction technology ..."
+  },
+  {
+    "category": "Factions - The Nekro Virus",
+    "question": "Can the Nekro Virus player use the Prophet's Tears Relic?",
+    "answer": "Yes, when the Nekro virus player uses their Propagation faction ability, they could exhaust the Relic to gain an action card. They cannot do this when they GAIN technology via their Technological Singularity faction ability.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can the Nekro Virus player use the Prophet's Tears Relic? Answer: Yes, when the Nekro virus player uses their Propagation faction ability, they could exhaust the Relic to gain an action card. They cannot do this when they GAIN technology via their Technological Singularity faction ability.",
+    "title": "Can the Nekro Virus player use the Prophet's Tears Relic?"
+  },
+  {
+    "category": "Factions - The Nekro Virus",
+    "question": "If the Universities of Jol-Nar player replaces a faction technology with their hero, what happens if the Nekro Virus player had a Valefar Assimilator token on it?",
+    "answer": "The token stays on the tech in the tech-deck and Valefar Assimilator still has that technology’s text.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: If the Universities of Jol-Nar player replaces a faction technology with their hero, what happens if the Nekro Virus player had a Valefar Assimilator token on it? Answer: The token stays on the tech in the tech-deck and Valefar Assimilator still has that technology’s text.",
+    "title": "If the Universities of Jol-Nar player replaces a faction technology with their hero, what happens if..."
+  },
+  {
+    "category": "Factions - The Nekro Virus",
+    "question": "Can I use the Nekro Virus’ Agent, Nekro Malleon, or Psychoarchaeology or the Hacan Agent to interrupt another ability since the timing is “during the action phase”?",
+    "answer": "No, any ability that is used “during the action phase” cannot be resolved unless there are no other abilities currently being resolved.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can I use the Nekro Virus’ Agent, Nekro Malleon, or Psychoarchaeology or the Hacan Agent to interrupt another ability since the timing is “during the action phase”? Answer: No, any ability that is used “during the action phase” cannot be resolved unless there are no other abilities currently being resolved.",
+    "title": "Can I use the Nekro Virus’ Agent, Nekro Malleon, or Psychoarchaeology or the Hacan Agent to interrup..."
+  },
+  {
+    "category": "Factions - The Nomad",
+    "question": "Are ground forces participating in combat via the Nekro Virus’ Flagship, The Alastor, in the space area? Are they affected by Argent Flight's Strike Wing Alpha II's ability?",
+    "answer": "Ground Forces participating in space combat via The Alastor do not move from their origin location. If they were on planets at the start of combat, they stay on the planet, participate in combat, and are immune to SWA2’s ability. If they started in space, they are in space and are subject to SWA2’s ability.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Are ground forces participating in combat via the Nekro Virus’ Flagship, The Alastor, in the space area? Are they affected by Argent Flight's Strike Wing Alpha II's ability? Answer: Ground Forces participating in space combat via The Alastor do not move from their origin location. If they were on planets at the start of combat, they stay on the planet, participate in combat, and are immune to SWA2’s ability. If they started in space, they are in space and are subject to SWA2’s ability.",
+    "title": "Are ground forces participating in combat via the Nekro Virus’ Flagship, The Alastor, in the space a..."
+  },
+  {
+    "category": "Factions - The Nomad",
+    "question": "Does the Duranium Armor technology allow you to repair Nomad Mechs that have used their ability to cancel a hit during space combat?",
+    "answer": "No, Duranium Armor only affects units participating (rolling dice) in a combat.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Does the Duranium Armor technology allow you to repair Nomad Mechs that have used their ability to cancel a hit during space combat? Answer: No, Duranium Armor only affects units participating (rolling dice) in a combat.",
+    "title": "Does the Duranium Armor technology allow you to repair Nomad Mechs that have used their ability to c..."
+  },
+  {
+    "category": "Factions - The Nomad",
+    "question": "Does Nomad’s Temporal Command Suite faction technology bypass transaction limits?",
+    "answer": "Yes, Temporal Command Suite’s transaction does not affect performing a second transaction with the same player that turn.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Does Nomad’s Temporal Command Suite faction technology bypass transaction limits? Answer: Yes, Temporal Command Suite’s transaction does not affect performing a second transaction with the same player that turn.",
+    "title": "Does Nomad’s Temporal Command Suite faction technology bypass transaction limits?"
+  },
+  {
+    "category": "Factions - The Nomad",
+    "question": "Does the Nomad’s Hero, Ahk-Syl Siven, allow their flagship to pick up groundforces in systems that contain their tokens?",
+    "answer": "Yes. Sardakk N'orr",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Does the Nomad’s Hero, Ahk-Syl Siven, allow their flagship to pick up groundforces in systems that contain their tokens? Answer: Yes. Sardakk N'orr",
+    "title": "Does the Nomad’s Hero, Ahk-Syl Siven, allow their flagship to pick up groundforces in systems that c..."
+  },
+  {
+    "category": "Factions - The Nomad",
+    "question": "Does a Ceasefire promissory note have any impact on committing ground forces from adjacent planets via Sardakk N’orr’s commander, G’hom Sek’kus?",
+    "answer": "Will change “commit ground forces” in LRR to say “move” to ensure Ceasefire works. Will also prevent units from being committed to planets in anomalies without the appropriate technology, or through wormholes if Enforced Travel Ban is a Law.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Does a Ceasefire promissory note have any impact on committing ground forces from adjacent planets via Sardakk N’orr’s commander, G’hom Sek’kus? Answer: Will change “commit ground forces” in LRR to say “move” to ensure Ceasefire works. Will also prevent units from being committed to planets in anomalies without the appropriate technology, or through wormholes if Enforced Travel Ban is a Law.",
+    "title": "Does a Ceasefire promissory note have any impact on committing ground forces from adjacent planets v..."
+  },
+  {
+    "category": "Factions - The Nomad",
+    "question": "Can the Sardakk N’orr player commit ground forces via their commander, G’hom Sek’kus, on defense?",
+    "answer": "No, only the active player can commit ground forces.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can the Sardakk N’orr player commit ground forces via their commander, G’hom Sek’kus, on defense? Answer: No, only the active player can commit ground forces.",
+    "title": "Can the Sardakk N’orr player commit ground forces via their commander, G’hom Sek’kus, on defense?"
+  },
+  {
+    "category": "Factions - The Nomad",
+    "question": "Does using Dominus Orb allow the Sardakk N’orr player to commit ground forces via their commander, G’hom Sek’kus?",
+    "answer": "No, G’hom Sek’kus is explicitly preventing committing from systems with tokens, and Dominus Orb is purged several steps before committing takes place.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Does using Dominus Orb allow the Sardakk N’orr player to commit ground forces via their commander, G’hom Sek’kus? Answer: No, G’hom Sek’kus is explicitly preventing committing from systems with tokens, and Dominus Orb is purged several steps before committing takes place.",
+    "title": "Does using Dominus Orb allow the Sardakk N’orr player to commit ground forces via their commander, G..."
+  },
+  {
+    "category": "Factions - The Nomad",
+    "question": "Can Sardakk N’orr’s commander, G’hom Sek’kus, be used without moving any ships into the active system?",
+    "answer": "Yes, the commander can allow the Sardakk N’orr player to commit ground forces even without moving in ships.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can Sardakk N’orr’s commander, G’hom Sek’kus, be used without moving any ships into the active system? Answer: Yes, the commander can allow the Sardakk N’orr player to commit ground forces even without moving in ships.",
+    "title": "Can Sardakk N’orr’s commander, G’hom Sek’kus, be used without moving any ships into the active syste..."
+  },
+  {
+    "category": "Factions - The Titans of Ul",
+    "question": "Does Valkyrie Particle Weave trigger after hits were produced if the hits were cancelled?",
+    "answer": "Yes, the hit from Valkyrie Particle Weave is still applied.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Does Valkyrie Particle Weave trigger after hits were produced if the hits were cancelled? Answer: Yes, the hit from Valkyrie Particle Weave is still applied.",
+    "title": "Does Valkyrie Particle Weave trigger after hits were produced if the hits were cancelled?"
+  },
+  {
+    "category": "Factions - The Titans of Ul",
+    "question": "Hel Titans cannot be transported but can they be moved by use of the technology Transit Diodes?",
+    "answer": "Since Transit Diodes uses the terms \"remove\" and \"place\" it may be used to move Hel Titans.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Hel Titans cannot be transported but can they be moved by use of the technology Transit Diodes? Answer: Since Transit Diodes uses the terms \"remove\" and \"place\" it may be used to move Hel Titans.",
+    "title": "Hel Titans cannot be transported but can they be moved by use of the technology Transit Diodes?"
+  },
+  {
+    "category": "Factions - The Titans of Ul",
+    "question": "Can Hel Titans be destroyed by Bombardment?",
+    "answer": "Since Hel Titans are treated as ground forces, they may be bombarded; provided the player bombarding has a unit or ability that is capable of bypassing their Planetary Shield ability",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can Hel Titans be destroyed by Bombardment? Answer: Since Hel Titans are treated as ground forces, they may be bombarded; provided the player bombarding has a unit or ability that is capable of bypassing their Planetary Shield ability",
+    "title": "Can Hel Titans be destroyed by Bombardment?"
+  },
+  {
+    "category": "Factions - The Titans of Ul",
+    "question": "If you awaken a sleeper token or deploy your flagship and then your turn ends (Mahact mech, Nullification field, Minister of Peace), do you resolve combat?",
+    "answer": "Coalescence forces combat steps to occur. No other steps of the tactical action occur, and abilities can only be used within combat.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: If you awaken a sleeper token or deploy your flagship and then your turn ends (Mahact mech, Nullification field, Minister of Peace), do you resolve combat? Answer: Coalescence forces combat steps to occur. No other steps of the tactical action occur, and abilities can only be used within combat.",
+    "title": "If you awaken a sleeper token or deploy your flagship and then your turn ends (Mahact mech, Nullific..."
+  },
+  {
+    "category": "Factions - The Titans of Ul",
+    "question": "If Titans of Ul have their commander, Tungstantus, unlocked and have 2 TGs and go to production to gain a third and build a carrier, is that TG able to be pillaged?",
+    "answer": "The gain and spend are simultaneous, so cannot be pillaged.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: If Titans of Ul have their commander, Tungstantus, unlocked and have 2 TGs and go to production to gain a third and build a carrier, is that TG able to be pillaged? Answer: The gain and spend are simultaneous, so cannot be pillaged.",
+    "title": "If Titans of Ul have their commander, Tungstantus, unlocked and have 2 TGs and go to production to g..."
+  },
+  {
+    "category": "Factions - The Titans of Ul",
+    "question": "Does the Titans of Ul promissory note “Terraform” count for the purposes of objectives like “Strengthen Bonds” or “Betray a Friend”?",
+    "answer": "Yes, when Terraform is attached to a planet it counts as being in that planet owner’s play area.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Does the Titans of Ul promissory note “Terraform” count for the purposes of objectives like “Strengthen Bonds” or “Betray a Friend”? Answer: Yes, when Terraform is attached to a planet it counts as being in that planet owner’s play area.",
+    "title": "Does the Titans of Ul promissory note “Terraform” count for the purposes of objectives like “Strengt..."
+  },
+  {
+    "category": "Factions - The Titans of Ul",
+    "question": "Does 63.3 (2 PDS on a planet max) mean that Titans couldn't commit Hel-Titans using the Sardakk commander, or place a PDS via Sleeper token onto a planet where another player already has 2 PDS? Related, if a planet has 2 PDS on it already can you DEPLOY the Titan’s mech there, given that the mech is \"when you would place a PDS\"?",
+    "answer": "63.3 does not prevent Titans from deploying a PDS. You cannot place a structure on a planet with the maximum number of your structures, which prevents using the DEPLOY ability on a planet with 2 PDS, or placing more PDS than would be allowed using Transit Diodes. You also cannot DEPLOY a mech if you have no PDS in reinforcements, but could remove a PDS from the board and then DEPLOY your mech.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Does 63.3 (2 PDS on a planet max) mean that Titans couldn't commit Hel-Titans using the Sardakk commander, or place a PDS via Sleeper token onto a planet where another player already has 2 PDS? Related, if a planet has 2 PDS on it already can you DEPLOY the Titan’s mech there, given that the mech is \"when you would place a PDS\"? Answer: 63.3 does not prevent Titans from deploying a PDS. You cannot place a structure on a planet with the maximum number of your structures, which prevents using the DEPLOY ability on a planet with 2 PDS, or placing more PDS than would be allowed using Transit Diodes. You also cannot DEPLOY a mech if you have no PDS in reinforcements, but could remove a PDS from the board and then DEPLOY your mech.",
+    "title": "Does 63.3 (2 PDS on a planet max) mean that Titans couldn't commit Hel-Titans using the Sardakk comm..."
+  },
+  {
+    "category": "Factions - The Titans of Ul",
+    "question": "If the Titans Agent is used to cancel the only hit “when” it is generated against a player that has Valkyrie Particle Weave as a technology, does VPW trigger?",
+    "answer": "The Titan’s Agent will receive an errata to have the same timing as Shields Holding or Sustain Damage. “Before you assign a hit”. The hit is still produced, VPW triggers, then the hit is canceled.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: If the Titans Agent is used to cancel the only hit “when” it is generated against a player that has Valkyrie Particle Weave as a technology, does VPW trigger? Answer: The Titan’s Agent will receive an errata to have the same timing as Shields Holding or Sustain Damage. “Before you assign a hit”. The hit is still produced, VPW triggers, then the hit is canceled.",
+    "title": "If the Titans Agent is used to cancel the only hit “when” it is generated against a player that has ..."
+  },
+  {
+    "category": "Factions - The Universities of Jol-Nar",
+    "question": "Can the Titans Hel-Titan move via abilities like the action card Ghost Squad or via the Sardakk N’orr Alliance?",
+    "answer": "No, structures cannot move.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can the Titans Hel-Titan move via abilities like the action card Ghost Squad or via the Sardakk N’orr Alliance? Answer: No, structures cannot move.",
+    "title": "Can the Titans Hel-Titan move via abilities like the action card Ghost Squad or via the Sardakk N’or..."
+  },
+  {
+    "category": "Factions - The Universities of Jol-Nar",
+    "question": "When the Universities of Jol-Nar player uses their hero, Rin, do they swap all techs simultaneously or consecutively?",
+    "answer": "Simultaneously, that is to say the Universities of Jol-Nar player cannot swap out a tech and re-take it during this component action.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: When the Universities of Jol-Nar player uses their hero, Rin, do they swap all techs simultaneously or consecutively? Answer: Simultaneously, that is to say the Universities of Jol-Nar player cannot swap out a tech and re-take it during this component action.",
+    "title": "When the Universities of Jol-Nar player uses their hero, Rin, do they swap all techs simultaneously ..."
+  },
+  {
+    "category": "Factions - The Vuil'Raith Cabal",
+    "question": "If the Universities of Jol-Nar player replaces a faction technology with their hero, what happens if the Nekro Virus player had a Valefar Assimilator token on it?",
+    "answer": "The token stays on the tech in the tech-deck and Valefar Assimilator still has that technology’s text.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: If the Universities of Jol-Nar player replaces a faction technology with their hero, what happens if the Nekro Virus player had a Valefar Assimilator token on it? Answer: The token stays on the tech in the tech-deck and Valefar Assimilator still has that technology’s text.",
+    "title": "If the Universities of Jol-Nar player replaces a faction technology with their hero, what happens if..."
+  },
+  {
+    "category": "Factions - The Vuil'Raith Cabal",
+    "question": "Can Vortex be used on a ship if a player doesn't have any of those ships in their reinforcements?",
+    "answer": "No, since they cannot fully resolve Vortex.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can Vortex be used on a ship if a player doesn't have any of those ships in their reinforcements? Answer: No, since they cannot fully resolve Vortex.",
+    "title": "Can Vortex be used on a ship if a player doesn't have any of those ships in their reinforcements?"
+  },
+  {
+    "category": "Factions - The Vuil'Raith Cabal",
+    "question": "Are systems that contain Vuil’raith Cabal’s Dimensional Tears anomalies?",
+    "answer": "Yes, any game effect that references an anomaly includes systems containing Dimensional Tears.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Are systems that contain Vuil’raith Cabal’s Dimensional Tears anomalies? Answer: Yes, any game effect that references an anomaly includes systems containing Dimensional Tears.",
+    "title": "Are systems that contain Vuil’raith Cabal’s Dimensional Tears anomalies?"
+  },
+  {
+    "category": "Factions - The Vuil'Raith Cabal",
+    "question": "Can the Vuil’raith Cabal use their agent on someone who has their Trade Agreement used to take their commodities?",
+    "answer": "Yes, the commodities would not be there but the agent could still be used to capture a ship up to the player’s commodity value.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can the Vuil’raith Cabal use their agent on someone who has their Trade Agreement used to take their commodities? Answer: Yes, the commodities would not be there but the agent could still be used to capture a ship up to the player’s commodity value.",
+    "title": "Can the Vuil’raith Cabal use their agent on someone who has their Trade Agreement used to take their..."
+  },
+  {
+    "category": "Factions - The Vuil'Raith Cabal",
+    "question": "Does the Cabal Flagship capture other units that are destroyed in the same timing window in which it is destroyed?",
+    "answer": "Yes.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Does the Cabal Flagship capture other units that are destroyed in the same timing window in which it is destroyed? Answer: Yes.",
+    "title": "Does the Cabal Flagship capture other units that are destroyed in the same timing window in which it..."
+  },
+  {
+    "category": "Factions - The Vuil'Raith Cabal",
+    "question": "Can a ship benefit from the Vuil'raith Cabal promissory note, The Crucible, if it would not be able to reach a gravity rift on the way to the active system without it?",
+    "answer": "Yes, once a system has been activated and The Crucible has been played, the bonus would apply to all ships that can make it to the active system, including the bonuses from the promissory and the rift they are passing through.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can a ship benefit from the Vuil'raith Cabal promissory note, The Crucible, if it would not be able to reach a gravity rift on the way to the active system without it? Answer: Yes, once a system has been activated and The Crucible has been played, the bonus would apply to all ships that can make it to the active system, including the bonuses from the promissory and the rift they are passing through.",
+    "title": "Can a ship benefit from the Vuil'raith Cabal promissory note, The Crucible, if it would not be able ..."
+  },
+  {
+    "category": "Factions - The Winnu",
+    "question": "Does Cabal Agent count as \"converting your own commodities,\" or is the Cabal player converting them for the purpose of Pillage?",
+    "answer": "No, whenever commodities are converted to a player’s own trade good area, they are not considered gained.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Does Cabal Agent count as \"converting your own commodities,\" or is the Cabal player converting them for the purpose of Pillage? Answer: No, whenever commodities are converted to a player’s own trade good area, they are not considered gained.",
+    "title": "Does Cabal Agent count as \"converting your own commodities,\" or is the Cabal player converting them ..."
+  },
+  {
+    "category": "Factions - The Winnu",
+    "question": "Does the Winnu commander, Rickar Rickani, stack if Mecatol Rex is also a Legendary Planet?",
+    "answer": "No, the commander only triggers once no matter how many conditions are met, +2 is the max.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Does the Winnu commander, Rickar Rickani, stack if Mecatol Rex is also a Legendary Planet? Answer: No, the commander only triggers once no matter how many conditions are met, +2 is the max.",
+    "title": "Does the Winnu commander, Rickar Rickani, stack if Mecatol Rex is also a Legendary Planet?"
+  },
+  {
+    "category": "Factions - The Xxcha Kingdom",
+    "question": "When you utilise the 'Reclamation' ability in where you receive a PDS and space dock after capturing Mecatol Rex, can you then immediately use 'Production' to build on Mecatol Rex (Assuming you have the technology to perform 2 actions)?",
+    "answer": "No, \"Reclamation\" only triggers AFTER you resolve a tactical action (i.e. after the PRODUCTION window has passed). Even though you may have another action through Fleet Logistics, the window to immediately produce has passed.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: When you utilise the 'Reclamation' ability in where you receive a PDS and space dock after capturing Mecatol Rex, can you then immediately use 'Production' to build on Mecatol Rex (Assuming you have the technology to perform 2 actions)? Answer: No, \"Reclamation\" only triggers AFTER you resolve a tactical action (i.e. after the PRODUCTION window has passed). Even though you may have another action through Fleet Logistics, the window to immediately produce has passed.",
+    "title": "When you utilise the 'Reclamation' ability in where you receive a PDS and space dock after capturing..."
+  },
+  {
+    "category": "Factions - The Xxcha Kingdom",
+    "question": "Can the Xxcha use the “Peace Accords” faction ability from one planet to another planet in the same system?",
+    "answer": "Yes, a planet is considered to be adjacent to its own system.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can the Xxcha use the “Peace Accords” faction ability from one planet to another planet in the same system? Answer: Yes, a planet is considered to be adjacent to its own system.",
+    "title": "Can the Xxcha use the “Peace Accords” faction ability from one planet to another planet in the same ..."
+  },
+  {
+    "category": "Factions - The Xxcha Kingdom",
+    "question": "Can the Xxcha faction technology \"Instinct Training\" be used to cancel a sabotage?",
+    "answer": "Yes. Instinct training can be used on any action card.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can the Xxcha faction technology \"Instinct Training\" be used to cancel a sabotage? Answer: Yes. Instinct training can be used on any action card.",
+    "title": "Can the Xxcha faction technology \"Instinct Training\" be used to cancel a sabotage?"
+  },
+  {
+    "category": "Factions - The Xxcha Kingdom",
+    "question": "Can the Xxcha use the “Peace Accords” faction ability on a planet that has another players ships in the space area of the system?",
+    "answer": "Yes, as long as the planet being targeted is free of opposing players units (Ground Forces & Structures).",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can the Xxcha use the “Peace Accords” faction ability on a planet that has another players ships in the space area of the system? Answer: Yes, as long as the planet being targeted is free of opposing players units (Ground Forces & Structures).",
+    "title": "Can the Xxcha use the “Peace Accords” faction ability on a planet that has another players ships in ..."
+  },
+  {
+    "category": "Factions - The Xxcha Kingdom",
+    "question": "Can the Xxcha promissory note \"Political Favor\" be used if the Xxcha player's strategy pool doesn't have any Command Tokens in it?",
+    "answer": "No, the strategy token discard is mandatory and must resolve for the rest of the card effect to work.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can the Xxcha promissory note \"Political Favor\" be used if the Xxcha player's strategy pool doesn't have any Command Tokens in it? Answer: No, the strategy token discard is mandatory and must resolve for the rest of the card effect to work.",
+    "title": "Can the Xxcha promissory note \"Political Favor\" be used if the Xxcha player's strategy pool doesn't ..."
+  },
+  {
+    "category": "Factions - The Xxcha Kingdom",
+    "question": "Can the Xxcha Agent, Ggrocuto Rinn, be used to “ready” a planet that is not exhausted?",
+    "answer": "The target planet must be exhausted.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can the Xxcha Agent, Ggrocuto Rinn, be used to “ready” a planet that is not exhausted? Answer: The target planet must be exhausted.",
+    "title": "Can the Xxcha Agent, Ggrocuto Rinn, be used to “ready” a planet that is not exhausted?"
+  },
+  {
+    "category": "Factions - The Xxcha Kingdom",
+    "question": "If the Xxcha hero (Xxekir Grom) gives two players in the lead a Victory Point, and both players now have enough points to win the game, is the order for winning determined from Xxcha player (active player) onwards in initiative, or starting with the lowest initiatve?",
+    "answer": "Initiative order determines the winner. Initiative order is always the lowest initiative player onwards, regardless of who the active player is.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: If the Xxcha hero (Xxekir Grom) gives two players in the lead a Victory Point, and both players now have enough points to win the game, is the order for winning determined from Xxcha player (active player) onwards in initiative, or starting with the lowest initiatve? Answer: Initiative order determines the winner. Initiative order is always the lowest initiative player onwards, regardless of who the active player is.",
+    "title": "If the Xxcha hero (Xxekir Grom) gives two players in the lead a Victory Point, and both players now ..."
+  },
+  {
+    "category": "Factions - The Xxcha Kingdom",
+    "question": "Can the Xxcha Kingdom player play riders while using their hero, Xxekir Grom? Can other players use riders during the Xxcha hero?",
+    "answer": "Yes, the Xxcha player can play riders, and use their quash ability during their hero (other players do not vote, even if quashed). Other players cannot play any action cards as these are abilities.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can the Xxcha Kingdom player play riders while using their hero, Xxekir Grom? Can other players use riders during the Xxcha hero? Answer: Yes, the Xxcha player can play riders, and use their quash ability during their hero (other players do not vote, even if quashed). Other players cannot play any action cards as these are abilities.",
+    "title": "Can the Xxcha Kingdom player play riders while using their hero, Xxekir Grom? Can other players use ..."
+  },
+  {
+    "category": "Factions - The Xxcha Kingdom",
+    "question": "If Xxcha draws Covert legislation as one of their 5 Agendas with their hero, do they get to see the next agenda that would be tied to it as well? Related, what happens if they draw an agenda that says \"if there are no laws in play...\" off of their hero?",
+    "answer": "Xxcha would only get to see the agenda tied to Covert Legislation if it was one of the 2 agendas selected to resolve and they are the speaker, otherwise the speaker would see the agenda. If there are no laws in play a new agenda is drawn",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: If Xxcha draws Covert legislation as one of their 5 Agendas with their hero, do they get to see the next agenda that would be tied to it as well? Related, what happens if they draw an agenda that says \"if there are no laws in play...\" off of their hero? Answer: Xxcha would only get to see the agenda tied to Covert Legislation if it was one of the 2 agendas selected to resolve and they are the speaker, otherwise the speaker would see the agenda. If there are no laws in play a new agenda is drawn",
+    "title": "If Xxcha draws Covert legislation as one of their 5 Agendas with their hero, do they get to see the ..."
+  },
+  {
+    "category": "Factions - The Xxcha Kingdom",
+    "question": "When using the Xxcha Kingdom Hero Xxekir Grom, can other players resolve agendas that affect the whole table, such as Galactic Crisis Pact?",
+    "answer": "The intent is that players still resolve agendas that the Xxcha player chooses off of their Hero. I recognize that this may conflict with RAW, but the intention was never to make other players unable to resolve agenda effects.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: When using the Xxcha Kingdom Hero Xxekir Grom, can other players resolve agendas that affect the whole table, such as Galactic Crisis Pact? Answer: The intent is that players still resolve agendas that the Xxcha player chooses off of their Hero. I recognize that this may conflict with RAW, but the intention was never to make other players unable to resolve agenda effects.",
+    "title": "When using the Xxcha Kingdom Hero Xxekir Grom, can other players resolve agendas that affect the who..."
+  },
+  {
+    "category": "Factions - The Xxcha Kingdom",
+    "question": "Checks and balances against reads “Each player readies only 3 of their planets at the end of this agenda phase.” Does this trigger at the end of Xxchas hero? At the end of the next agenda phase, not at all?",
+    "answer": "This effect does not trigger if it happens during the Xxcha Hero.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Checks and balances against reads “Each player readies only 3 of their planets at the end of this agenda phase.” Does this trigger at the end of Xxchas hero? At the end of the next agenda phase, not at all? Answer: This effect does not trigger if it happens during the Xxcha Hero.",
+    "title": "Checks and balances against reads “Each player readies only 3 of their planets at the end of this ag..."
+  },
+  {
+    "category": "Factions - The Xxcha Kingdom",
+    "question": "When the Xxcha Kingdom hero, Political Data Nexus Omega, is used do they get both resources and influence, or is it only one?",
+    "answer": "When the Xxcha Kingdom hero, Political Data Nexus Omega, is used to combine resource and influence values, the Xxcha Kingdom player chooses to spend those as one or the other, not both.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: When the Xxcha Kingdom hero, Political Data Nexus Omega, is used do they get both resources and influence, or is it only one? Answer: When the Xxcha Kingdom hero, Political Data Nexus Omega, is used to combine resource and influence values, the Xxcha Kingdom player chooses to spend those as one or the other, not both.",
+    "title": "When the Xxcha Kingdom hero, Political Data Nexus Omega, is used do they get both resources and infl..."
+  },
+  {
+    "category": "Factions - The Xxcha Kingdom",
+    "question": "For the Xxcha Kingdom hero, Political Data Nexus Omega, unlock condition; what is the order of scoring public and secret objectives? Can the hero be unlocked in between these?",
+    "answer": "Scoring in the status phase is done all at once, the unlock condition of heroes is not checked until the score objectives step of the status phase is complete.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: For the Xxcha Kingdom hero, Political Data Nexus Omega, unlock condition; what is the order of scoring public and secret objectives? Can the hero be unlocked in between these? Answer: Scoring in the status phase is done all at once, the unlock condition of heroes is not checked until the score objectives step of the status phase is complete.",
+    "title": "For the Xxcha Kingdom hero, Political Data Nexus Omega, unlock condition; what is the order of scori..."
+  },
+  {
+    "category": "Factions - The Yin Brotherhood",
+    "question": "If the Xxcha Kingdom plays uprising with Political Data Nexus Omega unlocked do they get the sum of both influence and resources in trade goods?",
+    "answer": "When using an ability that references “resource value”, the printed resource value of the planet is used.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: If the Xxcha Kingdom plays uprising with Political Data Nexus Omega unlocked do they get the sum of both influence and resources in trade goods? Answer: When using an ability that references “resource value”, the printed resource value of the planet is used.",
+    "title": "If the Xxcha Kingdom plays uprising with Political Data Nexus Omega unlocked do they get the sum of ..."
+  },
+  {
+    "category": "Factions - The Yin Brotherhood",
+    "question": "Does the Yin Brotherhood agent, Brother Milor, keep combat going after the last ship is destroyed?",
+    "answer": "Yes.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Does the Yin Brotherhood agent, Brother Milor, keep combat going after the last ship is destroyed? Answer: Yes.",
+    "title": "Does the Yin Brotherhood agent, Brother Milor, keep combat going after the last ship is destroyed?"
+  },
+  {
+    "category": "Factions - The Yin Brotherhood",
+    "question": "Can the Yin Brotherhood commander, Brother Omar, or the Naalu Collective commander, M’aban, allow the player to choose to produce only 1 infantry/fighter and then another with their commander?",
+    "answer": "Yes, both of these commanders allow the player to choose to only build a single fighter/infantry for 1 resource and gain an additional unit of that type each time they do.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can the Yin Brotherhood commander, Brother Omar, or the Naalu Collective commander, M’aban, allow the player to choose to produce only 1 infantry/fighter and then another with their commander? Answer: Yes, both of these commanders allow the player to choose to only build a single fighter/infantry for 1 resource and gain an additional unit of that type each time they do.",
+    "title": "Can the Yin Brotherhood commander, Brother Omar, or the Naalu Collective commander, M’aban, allow th..."
+  },
+  {
+    "category": "Factions - The Yin Brotherhood",
+    "question": "The Yin Brotherhood hero, Quantum Dissemination Omega, says to \"resolve invasions\" on those planets. Does this allow for using Parley, committing additional ground forces, and using bombardment? Should this be ground combats?",
+    "answer": "The Yin hero, Quantum Dissemination Omega, should indicate to resolve ground combats on those planets, not full invasion steps. Parley can be played on one of the planets.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: The Yin Brotherhood hero, Quantum Dissemination Omega, says to \"resolve invasions\" on those planets. Does this allow for using Parley, committing additional ground forces, and using bombardment? Should this be ground combats? Answer: The Yin hero, Quantum Dissemination Omega, should indicate to resolve ground combats on those planets, not full invasion steps. Parley can be played on one of the planets.",
+    "title": "The Yin Brotherhood hero, Quantum Dissemination Omega, says to \"resolve invasions\" on those planets...."
+  },
+  {
+    "category": "Factions - The Yin Brotherhood",
+    "question": "Can the Yin Brotherhood Agent, Brother Milor Omega, be used during the Agenda Phase?",
+    "answer": "Brother Milor Omega can only be used during the action phase.",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: Can the Yin Brotherhood Agent, Brother Milor Omega, be used during the Agenda Phase? Answer: Brother Milor Omega can only be used during the action phase.",
+    "title": "Can the Yin Brotherhood Agent, Brother Milor Omega, be used during the Agenda Phase?"
+  },
+  {
+    "category": "Factions - The Yin Brotherhood",
+    "question": "What is the interaction between the Yin Brotherhood agent, Brother Milor Omega, and the Nekro Virus and Naalu Collective flagship abilities?",
+    "answer": "The units participating in combat via these flagship abilities are both a ground force and ship during combat. The owner of the unit can choose whether to place 2 infantry or 2 fighters when using Brother Milor Omega, however units placed this way can only continue to participate in space combat if fighters are placed, and can only continue to participate in ground combat if infantry are placed",
+    "type": "faq",
+    "source": "official_faq",
+    "text": "FAQ: What is the interaction between the Yin Brotherhood agent, Brother Milor Omega, and the Nekro Virus and Naalu Collective flagship abilities? Answer: The units participating in combat via these flagship abilities are both a ground force and ship during combat. The owner of the unit can choose whether to place 2 infantry or 2 fighters when using Brother Milor Omega, however units placed this way can only continue to participate in space combat if fighters are placed, and can only continue to participate in ground combat if infantry are placed",
+    "title": "What is the interaction between the Yin Brotherhood agent, Brother Milor Omega, and the Nekro Virus ..."
+  }
+]

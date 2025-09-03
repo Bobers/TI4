@@ -8,14 +8,20 @@ env.useBrowserCache = true;
 const MODEL_NAME = 'Xenova/all-MiniLM-L6-v2';
 
 export interface VectorEntry {
-  id: string;
-  section: string;
+  id?: string;
+  section?: string;
   category: string;
   title?: string;
-  content: string;
-  keywords: string[];
+  content?: string;
+  text?: string;
+  keywords?: string[];
   embedding: number[];
   references?: string[];
+  // FAQ-specific fields
+  source?: string;
+  question?: string;
+  answer?: string;
+  type?: string;
 }
 
 export interface SearchResult {
@@ -109,8 +115,9 @@ class ClientVectorService {
     for (const entry of this.entries) {
       const score = this.cosineSimilarity(queryEmbedding, entry.embedding);
       
-      // Create snippet
-      const snippet = this.createSnippet(entry.content, query);
+      // Create snippet - use answer for FAQ entries, content for regular entries
+      const textContent = entry.answer || entry.content || entry.text || '';
+      const snippet = this.createSnippet(textContent, query);
       
       results.push({
         entry,
@@ -128,6 +135,13 @@ class ClientVectorService {
       topResults.map(r => r.score.toFixed(3)));
     
     return topResults;
+  }
+
+  async getAllEntries(): Promise<VectorEntry[]> {
+    if (!this.initialized) {
+      await this.initialize();
+    }
+    return this.entries;
   }
 
   private createSnippet(content: string, query: string, maxLength: number = 200): string {

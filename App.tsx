@@ -4,7 +4,7 @@ import type { ChatMessage } from './types';
 import ChatInterface from './components/ChatInterface';
 import GalacticCodex from './components/GalacticCodex';
 import { GalaxyIcon, BotIcon, BookOpenIcon, BugIcon } from './components/icons';
-import TestRunner from './components/TestRunner';
+// import TestRunner from './components/TestRunner'; // Disabled - requires Gemini API
 
 type ActiveTab = 'chat' | 'codex';
 
@@ -98,7 +98,7 @@ const App: React.FC = () => {
         <p className="text-gray-400 mt-2">Your AI adjudicator for the epic of galactic conquest.</p>
       </header>
 
-      {showTestRunner && <TestRunner onClose={() => setShowTestRunner(false)} />}
+      {/* {showTestRunner && <TestRunner onClose={() => setShowTestRunner(false)} />} */}
 
       <div className={`w-full max-w-4xl flex-col gap-0 ${showTestRunner ? 'hidden' : 'flex'}`}>
         <div className="flex">

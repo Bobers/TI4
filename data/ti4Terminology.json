@@ -1,0 +1,90 @@
+{
+  "terminology_mappings": {
+    "common_terms": {
+      "tap": ["exhaust", "exhausting", "tapped", "tapping"],
+      "untap": ["refresh", "refreshing", "untapped", "ready"],
+      "cc": ["command counter", "command counters", "command token", "command tokens"],
+      "inf": ["infantry", "ground forces", "ground units"],
+      "pds": ["planetary defense system", "planetary defense systems"],
+      "dock": ["space dock", "space docks"],
+      "flagship": ["flagship", "faction flagship"],
+      "dread": ["dreadnought", "dreadnoughts"],
+      "cruiser": ["cruiser", "cruisers"],
+      "destroyer": ["destroyer", "destroyers"],
+      "carrier": ["carrier", "carriers"],
+      "fighter": ["fighter", "fighters"],
+      "ws": ["war sun", "war suns"],
+      "mech": ["mech", "mechs"],
+      "vp": ["victory point", "victory points", "points"],
+      "agenda": ["agenda", "agendas", "political card", "political cards"],
+      "action card": ["action card", "action cards", "ac"],
+      "promissory": ["promissory note", "promissory notes", "prom note", "pn"],
+      "tech": ["technology", "technologies", "upgrade"],
+      "obj": ["objective", "objectives", "public objective", "secret objective"],
+      "strat": ["strategy card", "strategy cards", "strategy"],
+      "trade goods": ["trade goods", "tg", "tgs", "resources"],
+      "influence": ["influence", "votes", "political power"],
+      "resource": ["resources", "production", "money"],
+      "planet": ["planet", "planets", "world", "worlds"],
+      "system": ["system", "systems", "hex", "tile"],
+      "anomaly": ["anomaly", "anomalies", "nebula", "asteroid field", "supernova", "gravity rift"],
+      "wormhole": ["wormhole", "wormholes", "alpha wormhole", "beta wormhole", "gamma wormhole"]
+    },
+    "game_phases": {
+      "strategy phase": ["strategy", "pick strat", "strategy selection"],
+      "action phase": ["action", "actions", "turn", "activation"],
+      "status phase": ["status", "cleanup", "end of round"],
+      "agenda phase": ["agenda", "politics", "voting", "political"],
+      "tactical action": ["tactical", "activate", "activation", "move ships"],
+      "strategic action": ["strategic", "primary", "secondary", "strat card"]
+    },
+    "factions": {
+      "arborec": ["arborec", "trees", "tree people"],
+      "barony": ["letnev", "barony of letnev", "barony"],
+      "saar": ["saar", "clan of saar", "nomads"],
+      "muaat": ["muaat", "gas giant", "war sun faction"],
+      "hacan": ["hacan", "space lions", "trade faction"],
+      "sol": ["sol", "federation of sol", "humans"],
+      "creuss": ["creuss", "ghosts of creuss", "ghosts", "wormhole faction"],
+      "l1z1x": ["l1z1x", "mindnet", "robots", "cyborgs"],
+      "mentak": ["mentak", "coalition", "pirates"],
+      "naalu": ["naalu", "collective", "precognition", "0 initiative"],
+      "nekro": ["nekro", "virus", "nekro virus", "copy faction"],
+      "sardakk": ["sardakk", "norr", "sardakk n'orr", "warriors"],
+      "xxcha": ["xxcha", "kingdom", "peace faction", "turtles"],
+      "yin": ["yin", "brotherhood", "yin brotherhood", "fanatics"],
+      "yssaril": ["yssaril", "tribes", "action card faction"],
+      "winnu": ["winnu", "mecatol faction"],
+      "jolnar": ["jolnar", "universities", "jol-nar", "tech faction"]
+    },
+    "strategy_cards": {
+      "leadership": ["leadership", "1"],
+      "diplomacy": ["diplomacy", "2"],
+      "politics": ["politics", "3", "speaker"],
+      "construction": ["construction", "4", "build"],
+      "trade": ["trade", "5", "trade goods"],
+      "warfare": ["warfare", "6", "redistribution"],
+      "technology": ["technology", "7", "tech"],
+      "imperial": ["imperial", "8", "victory points", "mecatol"]
+    },
+    "combat_terms": {
+      "space combat": ["space combat", "space battle", "fleet combat"],
+      "ground combat": ["ground combat", "invasion", "planetary assault"],
+      "bombardment": ["bombardment", "orbital bombardment"],
+      "antifighter barrage": ["antifighter barrage", "afb", "anti-fighter"],
+      "space cannon": ["space cannon", "pds fire", "planetary defense"],
+      "sustain damage": ["sustain damage", "sustain", "take a hit"],
+      "direct hit": ["direct hit", "dh", "destroy unit"]
+    },
+    "production_terms": {
+      "production": ["production", "produce", "build", "place units"],
+      "production capacity": ["production capacity", "production value", "build limit"],
+      "build": ["build", "produce", "place", "construct"],
+      "upgrade": ["upgrade", "unit upgrade", "improve"]
+    }
+  },
+  "expansion_mappings": {
+    "poc": ["prophecy of kings", "pok", "expansion"],
+    "codex": ["codex", "ordinian", "vigil"]
+  }
+}

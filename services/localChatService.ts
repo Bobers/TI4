@@ -191,6 +191,23 @@ export class LocalChatService {
 
   private generateDefinitionResponse(query: string, contexts: RuleContext[]): string {
     const mainContext = contexts[0];
+    const queryLower = query.toLowerCase();
+    
+    // Check if this is a mech/unit query
+    if (mainContext.type === 'Mech' || queryLower.includes('mech')) {
+      let response = `**${mainContext.title}** (${mainContext.type || 'Unit'})\n`;
+      response += `*Faction: ${mainContext.category}*\n\n`;
+      response += `**Ability:** ${mainContext.content}\n\n`;
+      
+      // Add tactical advice for mechs
+      if (mainContext.title.includes('Icarus')) {
+        response += "💡 **Tactical Note:** The Icarus Drive can create wormholes for strategic positioning.\n";
+      }
+      
+      return response;
+    }
+    
+    // Standard definition response
     let response = `**${mainContext.title}**\n\n`;
     
     response += this.summarizeContent(mainContext.content) + "\n\n";
@@ -373,12 +390,22 @@ The database contains ${this.vectorService.getAllEntries().then(e => e.length).c
   }
 
   private summarizeContent(content: string): string {
-    // Get first 2-3 sentences that aren't headers
+    // For short content (like mech abilities), return the full content
+    if (content.length < 300) {
+      return content.trim();
+    }
+    
+    // For longer content, get meaningful sentences
     const sentences = content
       .split(/[.!?]\s+/)
-      .filter(s => s.length > 20 && !s.includes('#') && !s.includes(':'))
-      .slice(0, 3)
+      .filter(s => s.length > 10) // Lower threshold to catch more content
+      .slice(0, 4) // Get more sentences for context
       .join('. ');
+    
+    // If we didn't get enough content, just return the first 300 chars
+    if (sentences.length < 100) {
+      return content.substring(0, 300).trim() + '...';
+    }
     
     return sentences + (sentences.endsWith('.') ? '' : '.');
   }

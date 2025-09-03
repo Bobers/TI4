@@ -48,21 +48,21 @@ class SupabaseVectorService {
 
       if (!entries || entries.length === 0) {
         console.error('No entries returned from Supabase');
-        throw new Error('No vector entries found in database');
+        throw new Error('Vector database is empty');
       }
 
       this.entries = entries;
-      
       console.log(`✅ Loaded ${this.entries.length} vector entries from Supabase`);
       
-      // Initialize the embedding model for queries
+      // Initialize embedding model
       console.log('🔄 Loading embedding model...');
       this.extractor = await pipeline('feature-extraction', MODEL_NAME);
       console.log('✅ Model ready');
       
       this.initialized = true;
+      
     } catch (error) {
-      console.error('Failed to initialize Supabase vector service:', error);
+      console.error('Failed to initialize vector service:', error);
       throw error;
     }
   }
@@ -105,18 +105,68 @@ class SupabaseVectorService {
       await this.initialize();
     }
     
-    console.log(`🔍 Searching for: "${query}"`);
+    console.log(`🔍 Searching for: "${query}" (using hybrid search)`);
     
-    // Generate embedding for the query
-    const queryEmbedding = await this.embedQuery(query);
+    try {
+      // Generate embedding for the query
+      const queryEmbedding = await this.embedQuery(query);
+      
+      // Use the official Supabase hybrid search function
+      const { data, error } = await supabase.rpc('hybrid_search', {
+        query_text: query,
+        query_embedding_array: queryEmbedding, // Pass as array
+        match_count: limit,
+        full_text_weight: 1.0,
+        semantic_weight: 1.0,
+        rrf_k: 50
+      });
+
+      if (error) {
+        console.error('Hybrid search error:', error);
+        // Fallback to local semantic search
+        return this.fallbackSemanticSearch(query, queryEmbedding, limit);
+      }
+
+      if (!data || data.length === 0) {
+        console.log('No hybrid results found');
+        return [];
+      }
+
+      console.log(`Found ${data.length} hybrid results`);
+
+      // Convert to SearchResult format
+      const results: SearchResult[] = data.map((entry: VectorEntry, index: number) => {
+        // Create snippet - use answer for FAQ entries, content for regular entries
+        const textContent = entry.answer || entry.content || entry.text || '';
+        const snippet = this.createSnippet(textContent, query);
+        
+        return {
+          entry,
+          score: 1.0 - (index * 0.1), // Score based on rank position
+          snippet
+        };
+      });
+      
+      return results;
+      
+    } catch (err) {
+      console.error('Hybrid search exception:', err);
+      // Fallback to local semantic search
+      const queryEmbedding = await this.embedQuery(query);
+      return this.fallbackSemanticSearch(query, queryEmbedding, limit);
+    }
+  }
+
+  // Fallback to local semantic search if hybrid fails
+  private fallbackSemanticSearch(query: string, queryEmbedding: number[], limit: number): SearchResult[] {
+    console.log('⚠️ Falling back to local semantic search');
     
-    // Calculate similarities
     const results: SearchResult[] = [];
     
     for (const entry of this.entries) {
       const score = this.cosineSimilarity(queryEmbedding, entry.embedding);
       
-      // Create snippet - use answer for FAQ entries, content for regular entries
+      // Create snippet
       const textContent = entry.answer || entry.content || entry.text || '';
       const snippet = this.createSnippet(textContent, query);
       
@@ -132,10 +182,30 @@ class SupabaseVectorService {
     
     const topResults = results.slice(0, limit);
     
-    console.log(`Found ${topResults.length} results with scores:`, 
+    console.log(`Found ${topResults.length} fallback results with scores:`, 
       topResults.map(r => r.score.toFixed(3)));
     
     return topResults;
+  }
+
+  private createSnippet(text: string, query: string, maxLength: number = 200): string {
+    const cleanText = text.replace(/\s+/g, ' ').trim();
+    
+    // Try to find query terms in text for context
+    const queryWords = query.toLowerCase().split(' ');
+    const textLower = cleanText.toLowerCase();
+    
+    let bestIndex = 0;
+    for (const word of queryWords) {
+      const index = textLower.indexOf(word);
+      if (index > 0) {
+        bestIndex = Math.max(0, index - 50);
+        break;
+      }
+    }
+    
+    const snippet = cleanText.slice(bestIndex, bestIndex + maxLength);
+    return snippet + (cleanText.length > bestIndex + maxLength ? '...' : '');
   }
 
   async getAllEntries(): Promise<VectorEntry[]> {
@@ -144,47 +214,7 @@ class SupabaseVectorService {
     }
     return this.entries;
   }
-
-  private createSnippet(content: string, query: string, maxLength: number = 200): string {
-    // Try to find query terms in content
-    const queryWords = query.toLowerCase().split(/\s+/);
-    const contentLower = content.toLowerCase();
-    
-    let bestStart = 0;
-    let bestScore = 0;
-    
-    // Find the best position that contains most query words
-    for (let i = 0; i < content.length - maxLength; i++) {
-      const snippet = contentLower.substring(i, i + maxLength);
-      let score = 0;
-      
-      for (const word of queryWords) {
-        if (snippet.includes(word)) {
-          score++;
-        }
-      }
-      
-      if (score > bestScore) {
-        bestScore = score;
-        bestStart = i;
-      }
-    }
-    
-    // Create snippet
-    let snippet = content.substring(bestStart, bestStart + maxLength);
-    
-    // Try to end at a word boundary
-    const lastSpace = snippet.lastIndexOf(' ');
-    if (lastSpace > maxLength * 0.8) {
-      snippet = snippet.substring(0, lastSpace);
-    }
-    
-    // Add ellipsis if needed
-    if (bestStart > 0) snippet = '...' + snippet;
-    if (bestStart + maxLength < content.length) snippet = snippet + '...';
-    
-    return snippet.trim();
-  }
 }
 
+// Export singleton instance
 export const supabaseVectorService = new SupabaseVectorService();

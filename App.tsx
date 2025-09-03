@@ -86,7 +86,7 @@ const App: React.FC = () => {
       <div className="fixed top-4 left-4 z-10">
         <div className="bg-black/50 backdrop-blur-sm px-3 py-1 rounded-lg border border-cyan-500/30">
           <span className="text-xs text-cyan-300 font-mono">v{packageJson.version}</span>
-          <span className="text-xs text-gray-400 ml-2">Supabase Powered</span>
+          <span className="text-xs text-gray-400 ml-2">Hybrid Search</span>
         </div>
       </div>
 

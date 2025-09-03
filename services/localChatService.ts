@@ -17,7 +17,7 @@ export class LocalChatService {
     this.initialized = true;
   }
 
-  async sendMessage(messages: ChatMessage[]): AsyncGenerator<string> {
+  async *sendMessage(messages: ChatMessage[]): AsyncGenerator<string> {
     if (!this.initialized) {
       await this.initialize();
     }

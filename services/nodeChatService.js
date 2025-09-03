@@ -79,13 +79,8 @@ export class LocalChatService {
       return this.getHelpMessage();
     }
 
-    // Check if we should use fallback for common queries even if we have search results
-    if (this.shouldUseFallback(query, contexts)) {
-      return this.generateFallbackResponse(query);
-    }
-
     // No relevant context found or very low relevance
-    if (contexts.length === 0 || contexts[0].score < 0.3) {
+    if (contexts.length === 0 || contexts[0].score < 0.25) {
       return this.generateFallbackResponse(query);
     }
 
@@ -177,103 +172,11 @@ Just ask naturally, and I'll find the relevant rules and explain them clearly!`;
     return sentences.slice(0, count).join(' ').trim();
   }
 
-  shouldUseFallback(query, contexts) {
-    const queryLower = query.toLowerCase();
-    
-    // Check for "how to win" queries that don't match well
-    if (queryLower.includes('how') && (queryLower.includes('win') || queryLower.includes('victory'))) {
-      // If the best match is about combat or other irrelevant topics, use fallback
-      const bestMatch = contexts[0];
-      if (bestMatch && bestMatch.score < 0.5) {
-        const content = (bestMatch.content || '').toLowerCase();
-        if (content.includes('combat') || content.includes('retreat') || content.includes('impossible')) {
-          return true;
-        }
-      }
-    }
-    
-    // Check for faction queries that don't match well
-    if (queryLower.includes('what') && (queryLower.includes('faction') || queryLower.includes('creuss'))) {
-      const bestMatch = contexts[0];
-      if (bestMatch && bestMatch.score < 0.6) {
-        // If it's just a specific FAQ about the faction rather than an overview, use fallback
-        if (bestMatch.isFAQ && bestMatch.question && bestMatch.question.length > 50) {
-          return true;
-        }
-      }
-    }
-    
-    return false;
-  }
 
   generateFallbackResponse(query) {
-    const queryLower = query.toLowerCase();
-    
-    // Handle common queries that might not have good vector matches
-    if (queryLower.includes('how') && (queryLower.includes('win') || queryLower.includes('victory'))) {
-      return `**How to Win Twilight Imperium 4:**
+    return `I couldn't find specific information about "${query}" in the rules database.
 
-The first player to accumulate **10 Victory Points** wins the game immediately.
-
-**Ways to Score Victory Points:**
-• **Public Objectives** - Revealed each round, usually worth 1-2 points each
-• **Secret Objectives** - Personal goals you draw, usually worth 1 point each
-• **Imperial Strategy Card** - Score 1 point for controlling Mecatol Rex
-• **Support for the Throne** - Trade other players' promissory notes for points
-• **Agenda Cards** - Some political outcomes award victory points
-• **Technology/Relics** - A few special items provide victory points
-
-**Strategy Tips:**
-• Focus on objectives early - they're your primary point source
-• Control Mecatol Rex when you have the Imperial card
-• Don't neglect secret objectives - they're often easier than public ones
-• Trading and diplomacy can be crucial for victory point exchanges`;
-    }
-    
-    if (queryLower.includes('creuss') || (queryLower.includes('ghost') && queryLower.includes('faction'))) {
-      return `**The Ghosts of Creuss:**
-
-The Ghosts of Creuss are a unique faction focused on **wormhole manipulation** and mobility.
-
-**Faction Abilities:**
-• **Quantum Entanglement** - You treat all systems that contain either an alpha or beta wormhole as adjacent to each other
-• **Slipstream** - After you activate a system that contains either an alpha or beta wormhole, place 1 of your ships from your reinforcements in that system
-• **Creuss Gate** - Your home system has a delta wormhole; the Creuss Gate system tile is placed in or adjacent to other players' home systems
-
-**Starting Technology:**
-• **Gravity Drive** - +1 movement to all ships
-
-**Faction Technologies:**
-• **Dimensional Splicer** - When you activate a system, you may remove 1 token from your fleet pool and return it to your reinforcements to place or move a Creuss wormhole token
-• **Wormhole Generator** - At the start of the status phase, place or move a Creuss wormhole token to a system that contains a planet you control
-
-**Unique Units:**
-• **Hil Colish** (flagship) - Movement 1, Combat 5(x2), Capacity 3; This ship's system contains a delta wormhole
-
-**Strategy:**
-• Use wormhole mobility to strike anywhere on the map
-• The Creuss Gate provides unique access to distant areas
-• Control key wormhole systems for maximum flexibility
-• Your mobility makes you excellent at objectives requiring presence in multiple areas`;
-    }
-    
-    return `I couldn't find specific rules about "${query}" in my database. Could you rephrase your question or ask about something else? 
-
-**Topics I can help with:**
-• Victory conditions and scoring  
-• Combat (space and ground)
-• Strategy cards and actions
-• Movement and fleet logistics  
-• Technology and upgrades
-• Political phase and voting
-• Trade and negotiations
-• Faction abilities and strategies
-
-**Try asking:**
-• "How do I win the game?"
-• "What does the [faction name] do?"
-• "How does space combat work?"
-• "When can I score objectives?"`;
+Please try rephrasing your question or being more specific. The database contains 503 entries covering all official rules and FAQ entries.`;
   }
 }
 

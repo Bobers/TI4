@@ -1,5 +1,5 @@
-import React, { useState, useCallback } from 'react';
-import { sendMessage } from './services/geminiService';
+import React, { useState, useCallback, useEffect } from 'react';
+import { localChatService } from './services/localChatService';
 import type { ChatMessage } from './types';
 import ChatInterface from './components/ChatInterface';
 import GalacticCodex from './components/GalacticCodex';
@@ -10,21 +10,31 @@ type ActiveTab = 'chat' | 'codex';
 
 const App: React.FC = () => {
   const [chatHistory, setChatHistory] = useState<ChatMessage[]>([
-    { role: 'bot', content: "Greetings, Commander. I have analyzed the Twilight Imperium rulebooks. How may I assist you with the laws of the galaxy?" }
+    { role: 'bot', content: "Greetings, Commander! I'm your Twilight Imperium 4 rules assistant. I can help explain rules, guide new players, and answer questions about gameplay. What would you like to know?" }
   ]);
   const [isStreaming, setIsStreaming] = useState<boolean>(false);
   const [activeTab, setActiveTab] = useState<ActiveTab>('chat');
   const [showTestRunner, setShowTestRunner] = useState<boolean>(false);
+  const [isInitializing, setIsInitializing] = useState<boolean>(true);
+
+  useEffect(() => {
+    localChatService.initialize().then(() => {
+      setIsInitializing(false);
+    }).catch(err => {
+      console.error('Failed to initialize chat service:', err);
+      setIsInitializing(false);
+    });
+  }, []);
 
   const handleSendMessage = useCallback(async (message: string) => {
-    if (isStreaming || !message.trim()) return;
+    if (isStreaming || !message.trim() || isInitializing) return;
 
     const newHistory: ChatMessage[] = [...chatHistory, { role: 'user', content: message }];
     setChatHistory(newHistory);
     setIsStreaming(true);
 
     try {
-      const stream = await sendMessage(newHistory);
+      const stream = localChatService.sendMessage(newHistory);
       let botMessage = '';
       
       setChatHistory(prev => [...prev, { role: 'bot', content: '' }]);
@@ -43,16 +53,16 @@ const App: React.FC = () => {
           const updated = [...prev];
           const lastMessage = updated[updated.length - 1];
           if (lastMessage.role === 'bot') {
-            lastMessage.content = 'An error occurred while communicating with the strategic command. Please try again.';
+            lastMessage.content = 'An error occurred. Please try again.';
           } else {
-            updated.push({ role: 'bot', content: 'An error occurred while communicating with the strategic command. Please try again.' });
+            updated.push({ role: 'bot', content: 'An error occurred. Please try again.' });
           }
           return updated;
       });
     } finally {
       setIsStreaming(false);
     }
-  }, [chatHistory, isStreaming]);
+  }, [chatHistory, isStreaming, isInitializing]);
 
   const TabButton: React.FC<{tabName: ActiveTab, label: string, icon: React.ReactNode}> = ({ tabName, label, icon }) => (
     <button
@@ -98,11 +108,18 @@ const App: React.FC = () => {
         
         <main className="w-full flex-grow flex flex-col">
           {activeTab === 'chat' && (
-            <ChatInterface 
-              chatHistory={chatHistory} 
-              isStreaming={isStreaming}
-              onSendMessage={handleSendMessage}
-            />
+            <>
+              {isInitializing && (
+                <div className="text-center py-8 text-cyan-300">
+                  <div className="animate-pulse">Loading vector database...</div>
+                </div>
+              )}
+              <ChatInterface 
+                chatHistory={chatHistory} 
+                isStreaming={isStreaming}
+                onSendMessage={handleSendMessage}
+              />
+            </>
           )}
           {activeTab === 'codex' && <GalacticCodex />}
         </main>

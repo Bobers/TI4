@@ -24,19 +24,30 @@ class SupabaseVectorService {
 
     try {
       console.log('🔄 Loading vector database from Supabase...');
+      console.log('Supabase URL:', import.meta.env.VITE_SUPABASE_URL);
       
       // Load vector entries from Supabase
-      const { data: entries, error } = await supabase
+      const { data: entries, error, status, statusText } = await supabase
         .from('vector_entries')
         .select('*')
         .order('id');
 
+      console.log('Supabase response status:', status, statusText);
+
       if (error) {
-        console.error('Supabase error:', error);
-        throw new Error(`Failed to load vector database: ${error.message}`);
+        console.error('Supabase error details:', {
+          message: error.message,
+          code: error.code,
+          details: error.details,
+          hint: error.hint,
+          status,
+          statusText
+        });
+        throw new Error(`Failed to load vector database: ${error.message} (${error.code})`);
       }
 
       if (!entries || entries.length === 0) {
+        console.error('No entries returned from Supabase');
         throw new Error('No vector entries found in database');
       }
 

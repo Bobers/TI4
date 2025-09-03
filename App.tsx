@@ -5,6 +5,7 @@ import ChatInterface from './components/ChatInterface';
 import GalacticCodex from './components/GalacticCodex';
 import { GalaxyIcon, BotIcon, BookOpenIcon, BugIcon } from './components/icons';
 // import TestRunner from './components/TestRunner'; // Disabled - requires Gemini API
+import packageJson from './package.json';
 
 type ActiveTab = 'chat' | 'codex';
 
@@ -84,8 +85,8 @@ const App: React.FC = () => {
       {/* Version tracker */}
       <div className="fixed top-4 left-4 z-10">
         <div className="bg-black/50 backdrop-blur-sm px-3 py-1 rounded-lg border border-cyan-500/30">
-          <span className="text-xs text-cyan-300 font-mono">v2.0.0</span>
-          <span className="text-xs text-gray-400 ml-2">FAQ Enhanced</span>
+          <span className="text-xs text-cyan-300 font-mono">v{packageJson.version}</span>
+          <span className="text-xs text-gray-400 ml-2">Supabase Powered</span>
         </div>
       </div>
 

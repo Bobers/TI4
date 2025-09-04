@@ -1,0 +1,112 @@
+{
+  "timestamp": "2025-09-04T19:51:12.445Z",
+  "summary": {
+    "total": 20,
+    "passed": 18,
+    "warnings": 2,
+    "failed": 0,
+    "passRate": "90.0"
+  },
+  "details": [
+    {
+      "name": "Environment: VITE_SUPABASE_URL",
+      "status": "pass",
+      "message": "configured"
+    },
+    {
+      "name": "Environment: VITE_SUPABASE_ANON_KEY",
+      "status": "pass",
+      "message": "configured"
+    },
+    {
+      "name": "Environment: Service Key",
+      "status": "pass",
+      "message": "configured (admin access)"
+    },
+    {
+      "name": "Supabase Connection",
+      "status": "pass",
+      "message": "Connected (363 entries)"
+    },
+    {
+      "name": "Hybrid Search RPC",
+      "status": "pass",
+      "message": "available"
+    },
+    {
+      "name": "Wiki Content",
+      "status": "pass",
+      "message": "147 entries"
+    },
+    {
+      "name": "FAQ Content",
+      "status": "pass",
+      "message": "216 entries"
+    },
+    {
+      "name": "GitHub Content",
+      "status": "warn",
+      "message": "no GitHub entries (Layer 2 not configured)"
+    },
+    {
+      "name": "Model Loading",
+      "status": "pass",
+      "message": "Xenova/all-MiniLM-L6-v2"
+    },
+    {
+      "name": "Embedding Generation",
+      "status": "pass",
+      "message": "384 dimensions"
+    },
+    {
+      "name": "Search: \"What are the Arborec faction a...\"",
+      "status": "pass",
+      "message": "found in wiki"
+    },
+    {
+      "name": "Search: \"Can fighters be produced durin...\"",
+      "status": "warn",
+      "message": "found but type/category mismatch"
+    },
+    {
+      "name": "Search: \"How does the status phase work...\"",
+      "status": "pass",
+      "message": "found in wiki"
+    },
+    {
+      "name": "Database Query Speed",
+      "status": "pass",
+      "message": "136ms"
+    },
+    {
+      "name": "Search Speed",
+      "status": "pass",
+      "message": "463ms"
+    },
+    {
+      "name": "Wiki Directory",
+      "status": "pass",
+      "message": "4 markdown files"
+    },
+    {
+      "name": "FAQ Data",
+      "status": "pass",
+      "message": "216 entries"
+    },
+    {
+      "name": "App File: App.tsx",
+      "status": "pass",
+      "message": "exists"
+    },
+    {
+      "name": "App File: supabaseVectorService.ts",
+      "status": "pass",
+      "message": "exists"
+    },
+    {
+      "name": "App File: supabase.ts",
+      "status": "pass",
+      "message": "exists"
+    }
+  ]
+}

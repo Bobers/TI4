@@ -1,16 +1,22 @@
 {
   "name": "twilight-imperium-rulemaster-ai",
   "private": true,
-  "version": "4.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "test": "node scripts/testSupabaseIntegration.js",
+    "test": "node scripts/testIntegration.js",
     "test:faq": "node scripts/testFAQIntegration.js",
     "test:chat": "node scripts/testChatService.js",
-    "test:all": "npm run test && npm run test:faq"
+    "test:integration": "node scripts/testIntegration.js",
+    "test:all": "npm run test:integration && npm run vector:test",
+    "vector:build": "node scripts/buildVectorDatabase.js",
+    "vector:clean": "node scripts/cleanAndRebuildVector.js",
+    "vector:update": "node scripts/githubUpdateLayer.js",
+    "vector:test": "node scripts/testWithFAQ.js",
+    "vector:webhook": "node scripts/githubUpdateLayer.js --webhook"
   },
   "dependencies": {
     "@google/genai": "^1.16.0",

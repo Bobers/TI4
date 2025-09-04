@@ -1,0 +1,356 @@
+{
+  "timestamp": "2025-09-04T19:51:38.863Z",
+  "summary": {
+    "accuracy": "100.0",
+    "exactMatches": 30,
+    "partialMatches": 0,
+    "failures": 0,
+    "total": 30
+  },
+  "byCategory": {
+    "Units & Unit Abilities": {
+      "total": 5,
+      "correct": 5,
+      "partial": 0
+    },
+    "Technology": {
+      "total": 1,
+      "correct": 1,
+      "partial": 0
+    },
+    "General - Strategy Card - Trade - Technology - Neural Motivator - Path of Movement - Movement Abilities": {
+      "total": 4,
+      "correct": 4,
+      "partial": 0
+    },
+    "Objectives": {
+      "total": 2,
+      "correct": 2,
+      "partial": 0
+    },
+    "Agendas": {
+      "total": 3,
+      "correct": 3,
+      "partial": 0
+    },
+    "General": {
+      "total": 1,
+      "correct": 1,
+      "partial": 0
+    },
+    "General - Strategy Card - Trade - Technology - Neural Motivator": {
+      "total": 2,
+      "correct": 2,
+      "partial": 0
+    },
+    "Factions - The Clan of Saar": {
+      "total": 1,
+      "correct": 1,
+      "partial": 0
+    },
+    "Factions - The Council Keleres": {
+      "total": 1,
+      "correct": 1,
+      "partial": 0
+    },
+    "Exploration": {
+      "total": 1,
+      "correct": 1,
+      "partial": 0
+    },
+    "Action Cards": {
+      "total": 4,
+      "correct": 4,
+      "partial": 0
+    },
+    "Factions - The Xxcha Kingdom": {
+      "total": 1,
+      "correct": 1,
+      "partial": 0
+    },
+    "Factions - The Barony of Letnev": {
+      "total": 1,
+      "correct": 1,
+      "partial": 0
+    },
+    "General - Strategy Card - Trade": {
+      "total": 2,
+      "correct": 2,
+      "partial": 0
+    },
+    "Factions - The Nekro Virus": {
+      "total": 1,
+      "correct": 1,
+      "partial": 0
+    }
+  },
+  "configurations": {
+    "Semantic Only": {
+      "accuracy": "100.0%",
+      "correct": 10,
+      "total": 10
+    },
+    "Full-text Only": {
+      "accuracy": "100.0%",
+      "correct": 10,
+      "total": 10
+    },
+    "Balanced (50/50)": {
+      "accuracy": "100.0%",
+      "correct": 10,
+      "total": 10
+    },
+    "Semantic Heavy (70/30)": {
+      "accuracy": "100.0%",
+      "correct": 10,
+      "total": 10
+    },
+    "Full-text Heavy (70/30)": {
+      "accuracy": "100.0%",
+      "correct": 10,
+      "total": 10
+    }
+  },
+  "details": [
+    {
+      "question": "What happens to infantry that would be placed on a planet in any player's home system by the effect of the \"Infantry II\" unit upgrade technology if the player does not own any planets in their home system?",
+      "expectedAnswer": "When those infantry would be placed on a home planet, they are returned to that player's reinforcements instead",
+      "matchFound": true,
+      "partialMatch": false,
+      "matchRank": 1,
+      "topResult": "When those infantry would be placed on a home planet, they are returned to that player's reinforcements instead"
+    },
+    {
+      "question": "What is the interaction between Deadly Plot and prediction abilities, given that Deadly Plot specifically says “resolved with no effect”.",
+      "expectedAnswer": "“Resolved with no effect” is not an outcome that could have been predicted, so no prediction abilities can trigger.",
+      "matchFound": true,
+      "partialMatch": false,
+      "matchRank": 1,
+      "topResult": "“Resolved with no effect” is not an outcome that could have been predicted, so no prediction abilities can trigger."
+    },
+    {
+      "question": "Please confirm rules regarding Transport and Movement Abilities (L1Z1X Hero, Argent Hero, Mahact Hero).",
+      "expectedAnswer": "The LRR will be updated to reflect that transportation of units out of systems that contain your command tokens are only applicable during tactical actions. During Movement abilities, you can transport units out of systems that contain your tokens. Replace v. Remove and Place",
+      "matchFound": true,
+      "partialMatch": false,
+      "matchRank": 1,
+      "topResult": "The LRR will be updated to reflect that transportation of units out of systems that contain your command tokens are only applicable during tactical actions. During Movement abilities, you can transport units out of systems that contain your tokens. Replace v. Remove and Place"
+    },
+    {
+      "question": "Can you resolve the \"Impersonation\" action card to draw a secret objective if you are already at your limit of scored secret objectives?",
+      "expectedAnswer": "Yes, you could draw an additional secret but would then need to return it and shuffle the secret objective deck",
+      "matchFound": true,
+      "partialMatch": false,
+      "matchRank": 1,
+      "topResult": "Yes, you could draw an additional secret but would then need to return it and shuffle the secret objective deck"
+    },
+    {
+      "question": "During a revote initiated by the “Miscount Disclosed” agenda, does the law that is being voted on remain active and in play?",
+      "expectedAnswer": "Yes, the law that is being voted on because of “Miscount Disclosed” remains in play during the revote.",
+      "matchFound": true,
+      "partialMatch": false,
+      "matchRank": 1,
+      "topResult": "Yes, the law that is being voted on because of “Miscount Disclosed” remains in play during the revote."
+    },
+    {
+      "question": "Are the “0” faces of the ten-sided dice included with the game intended to represent the result of a “10”?",
+      "expectedAnswer": "Yes, the “0” face is a “10” result. Commodities",
+      "matchFound": true,
+      "partialMatch": false,
+      "matchRank": 1,
+      "topResult": "Yes, the “0” face is a “10” result. Commodities"
+    },
+    {
+      "question": "Does another player having my “Trade Agreement” promissory note count for the secret objectives “Strengthen Bonds” or “Betray a Friend”?",
+      "expectedAnswer": "No, only promissory notes that specifically instruct that player to place them in their play area count for these objectives.",
+      "matchFound": true,
+      "partialMatch": false,
+      "matchRank": 1,
+      "topResult": "No, only promissory notes that specifically instruct that player to place them in their play area count for these objectives."
+    },
+    {
+      "question": "Can abilities that trigger “at the start of a combat” be played in combats you are not participating in?",
+      "expectedAnswer": "No, any “at the start of a combat” abilities must be played during a combat you are participating in.",
+      "matchFound": true,
+      "partialMatch": false,
+      "matchRank": 1,
+      "topResult": "No, any “at the start of a combat” abilities must be played during a combat you are participating in."
+    },
+    {
+      "question": "In regards to timing, is “after x” distinct from “before y” or are they the same timing?",
+      "expectedAnswer": "They are distinct. “After x” happens before “before y”",
+      "matchFound": true,
+      "partialMatch": false,
+      "matchRank": 4,
+      "topResult": "Yes. For example, a promissory note with “At the start of your turn:” timing may be immediately played if the transaction occurred within the “start of turn” timing window"
+    },
+    {
+      "question": "Can a player cast ‘0’ votes “For” or “Against” on an agenda instead of abstaining, in order to take advantage of effects associated with that option?",
+      "expectedAnswer": "No. A vote of ‘0’ is the same as abstaining; that player gains no positive or negative effects of voting “For” or “Against” on an agenda if he contributed ‘0’ votes.",
+      "matchFound": true,
+      "partialMatch": false,
+      "matchRank": 1,
+      "topResult": "No. A vote of ‘0’ is the same as abstaining; that player gains no positive or negative effects of voting “For” or “Against” on an agenda if he contributed ‘0’ votes."
+    },
+    {
+      "question": "If a player has multiple planets with PDS that are being invaded in a single system, does the “Plasma Scoring” technology add one die to each planet’s space cannon roll or for only one planet’s space cannon roll?",
+      "expectedAnswer": "The “Plasma Scoring” technology adds one die for each planet’s “Space Cannon” roll.",
+      "matchFound": true,
+      "partialMatch": false,
+      "matchRank": 1,
+      "topResult": "The “Plasma Scoring” technology adds one die for each planet’s “Space Cannon” roll."
+    },
+    {
+      "question": "Can PDS II fire through wormholes using their ability \"Deep Space Cannon\"?",
+      "expectedAnswer": "Yes. Deep Space cannon may be fired through wormholes as those systems are adjacent",
+      "matchFound": true,
+      "partialMatch": false,
+      "matchRank": 1,
+      "topResult": "Yes. Deep Space cannon may be fired through wormholes as those systems are adjacent"
+    },
+    {
+      "question": "Can the Clan of Saar’s “Chaos Mapping” faction-specific technology be used on the turn that the Saar player passes?",
+      "expectedAnswer": "Yes, “Chaos Mapping” can be used on the turn that a player passes.",
+      "matchFound": true,
+      "partialMatch": false,
+      "matchRank": 1,
+      "topResult": "Yes, “Chaos Mapping” can be used on the turn that a player passes."
+    },
+    {
+      "question": "When leaving a Nebula, is Clan of Saar’s agent, Mendosa, applied as a bonus or setting the move value?",
+      "expectedAnswer": "The Nebula section of the LRR will be edited to reflect changing the printed move value of a unit to 1, Mendosa would be treated as a bonus and would override the Nebula’s movement value rule.",
+      "matchFound": true,
+      "partialMatch": false,
+      "matchRank": 1,
+      "topResult": "The Nebula section of the LRR will be edited to reflect changing the printed move value of a unit to 1, Mendosa would be treated as a bonus and would override the Nebula’s movement value rule."
+    },
+    {
+      "question": "What happens to captured units when the owner is eliminated?",
+      "expectedAnswer": "Captured units remain on the sheet of the player that captured them. If they would ever be returned to the eliminated player, they are returned to the game box instead",
+      "matchFound": true,
+      "partialMatch": false,
+      "matchRank": 1,
+      "topResult": "Captured units remain on the sheet of the player that captured them. If they would ever be returned to the eliminated player, they are returned to the game box instead"
+    },
+    {
+      "question": "How do Nova Seed and Singularity Reactor interact with tokens (e.g. wormholes, Mirage)?",
+      "expectedAnswer": "Nova Seed also purges all tokens, any faction specific tokens are returned to that faction. Singularity Reactor causes all tokens to stay with the tile as it moves to its new destination.",
+      "matchFound": true,
+      "partialMatch": false,
+      "matchRank": 1,
+      "topResult": "Nova Seed also purges all tokens, any faction specific tokens are returned to that faction. Singularity Reactor causes all tokens to stay with the tile as it moves to its new destination."
+    },
+    {
+      "question": "Is the trigger for the “Minister of War” agenda card’s ability “performing an action”?",
+      "expectedAnswer": "Yes. Performing any action is the trigger for the remainder of the “Minister of War” agenda card’s ability.",
+      "matchFound": true,
+      "partialMatch": false,
+      "matchRank": 1,
+      "topResult": "Yes. Performing any action is the trigger for the remainder of the “Minister of War” agenda card’s ability."
+    },
+    {
+      "question": "Can a transaction be performed in the middle of an exploration?",
+      "expectedAnswer": "Yes, transactions may occur after an exploration card is revealed, before the effect is resolved, but other abilities may not be used until after the effect is resolved.",
+      "matchFound": true,
+      "partialMatch": false,
+      "matchRank": 1,
+      "topResult": "Yes, transactions may occur after an exploration card is revealed, before the effect is resolved, but other abilities may not be used until after the effect is resolved."
+    },
+    {
+      "question": "Can the “Direct Hit” action cards be played when a ship uses “Sustain Damage” to cancel a hit produced by one of your abilities?",
+      "expectedAnswer": "Yes. “Direct Hit” can be used to follow up hits that are assigned by “Ambush,” “Dimensional Splicer,” “Devotion,” and other similar abilities.",
+      "matchFound": true,
+      "partialMatch": false,
+      "matchRank": 1,
+      "topResult": "Yes. “Direct Hit” can be used to follow up hits that are assigned by “Ambush,” “Dimensional Splicer,” “Devotion,” and other similar abilities."
+    },
+    {
+      "question": "When you exceed the number of plastic infantry/fighters available, are unaccompanied tokens removed or destroyed?",
+      "expectedAnswer": "Removed. Timing",
+      "matchFound": true,
+      "partialMatch": false,
+      "matchRank": 1,
+      "topResult": "Removed. Timing"
+    },
+    {
+      "question": "Can abilities that destroy units, such as the “Lucky Shot” action card, be used by a player against their own units or planets?",
+      "expectedAnswer": "No. “Lucky Shot” and other similar effects can only be used against other player’s units and planets.",
+      "matchFound": true,
+      "partialMatch": false,
+      "matchRank": 2,
+      "topResult": "Agendas\n\nOverview\nAgenda cards represent galactic laws and policies that are voted on during the agenda phase. Each agenda card lists multiple possible outcomes for which players can vote.\n\nThere are two types of agenda cards: laws and directives.\n\nTypes of Agendas\n\nLaws\n- Laws can permanently change the rules of the game.\n- If a law is enacted, players resolve the outcome and place the agenda card either in the common play area or in a player's play area, as dictated by the card.\n- If a law is in a player's play area as opposed to the common play area, that player owns that law.\n- Laws remain in play for the remainder of the game, and their effects continue to apply during that game.\n\nDirectives\n- Directives provide one-time game effects.\n- Players resolve the outcome that received the most votes and discard the agenda card.\n\nLaw Agenda Cards\n\nAnti-Intellectual Revolution\n- Type: Law\n- FOR: After a player researches a technology, they must destroy 1 of their non-fighter ships.\n- AGAINST: At the start of the next strategy phase, each player chooses and exhausts 1 planet for each technology they own.\n\nArms Reduction\n- Type: Law\n- Elect: Planet with 3+ ground forces\n- Effect: The elected planet's controller destroys all but 2 ground forces on that planet and places 2 mech units on that planet. Then discard this card.\n\nChecks and Balances\n- Type: Law\n- FOR: When a player readies planets, they choose 1 planet they control. It does not ready.\n- AGAINST: Each player readies 1 exhausted planet they control.\n\nClassified Document Leaks\n- Type: Law\n- Elect: Scored Secret Objective\n- Effect: The elected secret objective becomes a public objective. Place it near the other public objectives.\n\nColonial Redistribution\n- Type: Law\n- Elect: Non-home planet controlled by a player\n- Effect: The elected planet's controller destroys all ground forces on that planet and gives control of that planet to the player who has the fewest victory points.\n\nCommittee Formation\n- Type: Law\n- Elect: Player\n- Effect: The elected player gains this card and 1 victory point. This card counts as a law that affects its owner.\n\nCompensated Disarmament\n- Type: Law\n- Elect: Planet with ground forces\n- Effect: The elected planet's controller destroys all ground forces on that planet and gains trade goods equal to the number of ground forces destroyed.\n\nConventions of War\n- Type: Law\n- FOR: Players cannot use BOMBARDMENT against units on cultural planets.\n- AGAINST: Each player that voted \"Against\" discards all of their action cards.\n\nCore Mining\n- Type: Law\n- Elect: Hazardous planet\n- Effect: The resource value of the elected planet is increased by 2.\n\nCorrupt Government\n- Type: Law\n- FOR: Draw and reveal the top card from the agenda deck. The outcome that received the fewest votes is resolved. Then discard both agenda cards.\n- AGAINST: Discard this card.\n\nCovert Legislation\n- Type: Law\n- Elect: When voting on this agenda, predict aloud \"For\" or \"Against\"\n- Effect: Players do not reveal their votes until after all players have voted. Reveal and resolve votes as normal. Each player that did not vote for the outcome that received the most votes must place 1 command token from their fleet pool on their faction sheet, if able. Return this card to the agenda deck and shuffle the deck.\n\nDemilitarized Zone\n- Type: Law\n- Elect: Planet controlled by a player that is in a home system or is adjacent to Mecatol Rex\n- Effect: The elected planet's controller destroys all units on that planet. Units cannot be committed to, produced on, or placed on the elected planet.\n\nEconomic Equality\n- Type: Law\n- FOR: Each player returns all of their trade goods to the supply. Then, each player gains 5 trade goods.\n- AGAINST: Each player returns all of their trade goods to the supply.\n\nEnforced Travel Ban\n- Type: Law\n- FOR: Alpha and beta wormholes have no effect during movement.\n- AGAINST: Destroy each PDS in or adjacent to a system that contains a wormhole.\n\nExecutive Sanctions\n- Type: Law\n- FOR: Each player can have a maximum of 3 action cards in their hand.\n- AGAINST: Each player discards 1 random action card from their hand.\n\nFleet Regulations\n- Type: Law\n- FOR: Each player cannot have more than 4 tokens in their fleet pool.\n- AGAINST: Each player places 1 command token from their reinforcements in their fleet pool.\n\nHomeland Defense Act\n- Type: Law\n- FOR: Each player can have any number of PDS units on planets they control.\n- AGAINST: Each player destroys 1 of their PDS unit.\n\nHoly Planet of Ixth\n- Type: Law\n- Elect: Cultural planet\n- Effect: The elected planet's controller gains 1 victory point. The resource and influence values of the elected planet are each increased by 1.\n\nHomeland Research Initiative\n- Type: Law\n- Elect: Industrial planet controlled by a player\n- Effect: The elected planet's controller places 3 infantry from their reinforcements on that planet and researches 1 technology.\n\nIxthian Artifact\n- Type: Law\n- Elect: Player\n- Effect: Roll 1 die. If the resu"
+    },
+    {
+      "question": "When playing the “Upgrade” action card, does the cruiser already have to be present in the active system?",
+      "expectedAnswer": "Yes. The cruiser must already be in the activated system.",
+      "matchFound": true,
+      "partialMatch": false,
+      "matchRank": 1,
+      "topResult": "Yes. The cruiser must already be in the activated system."
+    },
+    {
+      "question": "For the Xxcha Kingdom hero, Political Data Nexus Omega, unlock condition; what is the order of scoring public and secret objectives? Can the hero be unlocked in between these?",
+      "expectedAnswer": "Scoring in the status phase is done all at once, the unlock condition of heroes is not checked until the score objectives step of the status phase is complete.",
+      "matchFound": true,
+      "partialMatch": false,
+      "matchRank": 1,
+      "topResult": "Scoring in the status phase is done all at once, the unlock condition of heroes is not checked until the score objectives step of the status phase is complete."
+    },
+    {
+      "question": "Can War Funding Omega be used on Anti-Fighter Barrage rolls? How about Munitions Reserves?",
+      "expectedAnswer": "No, War Funding Omega, War Funding, Munitions Reserves and Crown of Thalnos, are specific to combat rolls.",
+      "matchFound": true,
+      "partialMatch": false,
+      "matchRank": 1,
+      "topResult": "No, War Funding Omega, War Funding, Munitions Reserves and Crown of Thalnos, are specific to combat rolls."
+    },
+    {
+      "question": "If a player would refresh their commodities but already has the maximum amount, can another player still play that player’s “Trade Agreement” promissory note against them?",
+      "expectedAnswer": "Yes. Even if that player gains zero commodities when their commodities are refreshed, their “Trade Agreement” may still be played against them Unit Transportation",
+      "matchFound": true,
+      "partialMatch": false,
+      "matchRank": 1,
+      "topResult": "Yes. Even if that player gains zero commodities when their commodities are refreshed, their “Trade Agreement” may still be played against them Unit Transportation"
+    },
+    {
+      "question": "Does the Anti-Fighter Barrage step occur even if the opposing player has no fighters?",
+      "expectedAnswer": "Yes",
+      "matchFound": true,
+      "partialMatch": false,
+      "matchRank": 1,
+      "topResult": "Yes"
+    },
+    {
+      "question": "If the Universities of Jol-Nar player replaces a faction technology with their hero, what happens if the Nekro Virus player had a Valefar Assimilator token on it?",
+      "expectedAnswer": "The token stays on the tech in the tech-deck and Valefar Assimilator still has that technology’s text.",
+      "matchFound": true,
+      "partialMatch": false,
+      "matchRank": 1,
+      "topResult": "The token stays on the tech in the tech-deck and Valefar Assimilator still has that technology’s text."
+    },
+    {
+      "question": "If a unit is damaged, and is “removed and placed” from the board via a game effect, does it come back repaired or does it remain damaged.",
+      "expectedAnswer": "If it is being removed and placed via an ability such as Transit Diodes it stays in the same state. If it is produced, placed, or replaced which would require a remove and place it is no longer damaged.",
+      "matchFound": true,
+      "partialMatch": false,
+      "matchRank": 1,
+      "topResult": "If it is being removed and placed via an ability such as Transit Diodes it stays in the same state. If it is produced, placed, or replaced which would require a remove and place it is no longer damaged."
+    },
+    {
+      "question": "Can you intentionally reveal hidden information to another player, such as an action card from your hand or your secret objective?",
+      "expectedAnswer": "Yes. This information is hidden by default but may be revealed to another player if desired Transacted Component Timing",
+      "matchFound": true,
+      "partialMatch": false,
+      "matchRank": 3,
+      "topResult": "Yes, you could draw an additional secret but would then need to return it and shuffle the secret objective deck"
+    },
+    {
+      "question": "Can “Sustain Damage” be used against the “Courageous to the End” action card?",
+      "expectedAnswer": "No, “Courageous to the End” does not produce hits.",
+      "matchFound": true,
+      "partialMatch": false,
+      "matchRank": 1,
+      "topResult": "No, “Courageous to the End” does not produce hits."
+    }
+  ]
+}

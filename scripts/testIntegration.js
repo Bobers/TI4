@@ -139,29 +139,27 @@ async function testVectorContent() {
       typeCounts[t.type] = (typeCounts[t.type] || 0) + 1;
     });
     
-    // Check wiki content
-    if (typeCounts.wiki >= 100) {
-      logTest('Wiki Content', 'pass', `${typeCounts.wiki} entries`);
+    // Check wiki content (Layer 1)
+    if (typeCounts.wiki >= 140) {
+      logTest('Wiki Content (Layer 1)', 'pass', `${typeCounts.wiki} entries`);
     } else if (typeCounts.wiki > 0) {
-      logTest('Wiki Content', 'warn', `Only ${typeCounts.wiki} entries (expected 147+)`);
+      logTest('Wiki Content (Layer 1)', 'warn', `Only ${typeCounts.wiki} entries (expected 147)`);
     } else {
-      logTest('Wiki Content', 'fail', 'no wiki entries found');
+      logTest('Wiki Content (Layer 1)', 'fail', 'no wiki entries found');
     }
     
-    // Check FAQ content
-    if (typeCounts.faq >= 200) {
-      logTest('FAQ Content', 'pass', `${typeCounts.faq} entries`);
-    } else if (typeCounts.faq > 0) {
-      logTest('FAQ Content', 'warn', `Only ${typeCounts.faq} entries (expected 216+)`);
-    } else {
-      logTest('FAQ Content', 'fail', 'no FAQ entries found');
-    }
-    
-    // Check for GitHub content
+    // Check for GitHub content (Layer 2)
     if (typeCounts.github > 0) {
-      logTest('GitHub Content', 'pass', `${typeCounts.github} entries`);
+      logTest('GitHub Content (Layer 2)', 'pass', `${typeCounts.github} entries`);
     } else {
-      logTest('GitHub Content', 'warn', 'no GitHub entries (Layer 2 not configured)');
+      logTest('GitHub Content (Layer 2)', 'warn', 'Layer 2 not configured');
+    }
+    
+    // FAQ should NOT be in main database
+    if (typeCounts.faq > 0) {
+      logTest('FAQ Separation', 'fail', `${typeCounts.faq} FAQ entries found (should be separate)`);
+    } else {
+      logTest('FAQ Separation', 'pass', 'FAQ correctly separated from main content');
     }
     
   } catch (error) {

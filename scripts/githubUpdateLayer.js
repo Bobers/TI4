@@ -24,9 +24,9 @@ const supabase = createClient(
 const MODEL_NAME = 'Xenova/all-MiniLM-L6-v2';
 let extractor;
 
-// GitHub repo URL
+// GitHub repo URL - TI Assistant with rules and content
 const GITHUB_REPO = 'https://github.com/ti-assistant/ti-assistant';
-const LOCAL_REPO_PATH = path.join(__dirname, '../../tirules-main');
+const LOCAL_REPO_PATH = path.join(__dirname, '../../ti-assistant');
 
 // Initialize the embedding model
 async function initModel() {

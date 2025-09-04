@@ -202,10 +202,13 @@ async function processWikiFiles() {
   return entries;
 }
 
-// Process FAQ entries
+// Process FAQ entries - DISABLED: FAQ should be separate from main content
 async function processFAQEntries() {
-  console.log('\n📋 PROCESSING FAQ ENTRIES...');
+  console.log('\n📋 FAQ PROCESSING SKIPPED (FAQ is for testing only)');
+  return [];
   
+  // Original code kept for reference but disabled
+  /*
   const faqPath = path.join(__dirname, '../data/faqEntries.json');
   if (!fs.existsSync(faqPath)) {
     console.log('  ⚠️  FAQ file not found');
@@ -213,36 +216,8 @@ async function processFAQEntries() {
   }
   
   const faqData = JSON.parse(fs.readFileSync(faqPath, 'utf-8'));
-  const entries = [];
-  
-  console.log(`  📊 Processing ${faqData.length} FAQ entries...`);
-  
-  for (let i = 0; i < faqData.length; i++) {
-    const faq = faqData[i];
-    
-    // Show progress every 10 entries
-    if (i % 10 === 0) {
-      console.log(`    Processing ${i}/${faqData.length}...`);
-    }
-    
-    const searchableText = `FAQ: ${faq.question}\nAnswer: ${faq.answer}`;
-    const embedding = await generateEmbedding(searchableText);
-    
-    entries.push({
-      title: faq.question,
-      content: faq.answer,
-      text: searchableText,
-      category: faq.category || 'FAQ',
-      type: 'faq',
-      source: 'official_faq',
-      question: faq.question,
-      answer: faq.answer,
-      embedding
-    });
-  }
-  
-  console.log(`  ✅ Processed ${entries.length} FAQ entries`);
-  return entries;
+  // ... rest of the original code
+  */
 }
 
 // Upload entries to Supabase
@@ -326,15 +301,16 @@ async function main() {
     // Step 1: Clean the database
     await cleanDatabase();
     
-    // Step 2: Process wiki files
+    // Step 2: Process wiki files (Layer 1)
     const wikiEntries = await processWikiFiles();
     
-    // Step 3: Process FAQ entries
+    // Step 3: Skip FAQ (FAQ is for testing only, not part of main content)
     const faqEntries = await processFAQEntries();
     
-    // Step 4: Combine all entries
-    const allEntries = [...wikiEntries, ...faqEntries];
-    console.log(`\n📊 Total entries prepared: ${allEntries.length}`);
+    // Step 4: Only use wiki entries (Layer 1)
+    // Layer 2 (GitHub) would be added via separate update script
+    const allEntries = [...wikiEntries];
+    console.log(`\n📊 Total entries prepared: ${allEntries.length} (Wiki Layer 1 only)`);
     
     // Step 5: Upload to Supabase
     await uploadToSupabase(allEntries);

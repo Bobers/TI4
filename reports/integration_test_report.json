@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-04T19:51:12.445Z",
+  "timestamp": "2025-09-04T20:15:12.659Z",
   "summary": {
     "total": 20,
     "passed": 18,
@@ -26,7 +26,7 @@
     {
       "name": "Supabase Connection",
       "status": "pass",
-      "message": "Connected (363 entries)"
+      "message": "Connected (147 entries)"
     },
     {
       "name": "Hybrid Search RPC",
@@ -34,19 +34,19 @@
       "message": "available"
     },
     {
-      "name": "Wiki Content",
+      "name": "Wiki Content (Layer 1)",
       "status": "pass",
       "message": "147 entries"
     },
     {
-      "name": "FAQ Content",
-      "status": "pass",
-      "message": "216 entries"
+      "name": "GitHub Content (Layer 2)",
+      "status": "warn",
+      "message": "Layer 2 not configured"
     },
     {
-      "name": "GitHub Content",
-      "status": "warn",
-      "message": "no GitHub entries (Layer 2 not configured)"
+      "name": "FAQ Separation",
+      "status": "pass",
+      "message": "FAQ correctly separated from main content"
     },
     {
       "name": "Model Loading",
@@ -76,12 +76,12 @@
     {
       "name": "Database Query Speed",
       "status": "pass",
-      "message": "136ms"
+      "message": "215ms"
     },
     {
       "name": "Search Speed",
       "status": "pass",
-      "message": "463ms"
+      "message": "493ms"
     },
     {
       "name": "Wiki Directory",

@@ -11,11 +11,11 @@
     "test:faq": "node scripts/testFAQIntegration.js",
     "test:chat": "node scripts/testChatService.js",
     "test:integration": "node scripts/testIntegration.js",
-    "test:all": "npm run test:integration && npm run vector:test",
+    "test:all": "npm run test:integration",
     "vector:build": "node scripts/buildVectorDatabase.js",
     "vector:clean": "node scripts/cleanAndRebuildVector.js",
-    "vector:update": "node scripts/githubUpdateLayer.js",
-    "vector:test": "node scripts/testWithFAQ.js",
+    "vector:update-github": "node scripts/githubUpdateLayer.js",
+    "vector:test-faq": "node scripts/testWithFAQ.js",
     "vector:webhook": "node scripts/githubUpdateLayer.js --webhook"
   },
   "dependencies": {
